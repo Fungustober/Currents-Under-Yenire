@@ -398,8 +398,8 @@
 	    {
 	        "name": "Solemn Conversation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{W}",
-	        "type": "Sorcery",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Solemn%20Conversation.png?raw=true"
 	        }
@@ -522,12 +522,12 @@
 	        }
 	    },
 	    {
-	        "name": "Hatching Grounds Protector",
+	        "name": "Intimidating Crustacean",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Homarid Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hatching%20Grounds%20Protector.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Intimidating%20Crustacean.png?raw=true"
 	        }
 	    },
 	    {
@@ -666,12 +666,12 @@
 	        }
 	    },
 	    {
-	        "name": "Lagoon Despot",
+	        "name": "Capricious Serpent",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Serpent ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Lagoon%20Despot.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Capricious%20Serpent.png?raw=true"
 	        }
 	    },
 	    {
@@ -785,7 +785,7 @@
 	    {
 	        "name": "Legacy of Chyklis",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Legacy%20of%20Chyklis.png?raw=true"
@@ -1917,12 +1917,12 @@
 	        }
 	    },
 	    {
-	        "name": "Hadanu's Mediation",
+	        "name": "Hadanu's Arbitration",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{R/W}{R/W}",
+	        "mana_cost": "{2}{R/W}{R/W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hadanu%27s%20Mediation.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hadanu%27s%20Arbitration.png?raw=true"
 	        }
 	    },
 	    {
@@ -2679,7 +2679,7 @@
 	        "name": "Allonymous Tyranny",
 	        "rarity": "mythic",
 	        "mana_cost": "{3}{B}{G}{U}",
-	        "type": "Sorcery",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Allonymous%20Tyranny.png?raw=true"
 	        }
@@ -2712,12 +2712,12 @@
 	        }
 	    },
 	    {
-	        "name": "Submersed Chasm",
+	        "name": "Flooded Chasm",
 	        "rarity": "rare",
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Submersed%20Chasm.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Flooded%20Chasm.png?raw=true"
 	        }
 	    },
 	    {
@@ -2805,7 +2805,7 @@
 		2 Thülendan of New Vargoth
 		2 Form of the Faceless
 		2 Fleshthresher
-		2 Hadanu's Mediation
+		2 Hadanu's Arbitration
 		2 Chyklis, Rostrum-Clan Onolich
 		2 Homarid Formstealer
 		2 Dactylus-Clan Titan
@@ -2937,7 +2937,7 @@
 		6 Infantilize
 		6 Root Nautilus
 		6 Opt
-		6 Hatching Grounds Protector
+		6 Intimidating Crustacean
 		6 Tidehopper Regent
 		6 Homarid Arcanist
 		6 Negate
@@ -2953,7 +2953,7 @@
 		6 Blessing of the Depths
 		6 Orcish Stalwart
 		6 Sanctuary Instigator
-		6 Lagoon Despot
+		6 Capricious Serpent
 		6 Resolute Vestiges
 		6 Work Together
 		6 Infuriated Starfish
@@ -3063,7 +3063,7 @@
 		1 Neglected Prison
 		1 Volcanic Cascade
 		1 Vibrant Habitat
-		1 Submersed Chasm
+		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
 	
