@@ -577,7 +577,7 @@
 	    },
 	    {
 	        "name": "Abyssal Growth",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -632,7 +632,7 @@
 	    {
 	        "name": "Unscrupulous Authority",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Merfolk Advisor ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Unscrupulous%20Authority.png?raw=true"
@@ -1080,12 +1080,12 @@
 	        }
 	    },
 	    {
-	        "name": "Sunken City",
+	        "name": "Waterlogged City",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sunken%20City.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Waterlogged%20City.png?raw=true"
 	        }
 	    },
 	    {
@@ -1522,7 +1522,7 @@
 	    },
 	    {
 	        "name": "Favor of the the Depths",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Enchantment — Aura Influence ",
 	        "image_uris": {
@@ -2504,7 +2504,7 @@
 	    {
 	        "name": "Unnatural Nascency",
 	        "rarity": "common",
-	        "mana_cost": "{W/B}{W/B}",
+	        "mana_cost": "{1}{W/B}{W/B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Unnatural%20Nascency.png?raw=true"
@@ -2841,6 +2841,7 @@
 		3 Rostrum-Clan Recruiter
 		3 Timid Cultivator
 		3 Solemn Conversation
+		3 Abyssal Growth
 		3 Amorphous Helm
 		3 Despise
 		3 Atlistan Historian
@@ -2861,7 +2862,6 @@
 		3 Hadal-Deep Stalker
 		3 Atlista Cutthroat
 		3 Scion of the Depths
-		3 Favor of the the Depths
 		3 End of Identity
 		3 Sway of the Depths
 		3 Ebbing of the Mind
@@ -2943,7 +2943,6 @@
 		6 Negate
 		6 Duress
 		6 Bloodthirsty Squid
-		6 Abyssal Growth
 		6 Mentor's Blood
 		6 Crush Mind
 		6 Deadly Deceit
@@ -2998,7 +2997,7 @@
 		6 Dwimmersea Scrounger
 		6 Daring Scavenger
 		6 Purposeful Charge
-		6 Sunken City
+		6 Waterlogged City
 		6 Shell of the Derelict
 		6 Corpse Cache
 		6 Vivien's Journal
@@ -3010,6 +3009,7 @@
 		6 Abandoned Implement
 		6 Ancestral Might
 		6 Ancestor-Blessed Blade
+		6 Favor of the the Depths
 		6 Deep-Spawn Ink-Breather
 		6 Settlement Betrayer
 		6 Custodians of Yenire
