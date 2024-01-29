@@ -1,0 +1,3722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>YNE</name>
+<longname>Currents Under Yenire</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Spy Kit</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 and has all names of nonlegendary creature cards in addition to its other names.
+Equip 2</text>
+</card>
+<card>
+ <name>Invocation Stones</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>5, T, Sacrifice Invocation Stones: Draw two cards. You gain 2 life.
+7, T, Sacrifice Invocation Stones: Destroy target nonland permanent.
+9, T, Sacrifice Invocation Stones: Invocation Stones deals 7 damage to target player.</text>
+</card>
+<card>
+ <name>Orb of Conformity</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Creatures lose all abilities.
+At the beginning of each player’s end step, that player loses 1 life for each creature they control.</text>
+</card>
+<card>
+ <name>Sanctuary Scavenger</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Orc Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+You may pay 1R to cast this spell. If you do, it gets +2/+0 and gains “At the beginning of the next end step, return Sanctuary Scavenger to your hand.”</text>
+</card>
+<card>
+ <name>Caller of the Extraordinary</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Caller of the Extraordinary enters the battlefield, create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
+</card>
+<card>
+ <name>Ego Donor</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Homarid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When you discard Ego Donor, target creature gains Ego Donor’s name.
+Cycling 1U (1U, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Rebellious Deepwalker</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 2 (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Lifelink</text>
+</card>
+<card>
+ <name>Dactylus-Clan Druid</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dactylus-Clan Druid enters the battlefield with the creature card name of your choice.
+Whenever Dactylus-Clan Druid attacks, you may remove a name from Dactylus-Clan Druid. If you do, target creature gains that name.</text>
+</card>
+<card>
+ <name>Flawed Foresight</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Flawed Foresight deals 2 damage to each opponent.
+Draw two cards.</text>
+</card>
+<card>
+ <name>Murk Feeder</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>1B/GB/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fish </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Murk Feeder enters the battlefield with three +1/+1 counters on it.
+Whenever one or more creatures you control attack, you may move a +1/+1 counter from Murk Feeder to one of those creatures.</text>
+</card>
+<card>
+ <name>Mercurial Accomplice</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>R/WR/W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment Creature - Shapeshifter </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>This card is every non-Human creature type.
+Whenever Mercurial Accomplice and two or more other creatures attack, it gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Homarid Ordinary</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Peasant </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 1 (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When you discard Homarid Ordinary, target creature gains Homarid Ordinary’s name.
+Cycling 1GU (1GU, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Altruistic Healers</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice Altruistic Healers: Target creature you control gains protection from the color of your choice until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)</text>
+</card>
+<card>
+ <name>Homarid Chieftain</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Homarid Warrior </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>As Homarid Chieftain enters the battlefield, it gains the creature card name of your choice.
+As long as you control three or more creatures that share a name, Homarid Chieftain gets +2/+1.</text>
+</card>
+<card>
+ <name>Merelisene Mage-Guard</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Warlock Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
+The first time each turn an opponent casts a noncreature spell, they lose 3 life unless they discard a card or sacrifice a nonland permanent.</text>
+</card>
+<card>
+ <name>Canine Companion</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Wolf Warrior </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Canine Companion, that permanent gets +2/+0 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Ancient Isopod</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Trilobite </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature you control dies, put a +1/+1 counter on Ancient Isopod.
+Ferocious — When Ancient Isopod dies while you control a creature with power 4 or greater, return target non-Trilobite creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Merelisene Spy</name>
+ <set rarity="rare">YNE</set>
+ <color>WB</color>
+ <manacost>3WB</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent casts a spell, they reveal the top card of their library. If it’s a land card, create a Treasure token. Otherwise, exile it. You may cast it as long as it remains exiled, as though it had flash, and spend mana as though it were any color to cast it.</text>
+</card>
+<card>
+ <name>Unstable Anglerfish</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fish Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Unstable Anglerfish, Unstable Anglerfish becomes a copy of that permanent until the end of turn, except it has this ability.</text>
+</card>
+<card>
+ <name>Waterbarrens Manaforger</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Rogue Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Waterbarrens Manaforger, add B or G.</text>
+</card>
+<card>
+ <name>Shaman of the Frozen Plates</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a nonpermanent spell, Shaman of the Frozen Plates gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Rostrum-Clan Recruiter</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Rostrum-Clan Recruiter enters the battlefield, search your library for a card that shares a name with another creature you control, reveal it, then put it into your hand.</text>
+</card>
+<card>
+ <name>Master of Unrest</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Other Merfolk and Survivors you control get +1/+1.
+Whenever Master of Unrest deals combat damage to a player, create a 2/1 white Merfolk Soldier creature token with dive 3. (3: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+</card>
+<card>
+ <name>Reveal the Truth</name>
+ <set rarity="rare">YNE</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for exactly five cards with different names and reveal them. An opponent chooses two of them. Put the chosen cards into your hand and shuffle the rest into your library.</text>
+</card>
+<card>
+ <name>Angler of the Damned</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Angler of the Damned enters the battlefield or attacks, exile up to one target creature card from an opponent’s graveyard until Angler of the Damned leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.</text>
+</card>
+<card>
+ <name>Requisition</name>
+ <set rarity="rare">YNE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>If an opponent cast three or more spells this turn, you may pay R rather than pay this spell’s mana cost.
+Gain control of target nonpermanent spell or ability and any number of spells or abilities with the same name or source. You may choose new targets for them.</text>
+</card>
+<card>
+ <name>Assistant of the Mighty</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on it instead.
+Whenever an opponent casts a noncreature spell, they may pay 1. If they don’t, put a +1/+1 counter on Assistant of the Mighty.</text>
+</card>
+<card>
+ <name>Timid Cultivator</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Survivor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Timid Cultivator enters the battlefield, you gain 1 life and draw a card.
+Whenever a creature you don’t control dies, you may return Timid Cultivator to its owner’s hand.</text>
+</card>
+<card>
+ <name>Wild-Wake Rider</name>
+ <set rarity="rare">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Leviathan </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 3UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Trample
+Abilities of this creature that trigger whenever it mutates also trigger whenever this creature deals combat damage to a player.</text>
+</card>
+<card>
+ <name>Chemosynthesis</name>
+ <set rarity="rare">YNE</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Exile a card from your graveyard: Add C. Spend this mana only to activate abilities.
+2B: Put two +1/+1 counters on target creature.
+1B, Remove a +1/+1 counter from a creature you control: Create two 1/1 green Fish creature tokens.
+B, Sacrifice a creature: Surveil 3.</text>
+</card>
+<card>
+ <name>Nedaara, High Mage of Ustaro</name>
+ <set rarity="rare">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice another Survivor or Wizard: Return target sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Identity Bandit</name>
+ <set rarity="rare">YNE</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Homarid Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As Identity Bandit enters the battlefield, choose a creature card name. Identity Bandit gains that name.
+When Identity Bandit enters the battlefield, return each other nonland permanent that shares a name with Identity Bandit to its owner’s hand.
+Players can’t cast spells that share a name with Identity Bandit.</text>
+</card>
+<card>
+ <name>Ranera, Devious Advisor</name>
+ <set rarity="mythic">YNE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Ranera </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Until the beginning of your next turn, nonbasic permanents you don’t control enter the battlefield tapped. When they do, you gain 1 life.
+[-1]: Until the end of your next turn, opponents can’t activate abilities unless they’re mana abilities.
+[-2]: Exile target creature. Its controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.
+[-10]: Destroy all nonland permanents you don’t control.
+</text>
+</card>
+<card>
+ <name>Pelagic Dreadnought</name>
+ <set rarity="mythic">YNE</set>
+ <color>U</color>
+ <manacost>8U</manacost>
+ <cmc>9</cmc>
+ <type>Creature - Leviathan </type>
+ <pt>10/10</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+Hexproof
+Pelagic Dreadnought can’t be blocked.
+When Pelagic Dreadnought is put into your graveyard from anywhere, shuffle it into your library.</text>
+</card>
+<card>
+ <name>That Which Dwells in the Deep</name>
+ <set rarity="mythic">YNE</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Elder Horror </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When That Which Dwells in the Deep dies, exile it with ten slumber counters on it.
+Whenever an Influence dies, if That Which Dwells is in exile, remove a slumber counter from That Which Dwells. Then if there are no slumber counters on it, put it onto the battlefield, except it’s a 20/20 with dive 0 and indestructible.</text>
+</card>
+<card>
+ <name>Oceanic Unmaker</name>
+ <set rarity="mythic">YNE</set>
+ <color>R</color>
+ <manacost>3RRR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Kraken </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Dive R (R: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Whenever Oceanic Unmaker attacks, if it’s diving, pay XX. Oceanic Unmaker deals X damage to each creature defending player controls.</text>
+</card>
+<card>
+ <name>Vivien, Chronicler of Seas</name>
+ <set rarity="mythic">YNE</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Vivien </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-2]: Create a 3/3 green Turtle creature token.
+[-9]: Search your library for up to four green creature cards, put them onto the battlefield, then shuffle.
+</text>
+</card>
+<card>
+ <name>King Alnen Stormbrooke</name>
+ <set rarity="mythic">YNE</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Merfolk Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever King Alnen Stormbrooke attacks or becomes the target of a spell an opponent controls, starting with you, each player votes for war or peace. Each opponent sacrifices a creature or discards a card for each war vote and you draw a card for each peace vote.</text>
+</card>
+<card>
+ <name>Vidus Dirgecloud</name>
+ <set rarity="mythic">YNE</set>
+ <color>BG</color>
+ <manacost>XBG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Planeswalker - Vidus </type>
+ <loyalty>X</loyalty>
+ <tablerow>1</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+[0]: Shuffle up to two target cards in a single graveyard into their owner’s library. You gain 2 life.
+[-3]: Destroy target artifact, enchantment, or  nonbasic land. Its controller gains 3 life.
+[-4]: Target creature gets -3/-3 until end of turn.
+</text>
+</card>
+<card>
+ <name>Rostrum-Clan Warlord</name>
+ <set rarity="mythic">YNE</set>
+ <color>UG</color>
+ <manacost>3GU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Homarid Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As Rostrum-Clan Warlord enters the battlefield, it gains the creature card name of your choice.
+Whenever another nontoken creature you control that shares a name with this creature attacks, you may create a token copy of that creature.</text>
+</card>
+<card>
+ <name>Scavenger Team</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Orc Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Scavenger Team enters the battlefield, create a 1/1 red Human Survivor creature token.</text>
+</card>
+<card>
+ <name>Merelisene Insurgent</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 4 (4: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When Merelisene Insurgent enters the battlefield, you may destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Erase Identity</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature loses all names and can’t attack or block.</text>
+</card>
+<card>
+ <name>Belligerent Confrontation</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target tapped creature.</text>
+</card>
+<card>
+ <name>Solemn Conversation</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile two permanents you control. Return them to the battlefield at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Accomplished Mentor</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 1W (1W: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+3W, Exile Accomplished Mentor from your graveyard, Activate only as a sorcery: Create a 2/1 white Merfolk Soldier creature token with dive 3.</text>
+</card>
+<card>
+ <name>Kelp Tender</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: You gain 1 life.</text>
+</card>
+<card>
+ <name>Protean Hindrance</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment Creature - Shapeshifter </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>This card is every non-Human creature type.
+When Protean Hindrance enters the battlefield, spells cost 1 more to cast until the beginning of your next turn.</text>
+</card>
+<card>
+ <name>Sanctuary Snarecaster</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Sanctuary Snarecaster, tap up to one target creature.</text>
+</card>
+<card>
+ <name>Disguised Informant</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Scout </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Disguised Informant enters the battlefield, scry X, where X is the number of Merfolk you control.</text>
+</card>
+<card>
+ <name>Authorized Attack</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+0 and gain indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Assume Identity</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. If that spell was a creature spell, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Drowning Waves</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may cast this spell as if it had flash if it targets an attacking creature.
+Put target creature on top of its owner’s library.</text>
+</card>
+<card>
+ <name>Arcane Discovery</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Omenzoa</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Jellyfish </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+T: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Infantilize</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature loses all abilities and is a 2/2 blue and green Camarid in addition to its other types.</text>
+</card>
+<card>
+ <name>Root Nautilus</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Nautilus </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate U (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Opt</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Scry 1.
+Draw a card.</text>
+</card>
+<card>
+ <name>Intimidating Crustacean</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>As Intimidating Crustacean enters the battlefield, it gains the creature name of your choice.
+Whenever another creature that shares a name with Intimidating Crustacean enters the battlefield, tap up to one target creature.</text>
+</card>
+<card>
+ <name>Tidehopper Regent</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Serpent </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate U (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+This creature can’t be blocked.</text>
+</card>
+<card>
+ <name>Homarid Arcanist</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As Homarid Arcanist enters the battlefield, it gains the creature card name of your choice.
+Creatures you control that share a name with Homarid Arcanist have dive 2.  (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+</card>
+<card>
+ <name>Negate</name>
+ <set rarity="common">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell.</text>
+</card>
+<card>
+ <name>Duress</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Bloodthirsty Squid</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Squid </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>1B, T, Activate only as a sorcery: Put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Abyssal Growth</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put two +1/+1 counters on target creature. It gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Mentor's Blood</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may sacrifice a creature.
+Draw a card. If this spell’s additional cost was paid, draw two cards instead. Otherwise, you lose 1 life.</text>
+</card>
+<card>
+ <name>Crush Mind</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards two cards and loses 2 life.</text>
+</card>
+<card>
+ <name>Deadly Deceit</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target blocking or blocked creature.</text>
+</card>
+<card>
+ <name>Depths-Stricken Monster</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Fish Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+2BB, Exile Depths-Stricken Monster from your graveyard, Activate only as a sorcery: Create two 1/1 green Fish creature tokens.</text>
+</card>
+<card>
+ <name>Ranera's Enforcer</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Merfolk Mercenary </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more creatures die, Ranera’s Enforcer gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Unscrupulous Authority</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Merfolk Advisor </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Unscrupulous Authority enters the battlefield, each opponent loses 1 life for each Merfolk you control.</text>
+</card>
+<card>
+ <name>Blessing of the Depths</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Influence </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When enchanted creature dies or is put into exile, return it to the battlefield tapped with a +1/+1 counter. Each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Orcish Stalwart</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Orc Survivor </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gets +1/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Sanctuary Instigator</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Sanctuary Instigator enters the battlefield, each other creature you control that shares a creature type with Sanctuary Instigator gets +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Capricious Serpent</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Serpent </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This creature can’t block unless it has mutated.</text>
+</card>
+<card>
+ <name>Resolute Vestiges</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 red Human Survivor creature tokens.</text>
+</card>
+<card>
+ <name>Work Together</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. If it shares a creature type with another creature you control, it gets +1/+1 until end of turn. </text>
+</card>
+<card>
+ <name>Infuriated Starfish</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Starfish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, it gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Explosive Rage</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Kindred Enchantment - Orc Aura </type>
+ <tablerow>1</tablerow>
+ <text>You may cast this spell as though it had flash. If you do, it costs 1R to cast.
+Enchant creature
+Enchanted creature gets +1/+1 and has first strike.</text>
+</card>
+<card>
+ <name>Frantic Scavenging</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+</card>
+<card>
+ <name>Shock</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Shock deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Volcanic Uproaring</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Volcanic Uproaring deals 4 damage to target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Fearsome Spineback</name>
+ <set rarity="common">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace</text>
+</card>
+<card>
+ <name>Telson-Clan Matron</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Homarid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Telson-Clan Matron enters the battlefield, create two 2/2 blue and green Camarid creature tokens.</text>
+</card>
+<card>
+ <name>Savage Punch</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control.
+Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.</text>
+</card>
+<card>
+ <name>Bright Future</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature. Untap it. If it’s your turn, it gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Vidus's Protection</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +2/+2 and gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Legacy of Chyklis</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains the creature card name of your choice. Put a +1/+1 counter on it, then if you control three or more creatures that share a name, put an additional +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Voracious Snapper</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach (This creature can block creatures that are diving or have flying.)
+Ferocious — Whenever Voracious Snapper deals combat damage, if you control a creature with power 4 or greater, put target card from your graveyard on top of your library.</text>
+</card>
+<card>
+ <name>Dove Too Deep</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact, enchantment, or creature that’s diving.</text>
+</card>
+<card>
+ <name>Discarded Hammer</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Ferocious — Whenever equipped creature deals combat damage to a player, if you control a creature with power 4 or greater, destroy up to one target noncreature, nonland permanent.
+Equipped creature gets +2/+2.
+Equip 4</text>
+</card>
+<card>
+ <name>Burgeoning Lumpus</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Burgeoning Lumpus enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Savage Predator</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Shark </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, Savage Predator gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Carpus-Clan Brawler</name>
+ <set rarity="common">YNE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>As Carpus-Clan Brawler enters the battlefield, it gains the creature name of your choice.
+Other creatures you control that share a name with Carpus-Clan Brawler get +1/+0.</text>
+</card>
+<card>
+ <name>Cure Death</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target Merfolk card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Fatal Verdict</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>3W/BW/B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller loses 2 life and you gain 2 life.</text>
+</card>
+<card>
+ <name>Ranera's Edict</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose creature or enchantment. Each opponent sacrifices a permanent of the chosen type.</text>
+</card>
+<card>
+ <name>Atlistan Guard-Captain</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Dive W/BW/B (W/BW/B: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When Atlistan Guard-Captain enters the battlefield, exile target creature you don’t control. Return it to the battlefield at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Stingfield Guards</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Stingfield Guards blocks or becomes blocked by a creature, that creature’s controller loses 1 life and you gain 1 life.</text>
+</card>
+<card>
+ <name>Court Retainer</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>W/BW/B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Noble </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>W/B, Sacrifice Court Retainer: You gain 3 life.</text>
+</card>
+<card>
+ <name>Perilous Discovery</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>1U/RU/R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+</card>
+<card>
+ <name>Dwimmersea Leviathan</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>3UR</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Leviathan </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 2UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, reveal the top three cards of your library. Put one into your hand and the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Dwimmersea Horror</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>2U/R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Fish Horror </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Spells you cast and activated abilities of permanents you control that target Dwimmersea Horror cost 1 less to cast or activate.</text>
+</card>
+<card>
+ <name>Inquisitive Amphibian</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Salamander Fish </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 1UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature attacks, target creature an opponent controls can’t block this turn.</text>
+</card>
+<card>
+ <name>Mystic Ricochet</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. If that spell was a nonpermanent spell, return up to one target nonpermanent card from your graveyard to your hand.
+Exile Mystic Ricochet.</text>
+</card>
+<card>
+ <name>Benthic Wanderer</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>2BG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ferocious — Whenever Benthic Wanderer deals combat damage to a player, if you control a creature with power 4 or greater, create two 1/1 green Fish creature tokens.</text>
+</card>
+<card>
+ <name>Depthsdraught</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>B/GB/G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put two +1/+1 counters on target creature. You gain 2 life.</text>
+</card>
+<card>
+ <name>Irreconcilable Rebirth</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>4BG</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature you don’t control.
+Create two 1/1 green Fish creature tokens.</text>
+</card>
+<card>
+ <name>Hunger of the Abyssal</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it.
+When enchanted creature dies, put all of its counters on target creature.</text>
+</card>
+<card>
+ <name>Ravenous Forager</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Shark </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ravenous Forager attacks, you may sacrifice a creature. If you do, put a +1/+1 counter on Ravenous Forager.</text>
+</card>
+<card>
+ <name>Epithet Flask</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature enters the battlefield under your control, Epithet Flask gains that creature’s names, then scry 1.
+T, Remove a name from Epithet Flask: Target creature gains that name.</text>
+</card>
+<card>
+ <name>Strength in Names</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains the creature card name of your choice. If you control three or more creatures that share a name, it gets +1/+1 for each other creature it shares a name with.
+Draw a card.</text>
+</card>
+<card>
+ <name>Pacifying Rays</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>2G/U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage that would be dealt to creatures you control this turn. Create a 1/1 green Fish creature token.</text>
+</card>
+<card>
+ <name>Sunken-Grove Scholar</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Sunken-Grove Scholar enters the battlefield, scry 2. Then if you control three or more creatures that share a name, draw a card.</text>
+</card>
+<card>
+ <name>Homarid Journeymage</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>1G/UG/U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dive U (U: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Whenever Homarid Journeymage becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Sun's Favor</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Sun’s Favor deals 2 damage to target creature or planeswalker. You gain 2 life.</text>
+</card>
+<card>
+ <name>Amorphous Helm</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Kindred Artifact - Shapeshifter Equipment </type>
+ <tablerow>1</tablerow>
+ <text>This card is every non-Human creature type.
+When Amorphous Helm enters the battlefield, attach it to target creature you control.
+Equipped creature gets +3/+2 and is every non-Human creature type.
+Equip 4</text>
+</card>
+<card>
+ <name>Dwimmersea Scrounger</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Orc Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Dwimmersea Scrounger, put a +1/+1 counter on Dwimmersea Scrounger.</text>
+</card>
+<card>
+ <name>Daring Scavenger</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Daring Scavenger, Daring Scavenger deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Purposeful Charge</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>1R/WR/W</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 red Human Survivor tokens. Creatures you control gain first strike until end of turn.</text>
+</card>
+<card>
+ <name>Waterlogged City</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Waterlogged City enters the battlefield, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+</card>
+<card>
+ <name>Shell of the Derelict</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +0/+2 and has dive 2. (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Equip 3</text>
+</card>
+<card>
+ <name>Corpse Cache</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Corpse Cache enters the battlefield or is put into your graveyard from the battlefield, draw a card.
+3, T, Sacrifice Corpse Cache, Activate only as a sorcery: Put two +1/+1 counters on target creature you control.</text>
+</card>
+<card>
+ <name>Vivien's Journal</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+2, T, Sacrifice Vivien’s Journal, Activate only as a sorcery: Create two 1/1 green Fish creature tokens.</text>
+</card>
+<card>
+ <name>Wayfarer's Bauble</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Depthswalker</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach (This creature can block creatures that are diving or have flying.)
+Whenever Depthswalker blocks a diving creature, Depthswalker gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Derelict Overseer</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct Survivor </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>2, T, Activate only as a sorcery: Target creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Seafloor Wanderers</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 1 (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When Seafloor Wanderers enters the battlefield, draw a card.</text>
+</card>
+<card>
+ <name>Despise</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Thrashing Oarfish</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Ferocious — Whenever Thrashing Oarfish attacks, if you control a creature with power 4 or greater, Thrashing Oarfish gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Guard Station</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Guard Station enters the battlefield tapped.
+T: Add W or B.
+2WB, T, Sacrifice Guard Station: Draw a card.</text>
+</card>
+<card>
+ <name>Dwimmersea Hoard</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Dwimmersea Hoard enters the battlefield tapped.
+T: Add U or R.
+2UR, T, Sacrifice Dwimmersea Hoard: Draw a card.</text>
+</card>
+<card>
+ <name>Waterbarrens Ruin</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Waterbarrens Ruin enters the battlefield tapped.
+T: Add B or G.
+2BG, T, Sacrifice Waterbarrens Ruin: Draw a card.</text>
+</card>
+<card>
+ <name>Survivors' Hideout</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Survivors’ Hideout enters the battlefield tapped.
+T: Add R or W.
+2RW, T, Sacrifice Survivors’ Hideout: Draw a card.</text>
+</card>
+<card>
+ <name>Homarid Breeding Ground</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Homarid Breeding Ground enters the battlefield tapped.
+T: Add G or U.
+2GU, T, Sacrifice Homarid Breeding Ground: Draw a card.</text>
+</card>
+<card>
+ <name>Atlista, Heart of Merelis</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3: Atlista, Heart of Merelis becomes a 4/3 white and black Merfolk Soldier creature until end of turn. It’s still a land.</text>
+</card>
+<card>
+ <name>Abandoned Implement</name>
+ <set rarity="common">YNE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Abandoned Implement: Choose one —
+• Exile up to three target cards from a graveyard.
+• Remove a name from target permanent.
+• Draw a card. </text>
+</card>
+<card>
+ <name>Ancestral Might</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+0 for each creature that shares a creature type with it.</text>
+</card>
+<card>
+ <name>Court Counsel</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Advisor </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+At the beginning of your end step, discard a card.</text>
+</card>
+<card>
+ <name>Ancestor-Blessed Blade</name>
+ <set rarity="common">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Kindred Artifact - Human Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Ancestor-Blessed Blade enters the battlefield, attach it to target creature you control.
+Equipped creature gets +2/+2 and has vigilance.
+Equip 4</text>
+</card>
+<card>
+ <name>Crushing Pressure</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1-2 Low Tide
+Exile up to one target card from a graveyard.
+3 High Tide
+Until the beginning of your next turn, whenever an opponent draws a card, Crushing Pressure deals 1 damage to them.</text>
+</card>
+<card>
+ <name>Atlistan Historian</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Atlistan Historian enters the battlefield, return target artifact, enchantment, or creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Waterbarrens Castaway</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Survivor </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Waterbarrens Castaway, put a +1/+1 counter on that permanent.</text>
+</card>
+<card>
+ <name>Null-Song Soloist</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Wizard Citizen </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Each player can’t cast more than one creature spell each turn.
+Each player can only attack or block with one creature each turn.</text>
+</card>
+<card>
+ <name>Blackrock Smith</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Once each turn, whenever Blackrock Smith or a Warrior enters the battlefield, create an Equipment artifact token with “Equipped creature gets +1/+0 and has vigilance” and equip 2, then attach it to that creature.</text>
+</card>
+<card>
+ <name>Guard's Fortitude</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you activate the dive ability of a creature you control, that creature gets +1/+1 and gains vigilance until end of turn. Do this only once each turn for each creature you control.</text>
+</card>
+<card>
+ <name>Roundabout Trip</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1-2 Low Tide
+Exile up to one target creature you control. Return it to the battlefield at the beginning of the next end step.
+3 High Tide
+Exile up to one target creature you control, then return it to the battlefield. When you do, create a 1/1 red Human Survivor creature token.</text>
+</card>
+<card>
+ <name>Growing Paranoia</name>
+ <set rarity="uncommon">YNE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 4 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than four counters, remove all but one.)
+1 Low Tide
+Create a 2/1 white Merfolk Soldier creature token with dive 3.
+2-3 Mid Tide
+You may sacrifice a creature. If you do, create a token that’s a copy of target creature token you control.
+4 High Tide
+Token creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Delay the Inevitable</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Each creature you control phases out. (Treat them and anything attached to them as though they don’t exist until its controller’s next turn.)</text>
+</card>
+<card>
+ <name>Way of Life</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 4 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than four counters, remove all but one.)
+1-2 Low Tide
+Put a +1/+1 counter on up to two target creatures you control.
+3 Mid Tide
+Up to one target creature gains double strike until end of turn.
+4 High Tide
+Target creature you control with the greatest power among creatures you control gains defender. (This effect lasts indefinitely.)
+
+You may sacrifice Way of Life.</text>
+</card>
+<card>
+ <name>Beckon the Guard</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. You may put a creature with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Cataclysmic Conflict</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>For each nonland permanent type, each player chooses a permanent they control of that type. Then each player sacrifices the rest of the nonland permanents they control.</text>
+</card>
+<card>
+ <name>Wreckfields Moray</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Fish </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dive—Reveal a creature card from your hand. (Reveal a creature card from your hand: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Whenever Wreckfields Moray deals combat damage to a player, untap it.</text>
+</card>
+<card>
+ <name>Coxa-Clan Mentor</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Homarid Wizard </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>As Coxa-Clan Mentor enters the battlefield, it gains the creature card name of your choice.
+Whenever Coxa-Clan Mentor or another creature you control that shares a name with it deals combat damage to a player or planeswalker, draw a card.</text>
+</card>
+<card>
+ <name>Clever Coral</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Beast </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 3U (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, return up to one target creature an opponent controls to its owner’s hand.</text>
+</card>
+<card>
+ <name>Survivor's Rebuff</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Its controller may search their library for a card with a different name that shares a type with that spell, reveal it, put it into their hand, then shuffle. Otherwise, they draw a card.
+Draw a card.</text>
+</card>
+<card>
+ <name>Nedaara's Search</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 4 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than four counters, remove all but one.)
+1 Low Tide
+Scry 2.
+2-3 Mid Tide
+Draw two cards, then discard a card.
+4 High Tide
+Shuffle your graveyard into your library, then draw a card.</text>
+</card>
+<card>
+ <name>Oyster Spawning Grounds</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a nonpermanent spell, create an 0/2 blue Oyster creature token.
+3U: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Rouse the Clan</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gains hexproof until end of turn. If you control three or more creatures that share a name, untap each creature you control</text>
+</card>
+<card>
+ <name>Autonymic Genesis</name>
+ <set rarity="uncommon">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1 Low Tide
+Scry 1, then choose a card name.
+2 Mid Tide
+Add CC. Spend this mana only to cast spells with the chosen names.
+3 High Tide
+Until end of turn, creatures you control with the chosen names get +1/+1 and are diving. (They can only be blocked by creatures that are diving or have reach.)</text>
+</card>
+<card>
+ <name>Bivalve Augur</name>
+ <set rarity="rare">YNE</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Oyster </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Bivalve Augur enters the battlefield or attacks, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in a random order.
+Whenever Bivalve Augur deals combat damage to a player, you may cast one of the exiled cards without paying its mana cost.</text>
+</card>
+<card>
+ <name>Keeper of Mysteries</name>
+ <set rarity="rare">YNE</set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Leviathan </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+Ward 3 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)
+Dive 0 (0: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+</card>
+<card>
+ <name>The Great Sinking</name>
+ <set rarity="rare">YNE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 5 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than five counters, remove all but one.)
+1 Low Tide
+Target nonbasic land loses all abilities and gains “T: Add C” until the beginning of your next turn.
+2-4 Mid Tide
+Until end of turn, lands you control are Islands in addition to their other types.
+5 High Tide
+Until end of turn, whenever you tap an Island for mana, you add an additional U.</text>
+</card>
+<card>
+ <name>Riddle-Sworn Dissident</name>
+ <set rarity="rare">YNE</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Dive 1 (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Once each turn, whenever you cast a spell, if it isn’t your turn, you may draw a card. If you do, discard a card.</text>
+</card>
+<card>
+ <name>Death Trap Archmage</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warlock Survivor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dive—Discard a card. (Discard a card: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Death Trap Archmage can’t block.
+Whenever Death Trap Archmage deals combat damage to a player, that player discards a card.</text>
+</card>
+<card>
+ <name>Ranera's Command</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose two—
+• Create two 2/1 white Merfolk Soldier creature tokens with dive 3.
+• Target player sacrifices a creature with the highest mana value among creatures they control.
+• Search your library for a card, put it into your hand, then shuffle.
+• Up to one target opponent discards two cards.</text>
+</card>
+<card>
+ <name>Hadal-Deep Stalker</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Squid </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Hadal-Deep Stalker can’t attack or block as long as it has less than three +1/+1 counters on it.
+Whenever a creature dies, put a +1/+1 counter on Hadal-Deep Stalker.</text>
+</card>
+<card>
+ <name>Atlista Cutthroat</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dive—1, Sacrifice a creature. (1, Sacrifice a creature: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When Atlista Cutthroat enters the battlefield, create a 1/1 green Fish creature token.</text>
+</card>
+<card>
+ <name>Scion of the Depths</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Spawn </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>If an opponent would lose exactly 1 life, they lose 2 life instead.
+When Scion of the Depths deals combat damage to a player, create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)</text>
+</card>
+<card>
+ <name>Favor of the the Depths</name>
+ <set rarity="common">YNE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura Influence </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets -2/-2.
+When enchanted creature dies, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>End of Identity</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Two creatures each get -2/-2 until end of turn. If they share a name, destroy those creatures instead.</text>
+</card>
+<card>
+ <name>Sway of the Depths</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 5 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than five counters, remove all but one.)
+1 Low Tide
+Return target creature card from your graveyard to your hand.
+2-4 Mid Tide
+Create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)
+5 High Tide
+You may sacrifice Sway of the Depths. If you don’t, discard a card and you lose 2 life.</text>
+</card>
+<card>
+ <name>Ebbing of the Mind</name>
+ <set rarity="uncommon">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 2 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than two counters, remove all but one.)
+1 Low Tide
+Each opponent discards a card.
+2 High Tide
+Each opponent loses life equal to 5 minus the number of cards in their hand.</text>
+</card>
+<card>
+ <name>Wrathful Mourner</name>
+ <set rarity="rare">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Orc Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Wrathful Mourner dies, it deals damage equal to its power to another target creature you control.</text>
+</card>
+<card>
+ <name>Coordinated Scavenging</name>
+ <set rarity="rare">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay 2 or tap two untapped creatures you control.
+Exile the top three cards of your library. You may play them until the end of turn.</text>
+</card>
+<card>
+ <name>Awoken Remembrance</name>
+ <set rarity="rare">YNE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1 Low Tide
+Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
+2-3 High Tide
+Until end of turn, whenever one or more Shapeshifters you control deals combat damage to a player, you may discard your hand. If you do, draw three cards.</text>
+</card>
+<card>
+ <name>Greater Blackrock Hardshell</name>
+ <set rarity="rare">YNE</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Turtle </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 1R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Double strike
+You may only mutate Greater Blackrock Hardshell under creatures.</text>
+</card>
+<card>
+ <name>Formidable Piranhas</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Each creature spell you cast costs 1 less to cast if it has mutate.
+Whenever a creature mutates, target creature with power or toughness less than or equal to the number of times that creature has mutated can’t block this turn.</text>
+</card>
+<card>
+ <name>New Vargoth Scrapper</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Orc Artificer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When New Vargoth Scrapper enters the battlefield, destroy target artifact.
+Strength in numbers — Once each turn, whenever another permanent enters the battlefield under your control, if it shares a creature type with New Vargoth Scrapper, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>Form-Anarchy Nautilus</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Nautilus </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 2R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature deals combat damage to a player, you may return target nonpermanent card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Burning Blood</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Mutate 2RR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+At the beginning of each upkeep, this permanent deals 1 damage to each creature.
+At the beginning of each end step, if no creatures are on the battlefield, sacrifice this permanent.</text>
+</card>
+<card>
+ <name>New Vargoth Submarine</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Kindred Artifact - Survivor Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever New Vargoth Submarine enters the battlefield or attacks, create a 1/1 red Human Survivor creature token.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Survivor Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Consuming Charge</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, you may sacrifice a creature.
+If this spell’s additional cost was paid, choose a creature you control. It gets +4/+0 and gains menace until end of turn. Otherwise, creatures you control get +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Encroaching Flow</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1-2 Low Tide
+Encroaching Flow deals 1 damage to each player.
+3 High Tide
+Encroaching Flow deals 2 damage to each player.</text>
+</card>
+<card>
+ <name>Scavengers' Preparations</name>
+ <set rarity="uncommon">YNE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature you control
+Tidal 5 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than five counters, remove all but one.)
+1-2 Low Tide
+Enchanted creature gets +0/+2 until the beginning of your next turn.
+3-4 Mid Tide
+Enchanted creature gets +1/+1 and has trample until end of turn.
+5 High Tide
+Enchanted creature gets +2/+0 and has first strike until end of turn.</text>
+</card>
+<card>
+ <name>Merus-Clan Tender</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add one mana of any color.
+Remove a name from Merus-Clan Tender: Untap Merus-Clan Tender.</text>
+</card>
+<card>
+ <name>Reaver of the Wreckfields</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Serpent </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+Reaver of the Wreckfields enters the battlefield with a +1/+1 counter on it for each card type among cards exiled with it. (Artifact, battle, creature, enchantment, instant, kindred, land, planeswalker, and sorcery are card types.)</text>
+</card>
+<card>
+ <name>Journey of Reflection</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>As Journey of Reflection enters the battlefield, choose a creature card name.
+Whenever a creature with the chosen name enters the battlefield under your control, draw a card.</text>
+</card>
+<card>
+ <name>School Swarming</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1-2 Low Tide
+Create a 1/1 green Fish creature token.
+3 High Tide
+Creatures you control get +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Telson-Clan Captain</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Homarid Soldier </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>As Telson-Clan Captain enters the battlefield, it gains the creature name of your choice.
+Whenever Telson-Clan Captain attacks, each other creature you control that shares a name with Telson-Clan Captain gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Curious Cephalopod</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Octopus </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach (This creature can block creatures that are diving or have flying.)
+When Curious Cephalopod enters the battlefield, look at the top three cards of your library. You may reveal an enchantment or land card from among them and put it into your hand, then put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Carpus-Clan Champion</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Homarid Noble Warrior </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Carpus-Clan Champion gets +1/+1 for each creature you control with more than one name.</text>
+</card>
+<card>
+ <name>Timeless Shark</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>6G</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Elder Shark </type>
+ <pt>9/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Timeless Shark is put into a graveyard from anywhere, its owner shuffles it into their library.</text>
+</card>
+<card>
+ <name>Contest of Identity</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 until end of turn. If you control three or more creatures that share a name, it gets an additional +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Altered Cycle</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1-2 Low Tide
+Add one mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.
+3 High Tide
+Return target enchantment you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Harmonious Conflict</name>
+ <set rarity="uncommon">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control. When it does, if you control three or more creatures that share a name, another target creature you control fights the creature you don’t control.</text>
+</card>
+<card>
+ <name>Fluctuating Growth</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 4 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than four counters, remove all but one.)
+1-2 Low Tide
+Until the end of turn, you can’t play lands.
+3-4 High Tide
+Until the end of turn, you may play an additional land this turn.</text>
+</card>
+<card>
+ <name>Twinning Glyph</name>
+ <set rarity="mythic">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Mutate 1UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever you cast a spell that targets only a single creature you control, copy that spell and you may choose new targets for the copy.</text>
+</card>
+<card>
+ <name>Madame Fireblood</name>
+ <set rarity="mythic">YNE</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Planeswalker - Hadanu </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+2]: You may discard a card. If you do, return up to one other target noncreature, nonland card from your graveyard to your hand.
+[0]: Until the beginning of your next turn, players can’t cast more than one spell, draw more than one card, or play more than one land each turn.
+[-2]: Madame Fireblood deals 2 damage divided among any number of target creatures.
+</text>
+</card>
+<card>
+ <name>Merelisene Deserter</name>
+ <set rarity="rare">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a nonpermanent spell, create a 1/1 red Human Survivor creature token.
+Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Merelisene Deserter, target creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Mage-Guard Exemplar</name>
+ <set rarity="rare">YNE</set>
+ <color>WB</color>
+ <manacost>1W/B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Wizard Soldier </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a player casts a noncreature spell, put a +1/+1 counter on Mage-Guard Exemplar.</text>
+</card>
+<card>
+ <name>Atlistan Tariff</name>
+ <set rarity="rare">YNE</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each opponent’s upkeep, they may pay 1. If they don’t, put a debt counter on Atlistan Tariff, and then that player loses 1 life for each debt counter on Atlistan Tariff.</text>
+</card>
+<card>
+ <name>Jellyfire</name>
+ <set rarity="rare">YNE</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Jellyfish Beast </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 2 (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Whenever Jellyfire becomes the target of a spell or ability you control, it gets +2/+0 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Control of the Chaos</name>
+ <set rarity="rare">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Each creature card in your hand has mutate, and its mutate cost is equal to its mana cost reduced by 2. (If a card already has mutate, it has another cost.)</text>
+</card>
+<card>
+ <name>Ustaran Conjuring</name>
+ <set rarity="rare">YNE</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top four cards of your library. You may cast up to two nonpermanent spells with mana value 3 or less from among them without paying their mana costs. If you do, exile them after they resolve. Put the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Aqueous Epiphany</name>
+ <set rarity="rare">YNE</set>
+ <color>UR</color>
+ <manacost>2U/RU/R</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one:
+• Copy target nonpermanent spell.
+• Copy target creature spell. It gains “When this becomes the target of a spell, exile it.”</text>
+</card>
+<card>
+ <name>Sorrowful Thaumaturge</name>
+ <set rarity="rare">YNE</set>
+ <color>BG</color>
+ <manacost>2BG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Sorrowful Thaumaturge enters the battlefield or attacks, you draw a card and lose 1 life. If you control a creature with power 4 or greater, instead look at the top three cards of your library, put one into your hand and the rest on the bottom of your library, then each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>Deadly Tempter</name>
+ <set rarity="rare">YNE</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deadly Tempter must be blocked if able.
+Whenever a creature an opponent dies, if it was dealt damage by a creature you control this turn, put a +1/+1 counter on Deadly Tempter.</text>
+</card>
+<card>
+ <name>Tusker Migration</name>
+ <set rarity="rare">YNE</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Exile target player’s graveyard.
+• Target creature gets +2/-2 until end of turn.
+• Return target permanent card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Depths-Pact Mage</name>
+ <set rarity="rare">YNE</set>
+ <color>BG</color>
+ <manacost>1B/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1: Exile target card from a graveyard. If it was a creature card, Depths-Pact Mage gains that card’s name. If it was a noncreature, nonland card, put a +1/+1 counter on Depths-Pact Mage.</text>
+</card>
+<card>
+ <name>Thülendan of New Vargoth</name>
+ <set rarity="rare">YNE</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Elf Human Survivor </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a nontoken artifact enters the battlefield under your control, create a token that’s a copy of it. If the copy is an equipment, attach it to Thülendan.</text>
+</card>
+<card>
+ <name>Form of the Faceless</name>
+ <set rarity="rare">YNE</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Form of the Faceless enters the battlefield, create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
+Creatures you control get +X/+X, where X is the greatest number of permanents you control that have a creature type in common.</text>
+</card>
+<card>
+ <name>Fleshthresher</name>
+ <set rarity="rare">YNE</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Artifact Creature - Construct Warrior </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+3: Choose one—
+• Untap Fleshthresher.
+• Fleshthresher gains hexproof until end of turn.
+• Fleshthresher gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Hadanu's Arbitration</name>
+ <set rarity="rare">YNE</set>
+ <color>WR</color>
+ <manacost>2R/WR/W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature enters the battlefield under an opponent’s control, you may put a creature card from your hand onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Chyklis, Rostrum-Clan Onolich</name>
+ <set rarity="rare">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Homarid Zombie </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>G, Discard a creature card: Search your library for a creature card that shares a name with Chyklis, Rostrum-Clan Onolich, reveal it, put it into your hand, then shuffle.
+2: Chyklis gains the creature card name of your choice.</text>
+</card>
+<card>
+ <name>Homarid Formstealer</name>
+ <set rarity="rare">YNE</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Homarid Shapeshifter </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Homarid Formstealer enters the battlefield as a copy of any creature or planeswalker on the battlefield, except it’s also named Homarid Formstealer.</text>
+</card>
+<card>
+ <name>Dactylus-Clan Titan</name>
+ <set rarity="rare">YNE</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Giant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>As Dactylus-Clan Titan enters the battlefield, it gains the creature card name of your choice.
+Whenever another creature that shares a name with Dactylus-Clan Titan enters the battlefield under your control, put two +1/+1 counters on this creature. </text>
+</card>
+<card>
+ <name>Into the Unknown</name>
+ <set rarity="rare">YNE</set>
+ <color>UG</color>
+ <manacost>2G/UG/U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top seven cards of your library. Reveal up to two creature and/or land cards from among them, put them into your hand and the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Empathetic Guard</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Merfolk Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature you control dies, if it shares a creature type with Empathetic Guard, you may sacrifice Empathetic Guard. If you do, return that creature to the battlefield under your control.</text>
+</card>
+<card>
+ <name>Clairvoyant Interrogation</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You choose a noncreature, nonland card from it. Exile that card. You gain 2 life.</text>
+</card>
+<card>
+ <name>Scorn of the Court</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Scorn of the Court enters the battlefield, target creature or planeswalker phases out until Scorn of the Court leaves the battlefield.</text>
+</card>
+<card>
+ <name>Brigade Taskmaster</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>3W/B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you cast a creature spell, put a +1/+1 counter on Brigade Taskmaster.</text>
+</card>
+<card>
+ <name>Bite of the Stingfields</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WB</color>
+ <manacost>W/BW/B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Bite of the Stingfields deals 2 damage to target attacking or blocking creature. You gain 2 life.</text>
+</card>
+<card>
+ <name>Deep-Spawn Ink-Breather</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Squid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Flash
+Whenever this creature mutates, it gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Erratic Substitution</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to one target creature to its owner’s hand. 
+Create an 0/2 blue Oyster creature token. It gets +2/+0 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Disperse Dreams</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Its controller draws a card, then discards a card.
+Draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Corrupted Mage</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>1U/R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Wizard Horror </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a nonpermanent spell, you may discard a card. If you do, draw a card.
+When Corrupted Mage dies, you may exile it. If you do, return target nonpermanent card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Treacherous Intent</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>2U/R</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+You control enchanted creature.
+Sacrifice Treacherous Intent at the end of your next turn.</text>
+</card>
+<card>
+ <name>Deep-Dwelling Cachalot</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>7BG</manacost>
+ <cmc>9</cmc>
+ <type>Creature - Whale </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Deep-Dwelling Cachalot costs 1 less to cast for each creature card in your graveyard.
+Reach (This creature can block creatures that are diving or have flying.)</text>
+</card>
+<card>
+ <name>Induced Atrophy</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or enchantment.</text>
+</card>
+<card>
+ <name>Scour the Depths</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Influence </type>
+ <tablerow>1</tablerow>
+ <text>When Scour the Depths enters the battlefield, mill three cards, then you may return a permanent card from your graveyard to your hand.
+Whenever a creature you control dies, sacrifice Scour the Depths. When you do, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Slugs of the Depths</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>2B/G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Slug Beast </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Slugs of the Depths enters the battlefield, exile up to two target cards in a single graveyard.
+B/G, Exile Slugs of the Depths from your graveyard: Exile up to two target cards in a single graveyard.</text>
+</card>
+<card>
+ <name>Unwilling Return</name>
+ <set rarity="uncommon">YNE</set>
+ <color>BG</color>
+ <manacost>2B/GB/G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to three target creature cards from your graveyard to your hand.
+You gain 2 life.</text>
+</card>
+<card>
+ <name>Orcish Matron</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Orc Survivor </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Orcish Matron enters the battlefield, search your library for an Orc or Survivor card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Survivors' Hospitality</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control that entered the battlefield this turn get +1/+0 and gain lifelink and haste until end of turn.</text>
+</card>
+<card>
+ <name>Diversiform Warrior</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>3R/WR/W</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment Creature - Shapeshifter </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>This card is every non-Human creature type.
+Whenever Diversiform Warrior attacks, it gets +2/+0 until end of turn.
+Whenever Diversiform Warrior blocks, it gets +0/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Hectic Salvaging</name>
+ <set rarity="uncommon">YNE</set>
+ <color>WR</color>
+ <manacost>1R/W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target artifact card with mana value 3 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Homarid Onomaner</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>3GU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Homarid Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Homarid Onomaner, put a +1/+1 counter on it. Then if it shares a name with Homarid Onomaner, draw a card.</text>
+</card>
+<card>
+ <name>Population Boom</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 2/2 blue and green Camarid creature token. Then if you control four or more Camarids, put a +1/+1 counter on each Camarid you control.
+Flashback 1GU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Ustaran Censure</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target spell or creature to its owner’s hand.
+Draw a card.</text>
+</card>
+<card>
+ <name>Veilsea Voyager</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>G/UG/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, Remove a counter from a permanent you control: Veilsea Voyager gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Ancient Spellbook</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UG</color>
+ <manacost>G/U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>You have no maximum hand size.
+Equipped creature gets +1/+1 for each card you’ve drawn this turn.
+Equip 2
+Equip Wizard or Warlock 1</text>
+</card>
+<card>
+ <name>Mana Conductor</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <cipt>1</cipt>
+ <text>T: Add C 
+T: Add mana of any color for each charge counter on Mana Conductor.
+1, T: Put a charge counter on Mana Conductor.</text>
+</card>
+<card>
+ <name>Derelict Riches</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Derelict Riches enters the battlefield with three coin counters on it.
+2, T, Remove a coin counter from Derelict Riches: Scry 1, then draw a card. Then if there are no coin counters on Derelict Riches, sacrifice it. You gain 3 life.</text>
+</card>
+<card>
+ <name>Waterbarrens Harvester</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Construct Warrior </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Waterbarrens Harvester, untap Waterbarrens Harvester.
+T: Add C.</text>
+</card>
+<card>
+ <name>Perpetual Automaton</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct Survivor </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Perpetual Automaton dies, you lose 2 life.
+3: Return Perpetual Automaton from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Welder Prototype</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+At the beginning of each opponent’s upkeep, untap all other permanents you control that share a creature type with Welder Prototype.</text>
+</card>
+<card>
+ <name>Bad River</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Bad River enters the battlefield tapped.
+T, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Flood Plain</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Flood Plain enters the battlefield tapped.
+T, Sacrifice Flood Plain: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Grasslands</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Grasslands enters the battlefield tapped.
+T, Sacrifice Grasslands: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Mire Grove</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Mire Grove enters the battlefield tapped.
+T, Sacrifice Mire Grove: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Cave Pool</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Cave Pool enters the battlefield tapped.
+T, Sacrifice Cave Pool: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Mountain Valley</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Mountain Valley enters the battlefield tapped.
+T, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Rocky Tar Pit</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Rocky Tar Pit enters the battlefield tapped.
+T, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Sandy Ridge</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Sandy Ridge enters the battlefield tapped.
+T, Sacrifice Sandy Ridge: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Wetlands</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Wetlands enters the battlefield tapped.
+T, Sacrifice Wetlands: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Briny Forest</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <cipt>1</cipt>
+ <text>Briny Forest enters the battlefield tapped.
+T, Sacrifice Briny Forest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Settlement Betrayer</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Settlement Betrayer enters the battlefield, you draw a card and gain 1 life, then each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Custodians of Yenire</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>5WB</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Fish </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Custodians of Yenire enters the battlefield, exile each graveyard. Put a +1/+1 counter on Custodians of Yenire for each creature card exiled this way.</text>
+</card>
+<card>
+ <name>Growing Strife</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever one or more creatures die, creatures you control get +1/+1 until the end of your next turn.</text>
+</card>
+<card>
+ <name>Guard-Captain's Helm</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Guard-Captain’s Helm enters the battlefield, you may sacrifice a creature. If you do, attach Guard-Captain’s Helm to target creature you control.
+Equipped creature gets +2/+2 and has vigilance and lifelink.
+Equip 3</text>
+</card>
+<card>
+ <name>Sibylline Thresher</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Shark </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Haste
+Whenever this creature mutates, it deals 1 damage to each opponent and you scry 1.</text>
+</card>
+<card>
+ <name>Empowered Pet</name>
+ <set rarity="uncommon">YNE</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Mutate 2UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, you may search your library for a creature with mutate, reveal it, put it into your hand, then shuffle your library.</text>
+</card>
+<card>
+ <name>Dwimmersea Initiation</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Dwimmersea Initiation enters the battlefield, create a 0/2 blue Oyster creature token.
+Whenever you cast a creature spell, target creature gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Secrets of the Dwimmersea</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has “Whenever this creature mutates, draw two cards.”</text>
+</card>
+<card>
+ <name>Dragonheart Predator</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dragon Fish </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Ferocious — Whenever Dragonheart Predator attacks, if you control a creature with power 4 or greater, Dragonheart Predator gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Worldmaw Reaper</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Angel Fish </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 4 (4: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+Vigilance</text>
+</card>
+<card>
+ <name>The Depths Rise</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on each creature you control. Until end of turn, whenever a creature you control dies, it deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Depths-Mage's Boon</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +3/+0 and gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Scavenger Captain</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Orc Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Scavenger Captain enters the battlefield, target creature you control gets +2/+0 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Fellowship Figurehead</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Survivor Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Fellowship Figurehead enters the battlefield or attacks, create a 1/1 red Human Survivor creature token.</text>
+</card>
+<card>
+ <name>Power Vacuum</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to any target.</text>
+</card>
+<card>
+ <name>Hooked Spear</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+0 and has reach.
+Unattach Hooked Spear and sacrifice it: Hooked Spear deals 1 damage to any target.
+Equip 2</text>
+</card>
+<card>
+ <name>Coxa-Clan Bruiser</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homarid Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Coxa-Clan Bruiser can’t be blocked by creatures with power 2 or less.</text>
+</card>
+<card>
+ <name>Aggravated Crawler</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>3GU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Crab </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Aggravated Crawler gets +1/+1 for each other permanent you control that shares a name with it.</text>
+</card>
+<card>
+ <name>Erasing Epithet</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2. If you control three or more creatures that share a name, counter that spell unless its controller pays 4 instead.</text>
+</card>
+<card>
+ <name>Rampage of Clan Dactylus</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains a creature name of your choice. Each creature you control with the chosen name gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Infantry Scholar</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>W/B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Merfolk Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice Infantry Scholar, Activate only as a sorcery: Put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Unnatural Nascency</name>
+ <set rarity="common">YNE</set>
+ <color>WB</color>
+ <manacost>1W/BW/B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
+</card>
+<card>
+ <name>Outpost Thaumaturge</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>U/R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Orc Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a creature spell, Outpost Thaumaturge gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Spectral Form</name>
+ <set rarity="common">YNE</set>
+ <color>UR</color>
+ <manacost>1U/R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +1/+1 and can’t block or be blocked until end of turn. (If it is already blocking or blocked, it doesn’t stop blocking or being blocked.)</text>
+</card>
+<card>
+ <name>Chasmal Eel</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>B/GB/G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Fish </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Chasmal Eel enters the battlefield or attacks, exile up to one target card from a graveyard. If you exiled a creature card this way, you gain 1 life.</text>
+</card>
+<card>
+ <name>Rhythm of the Depths</name>
+ <set rarity="common">YNE</set>
+ <color>BG</color>
+ <manacost>1B/G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Rhythm of the Depths enters the battlefield, return target creature card from your graveyard to your hand.
+3B/G, Sacrifice Rhythm of the Depths: Return target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Raftbound Castaway</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>1R/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Survivor </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Raftbound Castaway enters the battlefield, you may discard a card. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Combat Training</name>
+ <set rarity="common">YNE</set>
+ <color>WR</color>
+ <manacost>2R/W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a creature spell, target creature you control gets +1/+0 and gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Telson-Clan Lookout</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>2G/U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Homarid Scout Ranger </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+3: Telson-Clan Lookout gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Camouflage of the Gloamsea</name>
+ <set rarity="common">YNE</set>
+ <color>UG</color>
+ <manacost>G/U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains hexproof until end of turn. Put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Worldmaw Ingress</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+3, T, Sacrifice Worldmaw Ingress: Exile all graveyards. Draw a card.</text>
+</card>
+<card>
+ <name>Warped Lagoon</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or R.)
+Warped Lagoon enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Murky Bog</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or G.)
+Murky Bog enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Staggering Overlook</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or W.)
+Staggering Overlook enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Leafy Refuge</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or U.)
+Leafy Refuge enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Neglected Prison</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or B.)
+Neglected Prison enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Wellspring of the Faceless</name>
+ <set rarity="uncommon">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Kindred Land</type>
+ <tablerow>0</tablerow>
+ <text>As Wellspring of the Faceless enters the battlefield, choose a creature type. Wellspring of the Faceless gains that type.
+T: Add C. 
+1, T: Add one mana of any color. If you spend this mana to cast a spell of the chosen type, it enters the battlefield with an additional +1/+1 counter.</text>
+</card>
+<card>
+ <name>Orchestrated War</name>
+ <set rarity="mythic" splitterPath="/Orchestrated War.full.jpg" >YNE</set>
+ <color>WBR</color>
+ <related attach="attach">Merelisene Renegade</related>
+ <manacost>1RWB</manacost>
+ <cmc>4</cmc>
+ <type>Battle - Siege</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When Orchestrated War enters the battlefield, create two 2/1 white Merfolk Soldier creature tokens with dive 3. Each opponent loses 3 life and you gain 3 life.
+---
+(Back): Merelisene Renegade</text>
+</card>
+<card>
+ <name>Merelisene Renegade</name>
+ <set rarity="mythic" splitterPath="/Merelisene Renegade.full.jpg" >YNE</set>
+ <color>WBR</color>
+ <manacost></manacost>
+ <cmc>4</cmc>
+ <type>Creature - Merfolk Survivor </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an opponent casts a spell, you may pay 2. If you do, Merelisene Renegade phases out.
+Whenever Merelisene Renegade deals combat damage to a player, draw a card, then discard a card.
+---
+(Front): Orchestrated War</text>
+</card>
+<card>
+ <name>Hellish Cod</name>
+ <set rarity="mythic">YNE</set>
+ <color>BRG</color>
+ <manacost>1BRG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Zombie Fish </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+At the beginning of your upkeep, you may exile two cards from your graveyard. If you do, return Hellish Cod from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Allonymous Tyranny</name>
+ <set rarity="mythic">YNE</set>
+ <color>UBG</color>
+ <manacost>3BGU</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Allonymous Tyranny enters the battlefield, choose a creature card name. Up to one target creature gains that name, then you gain control of all creatures with the chosen name until Allonymous Tyranny leaves the battlefield.</text>
+</card>
+<card>
+ <name>Ustaran Spell Hunter</name>
+ <set rarity="mythic">YNE</set>
+ <color>WUR</color>
+ <manacost>URW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Dive RW (RW: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+When Ustaran Spell Hunter enters the battlefield, if it was cast, search your library for a nonpermanent card, reveal it, then shuffle and put that card on top.</text>
+</card>
+<card>
+ <name>Whiskered Sailfin</name>
+ <set rarity="mythic">YNE</set>
+ <color>UBR</color>
+ <manacost>UBR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Fish Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>This creature gets +1/+1 for each time it has mutated.
+If another non-Human creature you control would die, mutate it under this creature instead.</text>
+</card>
+<card>
+ <name>Seagrass Prairie</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or U.)
+Seagrass Prairie enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Flooded Chasm</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Island Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or B.)
+Flooded Chasm enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Volcanic Cascade</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)
+Volcanic Cascade enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Peculiar Growth</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or G.)
+Peculiar Growth enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Vibrant Habitat</name>
+ <set rarity="rare">YNE</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land - Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or W.)
+Vibrant Habitat enters the battlefield tapped unless your life total is greater than your starting life total minus 3.</text>
+</card>
+<card>
+ <name>Ranera's Crusade</name>
+ <set rarity="rare">YNE</set>
+ <color>WB</color>
+ <manacost>4WB</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>
+Tidal 3 (When this enters and at the beginning of your upkeep, put a tide counter on this. If there are more than three counters, remove all but one.)
+1 Low Tide
+You draw three cards and gain 3 life.
+2 Mid Tide
+Create two 2/1 white Merfolk Soldier creature tokens with dive 3.
+3 High Tide
+Creatures you don’t control get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Camarid YNE</name>
+ <set>YNE</set>
+ <color>UG</color>
+ <type>Token Creature - Camarid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Telson-Clan Matron</reverse-related>
+<reverse-related>Population Boom</reverse-related>
+
+</card>
+<card>
+ <name>Human Survivor YNE</name>
+ <set>YNE</set>
+ <color>R</color>
+ <type>Token Creature - Human Survivor </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Resolute Vestiges</reverse-related>
+<reverse-related>Roundabout Trip</reverse-related>
+<reverse-related>Scavenger Team</reverse-related>
+<reverse-related>New Vargoth Submarine</reverse-related>
+<reverse-related>Fellowship Figurehead</reverse-related>
+<reverse-related count="2">Purposeful Charge</reverse-related>
+<reverse-related>Merelisene Deserter</reverse-related>
+
+</card>
+<card>
+ <name>Merfolk Soldier YNE</name>
+ <set>YNE</set>
+ <color>W</color>
+ <type>Token Creature - Merfolk Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Dive 3 (3: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+ <token>1</token>
+<reverse-related>Accomplished Mentor</reverse-related>
+<reverse-related>Growing Paranoia</reverse-related>
+<reverse-related>Master of Unrest</reverse-related>
+<reverse-related>Ranera's Command</reverse-related>
+<reverse-related>Ranera's Crusade</reverse-related>
+<reverse-related>Orchestrated War</reverse-related>
+
+</card>
+<card>
+ <name>Fish YNE</name>
+ <set>YNE</set>
+ <color>G</color>
+ <type>Token Creature - Fish </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related count="2">Benthic Wanderer</reverse-related>
+<reverse-related count="2">Vivien's Journal</reverse-related>
+<reverse-related>Pacifying Rays</reverse-related>
+<reverse-related>Atlista Cutthroat</reverse-related>
+<reverse-related>School Swarming</reverse-related>
+<reverse-related count="2">Irreconcilable Rebirth</reverse-related>
+<reverse-related count="2">Depths-Stricken Monster</reverse-related>
+<reverse-related>Chemosynthesis</reverse-related>
+
+</card>
+<card>
+ <name>Oyster YNE</name>
+ <set>YNE</set>
+ <color>U</color>
+ <type>Token Creature - Oyster </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Oyster Spawning Grounds</reverse-related>
+<reverse-related>Dwimmersea Initiation</reverse-related>
+<reverse-related>Erratic Substitution</reverse-related>
+
+</card>
+<card>
+ <name>Influence YNE</name>
+ <set>YNE</set>
+ <color>B</color>
+ <type>Token Enchantment - Influence </type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.</text>
+ <token>1</token>
+<reverse-related>Scion of the Depths</reverse-related>
+<reverse-related>Sway of the Depths</reverse-related>
+
+</card>
+<card>
+ <name>Treasure YNE</name>
+ <set>YNE</set>
+ <color></color>
+ <type>Token Artifact - Treasure </type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+<reverse-related>Merelisene Spy</reverse-related>
+<reverse-related>New Vargoth Scrapper</reverse-related>
+
+</card>
+<card>
+ <name>Shapeshifter YNE</name>
+ <set>YNE</set>
+ <color></color>
+ <type>Token Enchantment Creature - Shapeshifter </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>This creature is every non-Human creature type.</text>
+ <token>1</token>
+<reverse-related>Unnatural Nascency</reverse-related>
+<reverse-related>Form of the Faceless</reverse-related>
+<reverse-related>Awoken Remembrance</reverse-related>
+
+</card>
+<card>
+ <name>Equipment YNE</name>
+ <set>YNE</set>
+ <color></color>
+ <type>Token Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 and has vigilance.
+Equip 2</text>
+ <token>1</token>
+<reverse-related>Blackrock Smith</reverse-related>
+
+</card>
+<card>
+ <name>Turtle YNE</name>
+ <set>YNE</set>
+ <color>G</color>
+ <type>Creature - Turtle </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+<reverse-related>Vivien, Chronicler of Seas</reverse-related>
+
+</card>
+
+</cards>
+</cockatrice_carddatabase>
