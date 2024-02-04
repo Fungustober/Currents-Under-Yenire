@@ -178,10 +178,10 @@ As long as you control three or more creatures that share a name, Homarid Chieft
  <name>Merelisene Mage-Guard</name>
  <set rarity="uncommon">YNE</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
  <type>Creature - Merfolk Warlock Soldier </type>
- <pt>1/1</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
 The first time each turn an opponent casts a noncreature spell, they lose 3 life unless they discard a card or sacrifice a nonland permanent.</text>
@@ -362,10 +362,10 @@ B, Sacrifice a creature: Surveil 3.</text>
  <name>Nedaara, High Mage of Ustaro</name>
  <set rarity="rare">YNE</set>
  <color>WR</color>
- <manacost>RW</manacost>
- <cmc>2</cmc>
+ <manacost>2RW</manacost>
+ <cmc>4</cmc>
  <type>Legendary Creature - Human Wizard </type>
- <pt>2/2</pt>
+ <pt>3/4</pt>
  <tablerow>2</tablerow>
  <text>T, Sacrifice another Survivor or Wizard: Return target sorcery card from your graveyard to your hand.</text>
 </card>
@@ -592,8 +592,8 @@ When Protean Hindrance enters the battlefield, spells cost 1 more to cast until 
  <name>Disguised Informant</name>
  <set rarity="common">YNE</set>
  <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
  <type>Creature - Merfolk Scout </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
@@ -611,7 +611,7 @@ When Disguised Informant enters the battlefield, scry X, where X is the number o
  <text>Creatures you control get +2/+0 and gain indestructible until end of turn.</text>
 </card>
 <card>
- <name>Assume Identity</name>
+ <name>Charlatan's Betrayal</name>
  <set rarity="common">YNE</set>
  <color>U</color>
  <manacost>1UU</manacost>
@@ -828,7 +828,7 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <type>Creature - Merfolk Advisor </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>When Unscrupulous Authority enters the battlefield, each opponent loses 1 life for each Merfolk you control.</text>
+ <text>When Unscrupulous Authority enters the battlefield, each opponent loses 1 life for each Merfolk you control. You gain life equal to the amount of life lost this way.</text>
 </card>
 <card>
  <name>Blessing of the Depths</name>
@@ -850,7 +850,7 @@ When enchanted creature dies or is put into exile, return it to the battlefield 
  <type>Creature - Orc Survivor </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gets +1/+0 and gains first strike until end of turn.</text>
+ <text>Strength in numbers — Whenever another permanent enters the battlefield under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gets +1/+0 and gains menace until end of turn.</text>
 </card>
 <card>
  <name>Sanctuary Instigator</name>
@@ -910,11 +910,11 @@ Whenever this creature mutates, it gets +1/+0 until end of turn.</text>
  <name>Explosive Rage</name>
  <set rarity="common">YNE</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
  <type>Kindred Enchantment - Orc Aura </type>
  <tablerow>1</tablerow>
- <text>You may cast this spell as though it had flash. If you do, it costs 1R to cast.
+ <text>You may cast this spell as though it had flash. If you do, it costs 2R to cast.
 Enchant creature
 Enchanted creature gets +1/+1 and has first strike.</text>
 </card>
@@ -1084,11 +1084,12 @@ Other creatures you control that share a name with Carpus-Clan Brawler get +1/+0
  <name>Cure Death</name>
  <set rarity="common">YNE</set>
  <color>WB</color>
- <manacost>1WB</manacost>
- <cmc>3</cmc>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Return target Merfolk card from your graveyard to the battlefield.</text>
+ <text>Return target Merfolk card from your graveyard to the battlefield.
+WB, Discard Cure Death: Return target merfolk card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
 </card>
 <card>
  <name>Fatal Verdict</name>
@@ -1128,7 +1129,7 @@ When Atlistan Guard-Captain enters the battlefield, exile target creature you do
  <color>WB</color>
  <manacost>1WB</manacost>
  <cmc>3</cmc>
- <type>Creature - Merfolk Warrior </type>
+ <type>Creature - Merfolk Soldier </type>
  <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
@@ -1364,7 +1365,7 @@ Equip 4</text>
  <cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Create two 1/1 red Human Survivor tokens. Creatures you control gain first strike until end of turn.</text>
+ <text>Create two 1/1 red Human Survivor tokens. Creatures you control get +1/+1 until end of turn.</text>
 </card>
 <card>
  <name>Waterlogged City</name>
@@ -1916,7 +1917,7 @@ Once each turn, whenever you cast a spell, if it isn’t your turn, you may draw
  <manacost>1BB</manacost>
  <cmc>3</cmc>
  <type>Creature - Human Warlock Survivor </type>
- <pt>2/2</pt>
+ <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>Dive—Discard a card. (Discard a card: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
 Death Trap Archmage can’t block.
@@ -2024,7 +2025,7 @@ Tidal 2 (When this enters and at the beginning of your upkeep, put a tide counte
 1 Low Tide
 Each opponent discards a card.
 2 High Tide
-Each opponent loses life equal to 5 minus the number of cards in their hand.</text>
+Each opponent loses life equal to 4 minus the number of cards in their hand.</text>
 </card>
 <card>
  <name>Wrathful Mourner</name>
@@ -2036,7 +2037,7 @@ Each opponent loses life equal to 5 minus the number of cards in their hand.</te
  <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>Haste
-When Wrathful Mourner dies, it deals damage equal to its power to another target creature you control.</text>
+When Wrathful Mourner dies, it deals 2 damage to another target creature you control.</text>
 </card>
 <card>
  <name>Coordinated Scavenging</name>
@@ -2356,8 +2357,8 @@ Whenever you cast a spell that targets only a single creature you control, copy 
  <name>Merelisene Deserter</name>
  <set rarity="rare">YNE</set>
  <color>WB</color>
- <manacost>1WB</manacost>
- <cmc>3</cmc>
+ <manacost>2WB</manacost>
+ <cmc>4</cmc>
  <type>Creature - Merfolk Rogue </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
@@ -2556,7 +2557,7 @@ Creatures you control get +X/+X, where X is the greatest number of permanents yo
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>As Dactylus-Clan Titan enters the battlefield, it gains the creature card name of your choice.
-Whenever another creature that shares a name with Dactylus-Clan Titan enters the battlefield under your control, put two +1/+1 counters on this creature. </text>
+Whenever another creature that shares a name with this creature enters the battlefield under your control, put two +1/+1 counters on this creature. </text>
 </card>
 <card>
  <name>Into the Unknown</name>
@@ -2574,7 +2575,7 @@ Whenever another creature that shares a name with Dactylus-Clan Titan enters the
  <color>WB</color>
  <manacost>WB</manacost>
  <cmc>2</cmc>
- <type>Creature - Merfolk Warrior </type>
+ <type>Creature - Merfolk Soldier </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Whenever another creature you control dies, if it shares a creature type with Empathetic Guard, you may sacrifice Empathetic Guard. If you do, return that creature to the battlefield under your control.</text>
@@ -3246,7 +3247,7 @@ Aggravated Crawler gets +1/+1 for each other permanent you control that shares a
  <color>WB</color>
  <manacost>W/B</manacost>
  <cmc>1</cmc>
- <type>Creature - Merfolk Warrior </type>
+ <type>Creature - Merfolk Soldier </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Sacrifice Infantry Scholar, Activate only as a sorcery: Put a +1/+1 counter on target creature you control.</text>
@@ -3323,7 +3324,7 @@ Aggravated Crawler gets +1/+1 for each other permanent you control that shares a
  <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Whenever you cast a creature spell, target creature you control gets +1/+0 and gains first strike until end of turn.</text>
+ <text>Whenever you cast a creature spell, target creature you control gets +1/+1 until end of turn.</text>
 </card>
 <card>
  <name>Telson-Clan Lookout</name>
@@ -3596,7 +3597,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
-<reverse-related>Resolute Vestiges</reverse-related>
+<reverse-related count="2">Resolute Vestiges</reverse-related>
 <reverse-related>Roundabout Trip</reverse-related>
 <reverse-related>Scavenger Team</reverse-related>
 <reverse-related>New Vargoth Submarine</reverse-related>

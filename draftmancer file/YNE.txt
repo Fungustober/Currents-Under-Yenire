@@ -128,7 +128,7 @@
 	    {
 	        "name": "Merelisene Mage-Guard",
 	        "rarity": "uncommon",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Merfolk Warlock Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Merelisene%20Mage-Guard.png?raw=true"
@@ -272,7 +272,7 @@
 	    {
 	        "name": "Nedaara, High Mage of Ustaro",
 	        "rarity": "rare",
-	        "mana_cost": "{R}{W}",
+	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Nedaara%2c%20High%20Mage%20of%20Ustaro.png?raw=true"
@@ -443,7 +443,7 @@
 	    {
 	        "name": "Disguised Informant",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Merfolk Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Disguised%20Informant.png?raw=true"
@@ -459,12 +459,12 @@
 	        }
 	    },
 	    {
-	        "name": "Assume Identity",
+	        "name": "Charlatan's Betrayal",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Assume%20Identity.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Charlatan%27s%20Betrayal.png?raw=true"
 	        }
 	    },
 	    {
@@ -704,7 +704,7 @@
 	    {
 	        "name": "Explosive Rage",
 	        "rarity": "common",
-	        "mana_cost": "{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Kindred Enchantment — Orc Aura ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Explosive%20Rage.png?raw=true"
@@ -848,7 +848,7 @@
 	    {
 	        "name": "Cure Death",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}{B}",
+	        "mana_cost": "{2}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Cure%20Death.png?raw=true"
@@ -885,7 +885,7 @@
 	        "name": "Stingfield Guards",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}{B}",
-	        "type": "Creature — Merfolk Warrior ",
+	        "type": "Creature — Merfolk Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Stingfield%20Guards.png?raw=true"
 	        }
@@ -1793,7 +1793,7 @@
 	    {
 	        "name": "Merelisene Deserter",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{W}{B}",
+	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Merelisene%20Deserter.png?raw=true"
@@ -1965,7 +1965,7 @@
 	        "name": "Empathetic Guard",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{B}",
-	        "type": "Creature — Merfolk Warrior ",
+	        "type": "Creature — Merfolk Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Empathetic%20Guard.png?raw=true"
 	        }
@@ -2496,7 +2496,7 @@
 	        "name": "Infantry Scholar",
 	        "rarity": "common",
 	        "mana_cost": "{W/B}",
-	        "type": "Creature — Merfolk Warrior ",
+	        "type": "Creature — Merfolk Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Infantry%20Scholar.png?raw=true"
 	        }
@@ -2930,7 +2930,7 @@
 		6 Sanctuary Snarecaster
 		6 Disguised Informant
 		6 Authorized Attack
-		6 Assume Identity
+		6 Charlatan's Betrayal
 		6 Drowning Waves
 		6 Arcane Discovery
 		6 Omenzoa
