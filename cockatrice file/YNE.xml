@@ -1901,7 +1901,7 @@ Nonbasic lands become Islands until the beginning of your next upkeep.</text>
  <type>Creature - Homarid Wizard </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>When Homarid Namebinder enters, tap target creature you don’t control and it gains the creature card name of your choice. That creature doesn’t untap during its controller’s untap step for as long as you control a creature that shares a name with it.</text>
+ <text>When Homarid Namebinder enters, tap target creature you don’t control. That creature gains the creature card name of your choice and doesn’t untap during its controller’s untap step for as long as you control a creature that shares a name with it.</text>
 </card>
 <card>
  <name>Death Trap Archmage</name>
@@ -2330,7 +2330,7 @@ Until the end of turn, you may play an additional land this turn.</text>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
  <text>Mutate 1UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
-Whenever you cast a spell that targets only a single creature you control, copy that spell and you may choose new targets for the copy.</text>
+Whenever you cast a spell that targets only a single creature you control, copy that spell. You may choose new targets for the copy.</text>
 </card>
 <card>
  <name>Madame Fireblood</name>
@@ -2672,7 +2672,7 @@ When Corrupted Mage dies, you may exile it. If you do, return target nonpermanen
  <tablerow>1</tablerow>
  <text>Enchant creature
 You control enchanted creature.
-Sacrifice Treacherous Intent at the end of your next turn.</text>
+When Treacherous Intent enters, scry 1. Sacrifice Treacherous Intent at the beginning of your next turn’s end step.</text>
 </card>
 <card>
  <name>Deep-Dwelling Cachalot</name>
@@ -2841,7 +2841,7 @@ Equip Wizard or Warlock 1</text>
  <tablerow>1</tablerow>
  <cipt>1</cipt>
  <text>T: Add C 
-T: Add mana of any color for each charge counter on Mana Conductor.
+T: Add one mana of any color for each charge counter on Mana Conductor.
 1, T: Put a charge counter on Mana Conductor.</text>
 </card>
 <card>
