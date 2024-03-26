@@ -1,11 +1,11 @@
 [CustomCards]
 	[    {
-	        "name": "Spy Kit",
+	        "name": "Repurposed Apparatus",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Spy%20Kit.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Repurposed%20Apparatus.png?raw=true"
 	        }
 	    },
 	    {
@@ -47,7 +47,7 @@
 	    {
 	        "name": "Ego Donor",
 	        "rarity": "common",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Homarid ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ego%20Donor.png?raw=true"
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Crushing Pressure",
 	        "rarity": "rare",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Crushing%20Pressure.png?raw=true"
@@ -1406,26 +1406,26 @@
 	    {
 	        "name": "Nedaara's Search",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Nedaara%27s%20Search.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Oyster Spawning Grounds",
+	        "name": "Homarid Spawning Grounds",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Oyster%20Spawning%20Grounds.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Spawning%20Grounds.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Rouse the Clan",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Rouse%20the%20Clan.png?raw=true"
 	        }
@@ -1460,19 +1460,19 @@
 	    {
 	        "name": "The Great Sinking",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/The%20Great%20Sinking.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Riddle-Sworn Dissident",
+	        "name": "Homarid Namebinder",
 	        "rarity": "rare",
-	        "mana_cost": "{U}{U}",
-	        "type": "Creature — Merfolk Wizard ",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Homarid Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Riddle-Sworn%20Dissident.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Namebinder.png?raw=true"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	    {
 	        "name": "End of Identity",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/End%20of%20Identity.png?raw=true"
@@ -1569,7 +1569,7 @@
 	        "name": "Coordinated Scavenging",
 	        "rarity": "rare",
 	        "mana_cost": "{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Coordinated%20Scavenging.png?raw=true"
 	        }
@@ -1667,7 +1667,7 @@
 	    {
 	        "name": "Merus-Clan Tender",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Homarid Druid ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Merus-Clan%20Tender.png?raw=true"
@@ -1784,7 +1784,7 @@
 	    {
 	        "name": "Madame Fireblood",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{R}{W}",
+	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Planeswalker — Hadanu ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Madame%20Fireblood.png?raw=true"
@@ -1899,12 +1899,12 @@
 	        }
 	    },
 	    {
-	        "name": "Form of the Faceless",
+	        "name": "Esteemed Warlord",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{W}",
-	        "type": "Enchantment",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Form%20of%20the%20Faceless.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Esteemed%20Warlord.png?raw=true"
 	        }
 	    },
 	    {
@@ -2322,12 +2322,12 @@
 	        }
 	    },
 	    {
-	        "name": "Custodians of Yenire",
+	        "name": "Stingfield Colossus",
 	        "rarity": "common",
 	        "mana_cost": "{5}{W}{B}",
-	        "type": "Creature — Fish ",
+	        "type": "Creature — Jellyfish ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Custodians%20of%20Yenire.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Stingfield%20Colossus.png?raw=true"
 	        }
 	    },
 	    {
@@ -2678,8 +2678,8 @@
 	    {
 	        "name": "Allonymous Tyranny",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{B}{G}{U}",
-	        "type": "Enchantment",
+	        "mana_cost": "{1}{B}{G}{U}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Allonymous%20Tyranny.png?raw=true"
 	        }
@@ -2758,7 +2758,7 @@
 	    }
 	]
 	[RareSlot(1)]
-		2 Spy Kit
+		2 Repurposed Apparatus
 		2 Orb of Conformity
 		2 Merelisene Spy
 		2 Master of Unrest
@@ -2780,7 +2780,7 @@
 		2 Bivalve Augur
 		2 Keeper of Mysteries
 		2 The Great Sinking
-		2 Riddle-Sworn Dissident
+		2 Homarid Namebinder
 		2 Death Trap Archmage
 		2 Ranera's Command
 		2 Wrathful Mourner
@@ -2803,7 +2803,7 @@
 		2 Tusker Migration
 		2 Depths-Pact Mage
 		2 Thülendan of New Vargoth
-		2 Form of the Faceless
+		2 Esteemed Warlord
 		2 Fleshthresher
 		2 Hadanu's Arbitration
 		2 Chyklis, Rostrum-Clan Onolich
@@ -2856,7 +2856,7 @@
 		3 Clever Coral
 		3 Survivor's Rebuff
 		3 Nedaara's Search
-		3 Oyster Spawning Grounds
+		3 Homarid Spawning Grounds
 		3 Rouse the Clan
 		3 Autonymic Genesis
 		3 Hadal-Deep Stalker
@@ -3012,7 +3012,7 @@
 		6 Favor of the the Depths
 		6 Deep-Spawn Ink-Breather
 		6 Settlement Betrayer
-		6 Custodians of Yenire
+		6 Stingfield Colossus
 		6 Growing Strife
 		6 Guard-Captain's Helm
 		6 Sibylline Thresher
