@@ -2672,7 +2672,7 @@ When Corrupted Mage dies, you may exile it. If you do, return target nonpermanen
  <tablerow>1</tablerow>
  <text>Enchant creature
 You control enchanted creature.
-When Treacherous Intent enters, scry 1. Sacrifice Treacherous Intent at the beginning of your next turn’s end step.</text>
+When Treacherous Intent enters, scry 1. Sacrifice it at the beginning of your next turn’s end step.</text>
 </card>
 <card>
  <name>Deep-Dwelling Cachalot</name>
