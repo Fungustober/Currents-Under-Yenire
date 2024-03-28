@@ -443,7 +443,7 @@
 	    {
 	        "name": "Disguised Informant",
 	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Merfolk Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Disguised%20Informant.png?raw=true"
@@ -569,7 +569,7 @@
 	    {
 	        "name": "Bloodthirsty Squid",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Creature — Squid ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Bloodthirsty%20Squid.png?raw=true"
@@ -605,7 +605,7 @@
 	    {
 	        "name": "Deadly Deceit",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Deadly%20Deceit.png?raw=true"
@@ -623,7 +623,7 @@
 	    {
 	        "name": "Ranera's Enforcer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Merfolk Mercenary ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ranera%27s%20Enforcer.png?raw=true"
@@ -650,7 +650,7 @@
 	    {
 	        "name": "Orcish Stalwart",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Orc Survivor ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Orcish%20Stalwart.png?raw=true"
@@ -695,7 +695,7 @@
 	    {
 	        "name": "Infuriated Starfish",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Starfish ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Infuriated%20Starfish.png?raw=true"
@@ -1460,7 +1460,7 @@
 	    {
 	        "name": "The Great Sinking",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/The%20Great%20Sinking.png?raw=true"
@@ -1793,7 +1793,7 @@
 	    {
 	        "name": "Merelisene Deserter",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{B}",
+	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Merelisene%20Deserter.png?raw=true"
@@ -1811,7 +1811,7 @@
 	    {
 	        "name": "Atlistan Tariff",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{B}",
+	        "mana_cost": "{1}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Atlistan%20Tariff.png?raw=true"
@@ -1991,7 +1991,7 @@
 	    {
 	        "name": "Brigade Taskmaster",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W/B}",
+	        "mana_cost": "{2}{W/B}",
 	        "type": "Creature — Merfolk Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Brigade%20Taskmaster.png?raw=true"
@@ -2332,7 +2332,7 @@
 	    },
 	    {
 	        "name": "Growing Strife",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
@@ -2351,7 +2351,7 @@
 	    {
 	        "name": "Sibylline Thresher",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}{R}",
+	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Shark ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sibylline%20Thresher.png?raw=true"
@@ -2360,7 +2360,7 @@
 	    {
 	        "name": "Empowered Pet",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{R}",
+	        "mana_cost": "{2}{U}{R}",
 	        "type": "Creature — Fish ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Empowered%20Pet.png?raw=true"
@@ -2567,7 +2567,7 @@
 	    {
 	        "name": "Telson-Clan Lookout",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G/U}",
+	        "mana_cost": "{G/U}",
 	        "type": "Creature — Homarid Scout Ranger ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Telson-Clan%20Lookout.png?raw=true"
@@ -2910,16 +2910,17 @@
 		3 Perpetual Automaton
 		3 Empowered Pet
 		3 Wellspring of the Faceless
+		3 Growing Strife
 	[CommonSlot(10)]
 		6 Sanctuary Scavenger
 		6 Caller of the Extraordinary
 		6 Ego Donor
 		6 Rebellious Deepwalker
 		6 Dactylus-Clan Druid
-		6 Flawed Foresight
+		4 Flawed Foresight
 		6 Murk Feeder
 		6 Mercurial Accomplice
-		6 Homarid Ordinary
+		4 Homarid Ordinary
 		6 Scavenger Team
 		6 Merelisene Insurgent
 		6 Erase Identity
@@ -2928,7 +2929,7 @@
 		6 Kelp Tender
 		6 Protean Hindrance
 		6 Sanctuary Snarecaster
-		6 Disguised Informant
+		4 Disguised Informant
 		6 Authorized Attack
 		6 Charlatan's Betrayal
 		6 Drowning Waves
@@ -2972,30 +2973,30 @@
 		6 Burgeoning Lumpus
 		6 Savage Predator
 		6 Carpus-Clan Brawler
-		6 Cure Death
+		4 Cure Death
 		6 Fatal Verdict
-		6 Ranera's Edict
-		6 Atlistan Guard-Captain
-		6 Stingfield Guards
+		4 Ranera's Edict
+		4 Atlistan Guard-Captain
+		4 Stingfield Guards
 		6 Court Retainer
 		6 Perilous Discovery
-		6 Dwimmersea Leviathan
+		4 Dwimmersea Leviathan
 		6 Dwimmersea Horror
-		6 Inquisitive Amphibian
-		6 Mystic Ricochet
-		6 Benthic Wanderer
+		4 Inquisitive Amphibian
+		4 Mystic Ricochet
+		4 Benthic Wanderer
 		6 Depthsdraught
-		6 Irreconcilable Rebirth
-		6 Hunger of the Abyssal
-		6 Ravenous Forager
-		6 Epithet Flask
-		6 Strength in Names
+		4 Irreconcilable Rebirth
+		4 Hunger of the Abyssal
+		4 Ravenous Forager
+		4 Epithet Flask
+		4 Strength in Names
 		6 Pacifying Rays
-		6 Sunken-Grove Scholar
+		4 Sunken-Grove Scholar
 		6 Homarid Journeymage
-		6 Sun's Favor
-		6 Dwimmersea Scrounger
-		6 Daring Scavenger
+		4 Sun's Favor
+		4 Dwimmersea Scrounger
+		4 Daring Scavenger
 		6 Purposeful Charge
 		6 Waterlogged City
 		6 Shell of the Derelict
@@ -3010,26 +3011,25 @@
 		6 Ancestral Might
 		6 Ancestor-Blessed Blade
 		6 Favor of the the Depths
-		6 Deep-Spawn Ink-Breather
-		6 Settlement Betrayer
-		6 Stingfield Colossus
-		6 Growing Strife
-		6 Guard-Captain's Helm
-		6 Sibylline Thresher
-		6 Dwimmersea Initiation
-		6 Secrets of the Dwimmersea
-		6 Dragonheart Predator
-		6 Worldmaw Reaper
-		6 The Depths Rise
-		6 Depths-Mage's Boon
-		6 Scavenger Captain
-		6 Fellowship Figurehead
-		6 Power Vacuum
-		6 Hooked Spear
-		6 Coxa-Clan Bruiser
-		6 Aggravated Crawler
-		6 Erasing Epithet
-		6 Rampage of Clan Dactylus
+		4 Deep-Spawn Ink-Breather
+		4 Settlement Betrayer
+		4 Stingfield Colossus
+		4 Guard-Captain's Helm
+		4 Sibylline Thresher
+		4 Dwimmersea Initiation
+		4 Secrets of the Dwimmersea
+		4 Dragonheart Predator
+		4 Worldmaw Reaper
+		4 The Depths Rise
+		4 Depths-Mage's Boon
+		4 Scavenger Captain
+		4 Fellowship Figurehead
+		4 Power Vacuum
+		4 Hooked Spear
+		4 Coxa-Clan Bruiser
+		4 Aggravated Crawler
+		4 Erasing Epithet
+		4 Rampage of Clan Dactylus
 		6 Infantry Scholar
 		6 Unnatural Nascency
 		6 Outpost Thaumaturge
@@ -3066,4 +3066,3 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
-	

@@ -74,7 +74,7 @@ You may pay 1R to cast this spell. If you do, it gets +2/+0 and gains “At the 
  <manacost>1U</manacost>
  <cmc>2</cmc>
  <type>Creature - Homarid </type>
- <pt>1/1</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>When Ego Donor dies, create a 2/2 blue and green Camarid creature token with Ego Donor’s names in addition to its other names.</text>
 </card>
@@ -100,7 +100,7 @@ Lifelink</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>As Dactylus-Clan Druid enters, it gains the creature name of your choice.
-Whenever Dactylus-Clan Druid attacks, you may remove a name from Dactylus-Clan Druid. If you do, target creature gains that name.</text>
+When Dactylus-Clan Druid enters, up to one target creature gains Dactylus-Clan Druid’s names.</text>
 </card>
 <card>
  <name>Flawed Foresight</name>
@@ -171,7 +171,7 @@ Cycling 1GU (1GU, Discard this card: Draw a card.)</text>
  <type>Creature - Homarid Warrior </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>As Homarid Chieftain enters, it gains the creature card name of your choice.
+ <text>As Homarid Chieftain enters, it gains the creature name of your choice. 
 As long as you control three or more creatures that share a name, Homarid Chieftain gets +2/+1.</text>
 </card>
 <card>
@@ -226,7 +226,7 @@ Ferocious — When Ancient Isopod dies while you control a creature with power 4
  <manacost>2UR</manacost>
  <cmc>4</cmc>
  <type>Creature - Fish Horror </type>
- <pt>2/2</pt>
+ <pt>0/4</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Unstable Anglerfish, Unstable Anglerfish becomes a copy of that permanent until the end of turn, except it has this ability.</text>
 </card>
@@ -377,7 +377,7 @@ B, Sacrifice a creature: Surveil 3.</text>
  <type>Creature - Homarid Rogue </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>As Identity Bandit enters, choose a creature card name. Identity Bandit gains that name.
+ <text>As Identity Bandit enters, choose a creature name. Identity Bandit gains that name.
 When Identity Bandit enters, return each other nonland permanent that shares a name with Identity Bandit to its owner’s hand.
 Players can’t cast spells that share a name with Identity Bandit.</text>
 </card>
@@ -482,9 +482,9 @@ Whenever Oceanic Unmaker attacks, if it’s diving, pay XX. Oceanic Unmaker deal
  <manacost>3GU</manacost>
  <cmc>5</cmc>
  <type>Creature - Homarid Soldier </type>
- <pt>3/3</pt>
+ <pt>3/5</pt>
  <tablerow>2</tablerow>
- <text>As Rostrum-Clan Warlord enters, it gains the creature card name of your choice.
+ <text>As Rostrum-Clan Warlord enters, it gains the creature name of your choice.
 Whenever another nontoken creature you control that shares a name with this creature attacks, you may create a token copy of that creature.</text>
 </card>
 <card>
@@ -548,7 +548,7 @@ Enchanted creature loses all names and can’t attack or block.</text>
  <manacost>4W</manacost>
  <cmc>5</cmc>
  <type>Creature - Merfolk Wizard </type>
- <pt>4/3</pt>
+ <pt>5/4</pt>
  <tablerow>2</tablerow>
  <text>Dive 1W (1W: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
 3W, Exile Accomplished Mentor from your graveyard, Activate only as a sorcery: Create a 2/1 white Merfolk Soldier creature token with dive 3.</text>
@@ -571,7 +571,7 @@ Enchanted creature loses all names and can’t attack or block.</text>
  <manacost>2W</manacost>
  <cmc>3</cmc>
  <type>Enchantment Creature - Shapeshifter </type>
- <pt>3/2</pt>
+ <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>This card is every non-Human creature type.
 When Protean Hindrance enters, spells cost 1 more to cast until the beginning of your next turn.</text>
@@ -591,8 +591,8 @@ When Protean Hindrance enters, spells cost 1 more to cast until the beginning of
  <name>Disguised Informant</name>
  <set rarity="common">YNE</set>
  <color>W</color>
- <manacost>2W</manacost>
- <cmc>3</cmc>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
  <type>Creature - Merfolk Scout </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
@@ -617,7 +617,7 @@ When Disguised Informant enters, scry X, where X is the number of Merfolk you co
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Counter target spell. If that spell was a creature spell, put a +1/+1 counter on target creature you control.</text>
+ <text>Counter target spell. If that spell was a creature spell, put a +1/+1 counter on up to one target creature you control.</text>
 </card>
 <card>
  <name>Drowning Waves</name>
@@ -695,7 +695,7 @@ Draw a card.</text>
  <type>Creature - Homarid Warrior </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>As Intimidating Crustacean enters, it gains the creature name of your choice.
+ <text>As Intimidating Crustacean enters, it gains the creature name of your choice.  (You may choose a creature token name.)
 Whenever another creature that shares a name with Intimidating Crustacean enters the battlefield, tap up to one target creature.</text>
 </card>
 <card>
@@ -720,7 +720,7 @@ This creature can’t be blocked.</text>
  <type>Creature - Homarid Wizard </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>As Homarid Arcanist enters, it gains the creature card name of your choice.
+ <text>As Homarid Arcanist enters, it gains the creature name of your choice.
 Creatures you control that share a name with Homarid Arcanist have dive 2.  (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
@@ -747,12 +747,12 @@ Creatures you control that share a name with Homarid Arcanist have dive 2.  (2: 
  <name>Bloodthirsty Squid</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
  <type>Creature - Squid </type>
- <pt>1/3</pt>
+ <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>1B, T, Activate only as a sorcery: Put a +1/+1 counter on target creature you control.</text>
+ <text>1, T, Activate only as a sorcery: Put a +1/+1 counter on target creature you control.</text>
 </card>
 <card>
  <name>Abyssal Growth</name>
@@ -789,11 +789,11 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <name>Deadly Deceit</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Destroy target blocking or blocked creature.</text>
+ <text>Destroy target creature. Its controller loses 2 life.</text>
 </card>
 <card>
  <name>Depths-Stricken Monster</name>
@@ -802,7 +802,7 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <manacost>4B</manacost>
  <cmc>5</cmc>
  <type>Creature - Fish Horror </type>
- <pt>4/4</pt>
+ <pt>5/5</pt>
  <tablerow>2</tablerow>
  <text>Menace
 2BB, Exile Depths-Stricken Monster from your graveyard, Activate only as a sorcery: Create two 1/1 green Fish creature tokens.</text>
@@ -811,8 +811,8 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <name>Ranera's Enforcer</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>4B</manacost>
- <cmc>5</cmc>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
  <type>Creature - Merfolk Mercenary </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
@@ -825,7 +825,7 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <manacost>4BB</manacost>
  <cmc>6</cmc>
  <type>Creature - Merfolk Advisor </type>
- <pt>4/4</pt>
+ <pt>5/5</pt>
  <tablerow>2</tablerow>
  <text>When Unscrupulous Authority enters, each opponent loses 1 life for each Merfolk you control. You gain life equal to the amount of life lost this way.</text>
 </card>
@@ -844,10 +844,10 @@ When enchanted creature dies or is put into exile, return it to the battlefield 
  <name>Orcish Stalwart</name>
  <set rarity="common">YNE</set>
  <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
  <type>Creature - Orc Survivor </type>
- <pt>3/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gets +1/+0 and gains menace until end of turn.</text>
 </card>
@@ -858,7 +858,7 @@ When enchanted creature dies or is put into exile, return it to the battlefield 
  <manacost>4R</manacost>
  <cmc>5</cmc>
  <type>Creature - Human Warrior </type>
- <pt>4/3</pt>
+ <pt>4/5</pt>
  <tablerow>2</tablerow>
  <text>When Sanctuary Instigator enters, each other creature you control that shares a creature type with Sanctuary Instigator gets +2/+1 until end of turn.</text>
 </card>
@@ -897,13 +897,13 @@ When enchanted creature dies or is put into exile, return it to the battlefield 
  <name>Infuriated Starfish</name>
  <set rarity="common">YNE</set>
  <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
  <type>Creature - Starfish </type>
- <pt>2/2</pt>
+ <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Mutate R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
-Whenever this creature mutates, it gets +1/+0 until end of turn.</text>
+ <text>Mutate 1R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature mutates, it gets +2/+2 until end of turn.</text>
 </card>
 <card>
  <name>Explosive Rage</name>
@@ -955,7 +955,7 @@ Draw two cards.</text>
  <manacost>1R</manacost>
  <cmc>2</cmc>
  <type>Creature - Fish </type>
- <pt>2/1</pt>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
  <text>Menace</text>
 </card>
@@ -1009,7 +1009,7 @@ Ferocious — The creature you control gets +2/+2 until end of turn before it fi
  <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target creature gains the creature card name of your choice. Put a +1/+1 counter on it, then if you control three or more creatures that share a name, put an additional +1/+1 counter on it.</text>
+ <text>Target creature gains the creature name of your choice. Put a +1/+1 counter on it, then if you control three or more creatures that share a name, put an additional +1/+1 counter on it.</text>
 </card>
 <card>
  <name>Voracious Snapper</name>
@@ -1074,9 +1074,9 @@ Equip 4</text>
  <manacost>2G</manacost>
  <cmc>3</cmc>
  <type>Creature - Homarid Warrior </type>
- <pt>2/3</pt>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>As Carpus-Clan Brawler enters, it gains the creature name of your choice.
+ <text>As Carpus-Clan Brawler enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Other creatures you control that share a name with Carpus-Clan Brawler get +1/+0.</text>
 </card>
 <card>
@@ -1088,7 +1088,7 @@ Other creatures you control that share a name with Carpus-Clan Brawler get +1/+0
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Return target Merfolk card from your graveyard to the battlefield.
-WB, Discard Cure Death: Return target merfolk card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
+WB, Discard Cure Death: Return target Merfolk card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
 </card>
 <card>
  <name>Fatal Verdict</name>
@@ -1120,7 +1120,7 @@ WB, Discard Cure Death: Return target merfolk card with mana value 2 or less fro
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Dive W/BW/B (W/BW/B: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
-When Atlistan Guard-Captain enters, exile target creature you don’t control. Return it to the battlefield at the beginning of the next end step.</text>
+When Atlistan Guard-Captain enters, exile target creature you don’t control. Return it to the battlefield at the beginning of its controller’s next end step.</text>
 </card>
 <card>
  <name>Stingfield Guards</name>
@@ -1129,7 +1129,7 @@ When Atlistan Guard-Captain enters, exile target creature you don’t control. R
  <manacost>1WB</manacost>
  <cmc>3</cmc>
  <type>Creature - Merfolk Soldier </type>
- <pt>2/3</pt>
+ <pt>2/4</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
 Whenever Stingfield Guards blocks or becomes blocked by a creature, that creature’s controller loses 1 life and you gain 1 life.</text>
@@ -1208,7 +1208,7 @@ Exile Mystic Ricochet.</text>
  <manacost>2BG</manacost>
  <cmc>4</cmc>
  <type>Creature - Fish </type>
- <pt>3/2</pt>
+ <pt>3/4</pt>
  <tablerow>2</tablerow>
  <text>Ferocious — Whenever Benthic Wanderer deals combat damage to a player, if you control a creature with power 4 or greater, create two 1/1 green Fish creature tokens.</text>
 </card>
@@ -1243,7 +1243,7 @@ Create two 1/1 green Fish creature tokens.</text>
  <tablerow>1</tablerow>
  <text>Enchant creature
 Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it.
-When enchanted creature dies, put all of its counters on target creature.</text>
+When enchanted creature dies, put all of its counters on up to one target creature.</text>
 </card>
 <card>
  <name>Ravenous Forager</name>
@@ -1264,7 +1264,7 @@ When enchanted creature dies, put all of its counters on target creature.</text>
  <cmc>2</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>Whenever a creature enters under your control, Epithet Flask gains that creature’s names, then scry 1.
+ <text>Whenever a creature enters under your control, Epithet Flask gains that creature’s names, then you scry 1.
 T, Remove a name from Epithet Flask: Target creature gains that name.</text>
 </card>
 <card>
@@ -1275,7 +1275,7 @@ T, Remove a name from Epithet Flask: Target creature gains that name.</text>
  <cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target creature gains the creature card name of your choice. If you control three or more creatures that share a name, it gets +1/+1 for each other creature it shares a name with.
+ <text>Target creature gains the creature name of your choice. If you control three or more creatures that share a name, it gets +1/+1 for each other creature it shares a name with until end of turn.
 Draw a card.</text>
 </card>
 <card>
@@ -1295,9 +1295,9 @@ Draw a card.</text>
  <manacost>1GU</manacost>
  <cmc>3</cmc>
  <type>Creature - Homarid Wizard </type>
- <pt>2/3</pt>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>When Sunken-Grove Scholar enters, scry 2. Then if you control three or more creatures that share a name, draw a card.</text>
+ <text>When Sunken-Grove Scholar enters, target creature gains the creature name of your choice. Then if you control three or more creatures that share a name, draw a card.</text>
 </card>
 <card>
  <name>Homarid Journeymage</name>
@@ -1341,7 +1341,7 @@ Equip 4</text>
  <manacost>2RW</manacost>
  <cmc>4</cmc>
  <type>Creature - Orc Warrior </type>
- <pt>2/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Dwimmersea Scrounger, put a +1/+1 counter on Dwimmersea Scrounger.</text>
 </card>
@@ -1352,7 +1352,7 @@ Equip 4</text>
  <manacost>1RW</manacost>
  <cmc>3</cmc>
  <type>Creature - Human Rogue </type>
- <pt>2/2</pt>
+ <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Daring Scavenger, Daring Scavenger deals 1 damage to each opponent.</text>
 </card>
@@ -1473,9 +1473,9 @@ When Seafloor Wanderers enters, draw a card.</text>
  <manacost>3B</manacost>
  <cmc>4</cmc>
  <type>Creature - Fish </type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Ferocious — Whenever Thrashing Oarfish attacks, if you control a creature with power 4 or greater, Thrashing Oarfish gains trample until end of turn.</text>
+ <text>Trample</text>
 </card>
 <card>
  <name>Guard Station</name>
@@ -1623,7 +1623,7 @@ Until the end of turn, whenever you draw a card, Crushing Pressure deals 1 damag
  <manacost>2W</manacost>
  <cmc>3</cmc>
  <type>Creature - Merfolk Citizen </type>
- <pt>1/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>When Atlistan Historian enters, return target artifact, enchantment, or creature card from your graveyard to your hand.</text>
 </card>
@@ -1634,7 +1634,7 @@ Until the end of turn, whenever you draw a card, Crushing Pressure deals 1 damag
  <manacost>1W</manacost>
  <cmc>2</cmc>
  <type>Creature - Human Survivor </type>
- <pt>1/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Waterbarrens Castaway, put a +1/+1 counter on that permanent.</text>
 </card>
@@ -1767,9 +1767,9 @@ Whenever Wreckfields Moray deals combat damage to a player, untap it.</text>
  <manacost>3UU</manacost>
  <cmc>5</cmc>
  <type>Creature - Homarid Wizard </type>
- <pt>5/4</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>As Coxa-Clan Mentor enters, it gains the creature card name of your choice.
+ <text>As Coxa-Clan Mentor enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Whenever Coxa-Clan Mentor or another creature you control that shares a name with it deals combat damage to a player or planeswalker, draw a card.</text>
 </card>
 <card>
@@ -1879,8 +1879,8 @@ Dive 0 (0: Until end of turn, this can only block or be blocked by creatures tha
  <name>The Great Sinking</name>
  <set rarity="rare">YNE</set>
  <color>U</color>
- <manacost>2U</manacost>
- <cmc>3</cmc>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
  <type>Legendary Enchantment</type>
  <tablerow>1</tablerow>
  <text>
@@ -1899,7 +1899,7 @@ Nonbasic lands become Islands until the beginning of your next upkeep.</text>
  <manacost>3U</manacost>
  <cmc>4</cmc>
  <type>Creature - Homarid Wizard </type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>When Homarid Namebinder enters, tap target creature you don’t control. That creature gains the creature card name of your choice and doesn’t untap during its controller’s untap step for as long as you control a creature that shares a name with it.</text>
 </card>
@@ -1910,7 +1910,7 @@ Nonbasic lands become Islands until the beginning of your next upkeep.</text>
  <manacost>1BB</manacost>
  <cmc>3</cmc>
  <type>Creature - Human Warlock Survivor </type>
- <pt>2/3</pt>
+ <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>Dive—Discard a card. (Discard a card: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
 Death Trap Archmage can’t block.
@@ -1964,7 +1964,7 @@ When Atlista Cutthroat enters, create a 1/1 green Fish creature token.</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>If an opponent would lose exactly 1 life, they lose 2 life instead.
-When Scion of the Depths deals combat damage to a player, create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)</text>
+When Scion of the Depths attacks, create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)</text>
 </card>
 <card>
  <name>Favor of the the Depths</name>
@@ -2065,7 +2065,7 @@ Until end of turn, whenever one or more Shapeshifters you control deals combat d
  <manacost>4R</manacost>
  <cmc>5</cmc>
  <type>Creature - Turtle </type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Mutate 1R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
 Double strike
@@ -2090,7 +2090,7 @@ Whenever a creature mutates, target creature with power or toughness less than o
  <manacost>1R</manacost>
  <cmc>2</cmc>
  <type>Creature - Orc Artificer </type>
- <pt>1/1</pt>
+ <pt>1/3</pt>
  <tablerow>2</tablerow>
  <text>When New Vargoth Scrapper enters the battlefield, destroy up to one target artifact.
 Strength in numbers — Once each turn, when another permanent enters under your control, if it shares a creature type with New Vargoth Scrapper, you may create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
@@ -2205,7 +2205,7 @@ Reaver of the Wreckfields enters with a +1/+1 counter on it for each card type a
  <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>As Journey of Reflection enters the battlefield, choose a creature card name.
+ <text>As Journey of Reflection enters the battlefield, choose a creature name. (You may choose a creature token name.)
 Whenever a creature with the chosen name enters under your control, draw a card.</text>
 </card>
 <card>
@@ -2232,7 +2232,7 @@ Creatures you control get +2/+2 until end of turn.</text>
  <type>Creature - Homarid Soldier </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>As Telson-Clan Captain enters, it gains the creature name of your choice.
+ <text>As Telson-Clan Captain enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Whenever Telson-Clan Captain attacks, each other creature you control that shares a name with Telson-Clan Captain gets +1/+1 until end of turn.</text>
 </card>
 <card>
@@ -2350,8 +2350,8 @@ Whenever you cast a spell that targets only a single creature you control, copy 
  <name>Merelisene Deserter</name>
  <set rarity="rare">YNE</set>
  <color>WB</color>
- <manacost>2WB</manacost>
- <cmc>4</cmc>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
  <type>Creature - Merfolk Rogue </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
@@ -2373,11 +2373,11 @@ Strength in numbers — Whenever another permanent enters under your control, if
  <name>Atlistan Tariff</name>
  <set rarity="rare">YNE</set>
  <color>WB</color>
- <manacost>2WB</manacost>
- <cmc>4</cmc>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>At the beginning of each opponent’s upkeep, they may pay 2. If they don’t, put a debt counter on Atlistan Tariff, and then that player loses 1 life for each debt counter on Atlistan Tariff.</text>
+ <text>Whenever you cast a spell, you may pay 2. If you do, each opponent loses 2 life and you gain 2 life.</text>
 </card>
 <card>
  <name>Jellyfire</name>
@@ -2430,9 +2430,9 @@ Whenever Jellyfire becomes the target of a spell or ability you control, it gets
  <manacost>2BG</manacost>
  <cmc>4</cmc>
  <type>Creature - Elf Wizard </type>
- <pt>2/3</pt>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Whenever Sorrowful Thaumaturge enters or attacks, you draw a card and lose 1 life. If you control a creature with power 4 or greater, instead look at the top three cards of your library, put one into your hand and the rest on the bottom of your library, then each opponent loses 2 life.</text>
+ <text>Whenever Sorrowful Thaumaturge enters or attacks, you draw a card and lose 1 life. If you control a creature with power 4 or greater, instead look at the top three cards of your library, put one into your hand and the rest on the bottom of your library.</text>
 </card>
 <card>
  <name>Deadly Tempter</name>
@@ -2441,7 +2441,7 @@ Whenever Jellyfire becomes the target of a spell or ability you control, it gets
  <manacost>1BG</manacost>
  <cmc>3</cmc>
  <type>Creature - Fish </type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Deadly Tempter must be blocked if able.
 Whenever a creature an opponent dies, if it was dealt damage by a creature you control this turn, put a +1/+1 counter on Deadly Tempter.</text>
@@ -2477,7 +2477,7 @@ Whenever a creature an opponent dies, if it was dealt damage by a creature you c
  <manacost>2RW</manacost>
  <cmc>4</cmc>
  <type>Legendary Creature - Elf Human Survivor </type>
- <pt>1/4</pt>
+ <pt>2/4</pt>
  <tablerow>2</tablerow>
  <text>Whenever a nontoken artifact enters under your control, create a token that’s a copy of it. If the copy is an equipment, attach it to Thülendan.</text>
 </card>
@@ -2490,7 +2490,7 @@ Whenever a creature an opponent dies, if it was dealt damage by a creature you c
  <type>Creature - Human Warrior </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>If an entering permanent that shares a creature type with Esteemed Warlord causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+ <text>If a permanent entering that shares a creature type with Esteemed Warlord causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
 </card>
 <card>
  <name>Fleshthresher</name>
@@ -2527,7 +2527,7 @@ Whenever a creature an opponent dies, if it was dealt damage by a creature you c
  <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>G, Discard a creature card: Search your library for a creature card that shares a name with Chyklis, Rostrum-Clan Onolich, reveal it, put it into your hand, then shuffle.
-2: Chyklis gains the creature card name of your choice.</text>
+2: Chyklis gains the creature name of your choice.</text>
 </card>
 <card>
  <name>Homarid Formstealer</name>
@@ -2549,7 +2549,7 @@ Whenever a creature an opponent dies, if it was dealt damage by a creature you c
  <type>Creature - Homarid Giant </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>As Dactylus-Clan Titan enters, it gains the creature card name of your choice.
+ <text>As Dactylus-Clan Titan enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Whenever another creature that shares a name with this creature enters under your control, put two +1/+1 counters on this creature. </text>
 </card>
 <card>
@@ -2597,13 +2597,12 @@ Whenever another creature that shares a name with this creature enters under you
  <name>Brigade Taskmaster</name>
  <set rarity="uncommon">YNE</set>
  <color>WB</color>
- <manacost>3W/B</manacost>
- <cmc>4</cmc>
+ <manacost>2W/B</manacost>
+ <cmc>3</cmc>
  <type>Creature - Merfolk Soldier </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Lifelink
-Whenever you cast a creature spell, put a +1/+1 counter on Brigade Taskmaster.</text>
+ <text>Whenever you cast a creature spell, put a +1/+1 counter on Brigade Taskmaster.</text>
 </card>
 <card>
  <name>Bite of the Stingfields</name>
@@ -2737,7 +2736,7 @@ You gain 2 life.</text>
  <manacost>1RW</manacost>
  <cmc>3</cmc>
  <type>Creature - Orc Survivor </type>
- <pt>1/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>When Orcish Matron enters, search your library for an Orc or Survivor card, reveal it, put it into your hand, then shuffle.</text>
 </card>
@@ -2781,7 +2780,7 @@ Whenever Diversiform Warrior blocks, it gets +0/+2 until end of turn.</text>
  <manacost>3GU</manacost>
  <cmc>5</cmc>
  <type>Creature - Homarid Wizard </type>
- <pt>3/3</pt>
+ <pt>3/4</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Homarid Onomaner, put a +1/+1 counter on it. Then if it shares a name with Homarid Onomaner, draw a card.</text>
 </card>
@@ -2862,7 +2861,7 @@ T: Add one mana of any color for each charge counter on Mana Conductor.
  <manacost>2</manacost>
  <cmc>2</cmc>
  <type>Artifact Creature - Construct Warrior </type>
- <pt>1/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Waterbarrens Harvester, untap Waterbarrens Harvester.
 T: Add C.</text>
@@ -2886,7 +2885,7 @@ T: Add C.</text>
  <manacost>4</manacost>
  <cmc>4</cmc>
  <type>Artifact Creature - Construct Rogue </type>
- <pt>2/2</pt>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
 At the beginning of each opponent’s upkeep, untap all other permanents you control that share a creature type with Welder Prototype.</text>
@@ -3036,13 +3035,14 @@ Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or abil
 </card>
 <card>
  <name>Growing Strife</name>
- <set rarity="common">YNE</set>
+ <set rarity="uncommon">YNE</set>
  <color>WB</color>
- <manacost>1WB</manacost>
- <cmc>3</cmc>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Whenever one or more creatures die, creatures you control get +1/+1 until the end of your next turn.</text>
+ <text>Whenever one or more creatures die, creatures you control get +1/+1 until the end of turn.
+4WB: Each player sacrifices a creature.</text>
 </card>
 <card>
  <name>Guard-Captain's Helm</name>
@@ -3060,25 +3060,24 @@ Equip 3</text>
  <name>Sibylline Thresher</name>
  <set rarity="common">YNE</set>
  <color>UR</color>
- <manacost>1UR</manacost>
- <cmc>3</cmc>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
  <type>Creature - Shark </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Mutate UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
-Haste
+ <text>Mutate R (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
 Whenever this creature mutates, it deals 1 damage to each opponent and you scry 1.</text>
 </card>
 <card>
  <name>Empowered Pet</name>
  <set rarity="uncommon">YNE</set>
  <color>UR</color>
- <manacost>UR</manacost>
- <cmc>2</cmc>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
  <type>Creature - Fish </type>
- <pt>2/2</pt>
+ <pt>2/4</pt>
  <tablerow>2</tablerow>
- <text>Mutate 2UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+ <text>Mutate 3UR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
 Whenever this creature mutates, you may search your library for a creature with mutate, reveal it, put it into your hand, then shuffle your library.</text>
 </card>
 <card>
@@ -3110,7 +3109,7 @@ Enchanted creature has “Whenever this creature mutates, draw two cards.”</te
  <manacost>BG</manacost>
  <cmc>2</cmc>
  <type>Creature - Dragon Fish </type>
- <pt>2/1</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Ferocious — Whenever Dragonheart Predator attacks, if you control a creature with power 4 or greater, Dragonheart Predator gets +2/+0 until end of turn.</text>
 </card>
@@ -3164,7 +3163,7 @@ Vigilance</text>
  <manacost>2RW</manacost>
  <cmc>4</cmc>
  <type>Creature - Elf Survivor Noble </type>
- <pt>2/2</pt>
+ <pt>4/3</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
 Whenever Fellowship Figurehead enters or attacks, create a 1/1 red Human Survivor creature token.</text>
@@ -3212,7 +3211,7 @@ Coxa-Clan Bruiser can’t be blocked by creatures with power 2 or less.</text>
  <type>Creature - Crab </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Trample
+ <text>As Aggravated Crawler enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Aggravated Crawler gets +1/+1 for each other permanent you control that shares a name with it.</text>
 </card>
 <card>
@@ -3223,7 +3222,7 @@ Aggravated Crawler gets +1/+1 for each other permanent you control that shares a
  <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Counter target spell unless its controller pays 2. If you control three or more creatures that share a name, counter that spell unless its controller pays 4 instead.</text>
+ <text>Counter target spell unless its controller pays 2. If you control three or more creatures that share a name, counter that spell instead.</text>
 </card>
 <card>
  <name>Rampage of Clan Dactylus</name>
@@ -3324,10 +3323,10 @@ Aggravated Crawler gets +1/+1 for each other permanent you control that shares a
  <name>Telson-Clan Lookout</name>
  <set rarity="common">YNE</set>
  <color>UG</color>
- <manacost>2G/U</manacost>
- <cmc>3</cmc>
+ <manacost>G/U</manacost>
+ <cmc>1</cmc>
  <type>Creature - Homarid Scout Ranger </type>
- <pt>2/3</pt>
+ <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
 3: Telson-Clan Lookout gets +1/+1 until end of turn.</text>
@@ -3468,7 +3467,7 @@ At the beginning of your upkeep, you may exile two cards from your graveyard. If
  <cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>When Allonymous Tyranny enters, choose a creature card name. Up to one target creature gains that name, then you gain control of all creatures with the chosen name until Allonymous Tyranny leaves the battlefield.</text>
+ <text>When Allonymous Tyranny enters, choose a creature name. Up to one target creature gains that name, then you gain control of all creatures with the chosen name until Allonymous Tyranny leaves the battlefield.</text>
 </card>
 <card>
  <name>Ustaran Spell Hunter</name>
