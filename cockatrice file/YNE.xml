@@ -2399,7 +2399,8 @@ Whenever Jellyfire becomes the target of a spell or ability you control, it gets
  <cmc>4</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Each creature card in your hand has mutate, and its mutate cost is equal to its mana cost reduced by 2. (If a card already has mutate, it has another cost.)</text>
+ <text>At the beginning of your upkeep, if you don’t control a non-Shapeshifter Oyster, create an 0/2 blue Oyster creature token.
+Mutate costs you pay cost 2 less.</text>
 </card>
 <card>
  <name>Ustaran Conjuring</name>

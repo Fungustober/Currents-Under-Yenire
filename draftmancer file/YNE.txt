@@ -2333,7 +2333,7 @@
 	    {
 	        "name": "Growing Strife",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{B}",
+	        "mana_cost": "{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Growing%20Strife.png?raw=true"
@@ -2908,9 +2908,9 @@
 		3 Derelict Riches
 		3 Waterbarrens Harvester
 		3 Perpetual Automaton
+		3 Growing Strife
 		3 Empowered Pet
 		3 Wellspring of the Faceless
-		3 Growing Strife
 	[CommonSlot(10)]
 		6 Sanctuary Scavenger
 		6 Caller of the Extraordinary
