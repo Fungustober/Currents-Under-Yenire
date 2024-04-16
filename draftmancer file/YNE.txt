@@ -27,12 +27,12 @@
 	        }
 	    },
 	    {
-	        "name": "Sanctuary Scavenger",
+	        "name": "Anomalous Vagabond",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Creature — Orc Warrior ",
+	        "type": "Enchantment Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sanctuary%20Scavenger.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Anomalous%20Vagabond.png?raw=true"
 	        }
 	    },
 	    {
@@ -135,12 +135,12 @@
 	        }
 	    },
 	    {
-	        "name": "Canine Companion",
+	        "name": "Expert of Escape",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
-	        "type": "Creature — Wolf Warrior ",
+	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Canine%20Companion.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Expert%20of%20Escape.png?raw=true"
 	        }
 	    },
 	    {
@@ -533,7 +533,7 @@
 	    {
 	        "name": "Tidehopper Regent",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Serpent ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Tidehopper%20Regent.png?raw=true"
@@ -542,7 +542,7 @@
 	    {
 	        "name": "Homarid Arcanist",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Homarid Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Arcanist.png?raw=true"
@@ -1065,7 +1065,7 @@
 	        "name": "Daring Scavenger",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}{W}",
-	        "type": "Creature — Human Rogue ",
+	        "type": "Creature — Human Rogue Survivor ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Daring%20Scavenger.png?raw=true"
 	        }
@@ -1602,12 +1602,12 @@
 	        }
 	    },
 	    {
-	        "name": "New Vargoth Scrapper",
+	        "name": "New Vargoth Junker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Orc Artificer ",
+	        "type": "Creature — Orc Artificer Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/New%20Vargoth%20Scrapper.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/New%20Vargoth%20Junker.png?raw=true"
 	        }
 	    },
 	    {
@@ -2433,7 +2433,7 @@
 	        "name": "Fellowship Figurehead",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}{W}",
-	        "type": "Creature — Elf Survivor Noble ",
+	        "type": "Creature — Elf Warrior Noble ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Fellowship%20Figurehead.png?raw=true"
 	        }
@@ -2833,7 +2833,7 @@
 		3 Altruistic Healers
 		3 Homarid Chieftain
 		3 Merelisene Mage-Guard
-		3 Canine Companion
+		3 Expert of Escape
 		3 Ancient Isopod
 		3 Unstable Anglerfish
 		3 Waterbarrens Manaforger
@@ -2866,7 +2866,7 @@
 		3 Sway of the Depths
 		3 Ebbing of the Mind
 		3 Formidable Piranhas
-		3 New Vargoth Scrapper
+		3 New Vargoth Junker
 		3 Form-Anarchy Nautilus
 		3 Burning Blood
 		3 New Vargoth Submarine
@@ -2912,7 +2912,7 @@
 		3 Empowered Pet
 		3 Wellspring of the Faceless
 	[CommonSlot(10)]
-		6 Sanctuary Scavenger
+		6 Anomalous Vagabond
 		6 Caller of the Extraordinary
 		6 Ego Donor
 		6 Rebellious Deepwalker
