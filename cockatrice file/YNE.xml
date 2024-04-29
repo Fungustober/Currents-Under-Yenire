@@ -1462,7 +1462,7 @@ When Seafloor Wanderers enters, draw a card.</text>
  <type>Creature - Fish </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Trample</text>
+ <text>Menace</text>
 </card>
 <card>
  <name>Guard Station</name>
