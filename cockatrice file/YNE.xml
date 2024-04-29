@@ -77,7 +77,7 @@ Haste
  <type>Creature - Homarid </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>When Ego Donor dies, create a 2/2 blue and green Camarid creature token, then it gains Ego Donor’s names.</text>
+ <text>When Ego Donor dies, create a 2/2 blue and green Camarid creature token, then it gains this creature’s names.</text>
 </card>
 <card>
  <name>Rebellious Deepwalker</name>
@@ -101,7 +101,7 @@ Lifelink</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>As Dactylus-Clan Druid enters, it gains the creature name of your choice.
-When Dactylus-Clan Druid enters, up to one target creature gains Dactylus-Clan Druid’s names.</text>
+When this creature enters, up to one target creature gains this creature’s names.</text>
 </card>
 <card>
  <name>Flawed Foresight</name>
@@ -134,23 +134,10 @@ Whenever one or more creatures you control attack, you may move a +1/+1 counter 
  <manacost>R/WR/W</manacost>
  <cmc>2</cmc>
  <type>Enchantment Creature - Shapeshifter </type>
- <pt>3/1</pt>
- <tablerow>2</tablerow>
- <text>This card is every non-Human creature type.
-Whenever Mercurial Accomplice and two or more other creatures attack, it gains first strike until end of turn.</text>
-</card>
-<card>
- <name>Homarid Ordinary</name>
- <set rarity="common">YNE</set>
- <color>UG</color>
- <manacost>GU</manacost>
- <cmc>2</cmc>
- <type>Creature - Homarid Peasant </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Dive 1 (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
-When you discard Homarid Ordinary, target creature gains Homarid Ordinary’s name.
-Cycling 1GU (1GU, Discard this card: Draw a card.)</text>
+ <text>This card is every non-Human creature type.
+Whenever Mercurial Accomplice and two or more other creatures attack, it gets +2/+0 until end of turn.</text>
 </card>
 <card>
  <name>Altruistic Healers</name>
@@ -173,7 +160,7 @@ Cycling 1GU (1GU, Discard this card: Draw a card.)</text>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>As Homarid Chieftain enters, it gains the creature name of your choice. 
-As long as you control three or more creatures that share a name, Homarid Chieftain gets +2/+1.</text>
+As long as you control three or more creatures that share a name, this creature gets +2/+1.</text>
 </card>
 <card>
  <name>Merelisene Mage-Guard</name>
@@ -378,9 +365,9 @@ B, Sacrifice a creature: Surveil 3.</text>
  <type>Creature - Homarid Rogue </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>As Identity Bandit enters, choose a creature name. Identity Bandit gains that name.
-When Identity Bandit enters, return each other nonland permanent that shares a name with Identity Bandit to its owner’s hand.
-Players can’t cast spells that share a name with Identity Bandit.</text>
+ <text>As Identity Bandit enters, it gains the creature name of your choice.
+When this creature enters, return each other nonland permanent that shares a name with this creature to its owner’s hand.
+Players can’t cast spells that share a name with this creature.</text>
 </card>
 <card>
  <name>Ranera, Devious Advisor</name>
@@ -520,7 +507,7 @@ When Merelisene Insurgent enters, you may destroy target artifact or enchantment
  <type>Enchantment - Aura </type>
  <tablerow>1</tablerow>
  <text>Enchant creature
-Enchanted creature loses all names and can’t attack or block.</text>
+Enchanted creature can’t attack or block, loses all names, and can’t have or gain names.</text>
 </card>
 <card>
  <name>Belligerent Confrontation</name>
@@ -528,7 +515,7 @@ Enchanted creature loses all names and can’t attack or block.</text>
  <color>W</color>
  <manacost>1W</manacost>
  <cmc>2</cmc>
- <type>Sorcery</type>
+ <type>Instant</type>
  <tablerow>3</tablerow>
  <text>Destroy target tapped creature.</text>
 </card>
@@ -632,7 +619,7 @@ When Disguised Informant enters, scry X, where X is the number of Merfolk you co
 Put target creature on top of its owner’s library.</text>
 </card>
 <card>
- <name>Arcane Discovery</name>
+ <name>Impulse</name>
  <set rarity="common">YNE</set>
  <color>U</color>
  <manacost>1U</manacost>
@@ -697,7 +684,7 @@ Draw a card.</text>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>As Intimidating Crustacean enters, it gains the creature name of your choice.  (You may choose a creature token name.)
-Whenever another creature that shares a name with Intimidating Crustacean enters the battlefield, tap up to one target creature.</text>
+Whenever another creature that shares a name with this creature enters the battlefield, tap up to one target creature.</text>
 </card>
 <card>
  <name>Tidehopper Regent</name>
@@ -722,7 +709,7 @@ This creature can’t be blocked.</text>
  <pt>3/4</pt>
  <tablerow>2</tablerow>
  <text>As Homarid Arcanist enters, it gains the creature name of your choice.
-Creatures you control that share a name with Homarid Arcanist have dive 2.  (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+Creatures you control that share a name with this creature have dive 2.  (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
  <name>Negate</name>
@@ -848,9 +835,9 @@ When enchanted creature dies or is put into exile, return it to the battlefield 
  <manacost>1R</manacost>
  <cmc>2</cmc>
  <type>Creature - Orc Survivor </type>
- <pt>2/2</pt>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gets +1/+0 and gains menace until end of turn.</text>
+ <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Orcish Stalwart, Orcish Stalwart gains first strike until end of turn.</text>
 </card>
 <card>
  <name>Sanctuary Instigator</name>
@@ -956,9 +943,9 @@ Draw two cards.</text>
  <manacost>1R</manacost>
  <cmc>2</cmc>
  <type>Creature - Fish </type>
- <pt>3/1</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Menace</text>
+ <text>Whenever Fearsome Spineback becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
 </card>
 <card>
  <name>Telson-Clan Matron</name>
@@ -1077,7 +1064,7 @@ Equip 4</text>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>As Carpus-Clan Brawler enters, it gains the creature name of your choice. (You may choose a creature token name.)
-Other creatures you control that share a name with Carpus-Clan Brawler get +1/+0.</text>
+Other creatures you control that share a name with this creature get +1/+0.</text>
 </card>
 <card>
  <name>Cure Death</name>
@@ -1264,8 +1251,8 @@ When enchanted creature dies, put all of its counters on up to one target creatu
  <cmc>2</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>Whenever a creature enters under your control, Epithet Flask gains that creature’s names, then you scry 1.
-T, Remove a name from Epithet Flask: Target creature gains that name.</text>
+ <text>Whenever a creature enters under your control, this artifact gains that creature’s names.
+T: Move a name other than Epithet Flask from this artifact to target creature. You gain 1 life.</text>
 </card>
 <card>
  <name>Strength in Names</name>
@@ -1428,7 +1415,7 @@ Equip 3</text>
  <manacost>3</manacost>
  <cmc>3</cmc>
  <type>Artifact Creature - Construct Warrior </type>
- <pt>3/3</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Reach (This creature can block creatures that are diving or have flying.)
 Whenever Depthswalker blocks a diving creature, Depthswalker gets +1/+1 until end of turn.</text>
@@ -1440,7 +1427,7 @@ Whenever Depthswalker blocks a diving creature, Depthswalker gets +1/+1 until en
  <manacost>4</manacost>
  <cmc>4</cmc>
  <type>Artifact Creature - Construct Survivor </type>
- <pt>2/4</pt>
+ <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>2, T, Activate only as a sorcery: Target creature gets +2/+2 until end of turn.</text>
 </card>
@@ -1631,10 +1618,10 @@ Until the end of turn, whenever you draw a card, Crushing Pressure deals 1 damag
  <name>Waterbarrens Castaway</name>
  <set rarity="uncommon">YNE</set>
  <color>W</color>
- <manacost>1W</manacost>
- <cmc>2</cmc>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
  <type>Creature - Human Survivor </type>
- <pt>2/2</pt>
+ <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with Waterbarrens Castaway, put a +1/+1 counter on that permanent.</text>
 </card>
@@ -1770,7 +1757,7 @@ Whenever Wreckfields Moray deals combat damage to a player, untap it.</text>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>As Coxa-Clan Mentor enters, it gains the creature name of your choice. (You may choose a creature token name.)
-Whenever Coxa-Clan Mentor or another creature you control that shares a name with it deals combat damage to a player or planeswalker, draw a card.</text>
+Whenever this creature or another creature you control that shares a name with it deals combat damage to a player or planeswalker, draw a card.</text>
 </card>
 <card>
  <name>Clever Coral</name>
@@ -2233,7 +2220,7 @@ Creatures you control get +2/+2 until end of turn.</text>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>As Telson-Clan Captain enters, it gains the creature name of your choice. (You may choose a creature token name.)
-Whenever Telson-Clan Captain attacks, each other creature you control that shares a name with Telson-Clan Captain gets +1/+1 until end of turn.</text>
+Whenever this creature attacks, each other creature you control that shares a name with this creature gets +1/+1 until end of turn.</text>
 </card>
 <card>
  <name>Curious Cephalopod</name>
@@ -2527,8 +2514,8 @@ Whenever a creature an opponent controls dies, if it was dealt damage by a creat
  <type>Legendary Creature - Homarid Zombie </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>G, Discard a creature card: Search your library for a creature card that shares a name with Chyklis, Rostrum-Clan Onolich, reveal it, put it into your hand, then shuffle.
-2: Chyklis gains the creature name of your choice.</text>
+ <text>G, Discard a creature card: Search your library for a creature card that shares a name with this creature, reveal it, put it into your hand, then shuffle.
+2: This creature gains the creature name of your choice.</text>
 </card>
 <card>
  <name>Homarid Formstealer</name>
@@ -3213,7 +3200,7 @@ Coxa-Clan Bruiser can’t be blocked by creatures with power 2 or less.</text>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>As Aggravated Crawler enters, it gains the creature name of your choice. (You may choose a creature token name.)
-Aggravated Crawler gets +1/+1 for each other permanent you control that shares a name with it.</text>
+This creature gets +1/+1 for each other permanent you control that shares a name with it.</text>
 </card>
 <card>
  <name>Erasing Epithet</name>
@@ -3271,11 +3258,11 @@ Aggravated Crawler gets +1/+1 for each other permanent you control that shares a
  <name>Spectral Form</name>
  <set rarity="common">YNE</set>
  <color>UR</color>
- <manacost>1U/R</manacost>
- <cmc>2</cmc>
+ <manacost>U/R</manacost>
+ <cmc>1</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Target creature gets +1/+1 and can’t block or be blocked until end of turn. (If it is already blocking or blocked, it doesn’t stop blocking or being blocked.)</text>
+ <text>Target creature gets +1/+0 and can’t block or be blocked until end of turn. (If it is already blocking or blocked, it doesn’t stop blocking or being blocked.)</text>
 </card>
 <card>
  <name>Chasmal Eel</name>

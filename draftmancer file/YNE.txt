@@ -99,15 +99,6 @@
 	        }
 	    },
 	    {
-	        "name": "Homarid Ordinary",
-	        "rarity": "common",
-	        "mana_cost": "{G}{U}",
-	        "type": "Creature — Homarid Peasant ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Ordinary.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Altruistic Healers",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
@@ -390,7 +381,7 @@
 	        "name": "Belligerent Confrontation",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Belligerent%20Confrontation.png?raw=true"
 	        }
@@ -477,12 +468,12 @@
 	        }
 	    },
 	    {
-	        "name": "Arcane Discovery",
+	        "name": "Impulse",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Arcane%20Discovery.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Impulse.png?raw=true"
 	        }
 	    },
 	    {
@@ -1280,7 +1271,7 @@
 	    {
 	        "name": "Waterbarrens Castaway",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Survivor ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Waterbarrens%20Castaway.png?raw=true"
@@ -2522,7 +2513,7 @@
 	    {
 	        "name": "Spectral Form",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U/R}",
+	        "mana_cost": "{U/R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Spectral%20Form.png?raw=true"
@@ -2912,134 +2903,133 @@
 		3 Empowered Pet
 		3 Wellspring of the Faceless
 	[CommonSlot(10)]
-		6 Anomalous Vagabond
-		6 Caller of the Extraordinary
-		6 Ego Donor
-		6 Rebellious Deepwalker
-		6 Dactylus-Clan Druid
-		4 Flawed Foresight
-		6 Murk Feeder
-		6 Mercurial Accomplice
-		4 Homarid Ordinary
-		6 Scavenger Team
-		6 Merelisene Insurgent
-		6 Erase Identity
-		6 Belligerent Confrontation
-		6 Accomplished Mentor
-		6 Kelp Tender
-		6 Protean Hindrance
-		6 Sanctuary Snarecaster
+		4 Anomalous Vagabond
+		4 Caller of the Extraordinary
+		4 Ego Donor
+		4 Rebellious Deepwalker
+		4 Dactylus-Clan Druid
+		2 Flawed Foresight
+		4 Murk Feeder
+		4 Mercurial Accomplice
+		4 Scavenger Team
+		4 Merelisene Insurgent
+		4 Erase Identity
+		4 Belligerent Confrontation
+		4 Accomplished Mentor
+		4 Kelp Tender
+		4 Protean Hindrance
+		4 Sanctuary Snarecaster
 		4 Disguised Informant
-		6 Authorized Attack
-		6 Charlatan's Betrayal
-		6 Drowning Waves
-		6 Arcane Discovery
-		6 Omenzoa
-		6 Infantilize
-		6 Root Nautilus
-		6 Opt
-		6 Intimidating Crustacean
-		6 Tidehopper Regent
-		6 Homarid Arcanist
-		6 Negate
-		6 Duress
-		6 Bloodthirsty Squid
-		6 Mentor's Blood
-		6 Crush Mind
-		6 Deadly Deceit
-		6 Depths-Stricken Monster
-		6 Ranera's Enforcer
-		6 Unscrupulous Authority
-		6 Blessing of the Depths
-		6 Orcish Stalwart
-		6 Sanctuary Instigator
-		6 Capricious Serpent
-		6 Resolute Vestiges
-		6 Work Together
-		6 Infuriated Starfish
-		6 Explosive Rage
-		6 Frantic Scavenging
-		6 Shock
-		6 Volcanic Uproaring
-		6 Fearsome Spineback
-		6 Telson-Clan Matron
-		6 Savage Punch
-		6 Bright Future
-		6 Vidus's Protection
-		6 Legacy of Chyklis
-		6 Voracious Snapper
-		6 Dove Too Deep
-		6 Discarded Hammer
-		6 Burgeoning Lumpus
-		6 Savage Predator
-		6 Carpus-Clan Brawler
-		4 Cure Death
-		6 Fatal Verdict
-		4 Ranera's Edict
-		4 Atlistan Guard-Captain
-		4 Stingfield Guards
-		6 Court Retainer
-		6 Perilous Discovery
-		4 Dwimmersea Leviathan
-		6 Dwimmersea Horror
-		4 Inquisitive Amphibian
-		4 Mystic Ricochet
-		4 Benthic Wanderer
-		6 Depthsdraught
-		4 Irreconcilable Rebirth
-		4 Hunger of the Abyssal
-		4 Ravenous Forager
-		4 Epithet Flask
-		4 Strength in Names
-		6 Pacifying Rays
-		4 Sunken-Grove Scholar
-		6 Homarid Journeymage
-		4 Sun's Favor
-		4 Dwimmersea Scrounger
-		4 Daring Scavenger
-		6 Purposeful Charge
-		6 Waterlogged City
-		6 Shell of the Derelict
-		6 Corpse Cache
-		6 Vivien's Journal
-		6 Wayfarer's Bauble
-		6 Depthswalker
-		6 Derelict Overseer
-		6 Seafloor Wanderers
-		6 Thrashing Oarfish
-		6 Abandoned Implement
-		6 Ancestral Might
-		6 Ancestor-Blessed Blade
-		6 Favor of the the Depths
-		4 Deep-Spawn Ink-Breather
-		4 Settlement Betrayer
-		4 Stingfield Colossus
-		4 Guard-Captain's Helm
-		4 Sibylline Thresher
-		4 Dwimmersea Initiation
-		4 Secrets of the Dwimmersea
-		4 Dragonheart Predator
-		4 Worldmaw Reaper
-		4 The Depths Rise
-		4 Depths-Mage's Boon
-		4 Scavenger Captain
-		4 Fellowship Figurehead
-		4 Power Vacuum
-		4 Hooked Spear
-		4 Coxa-Clan Bruiser
-		4 Aggravated Crawler
-		4 Erasing Epithet
-		4 Rampage of Clan Dactylus
-		6 Infantry Scholar
-		6 Unnatural Nascency
-		6 Outpost Thaumaturge
-		6 Spectral Form
-		6 Chasmal Eel
-		6 Rhythm of the Depths
-		6 Raftbound Castaway
-		6 Combat Training
-		6 Telson-Clan Lookout
-		6 Camouflage of the Gloamsea
+		4 Authorized Attack
+		4 Charlatan's Betrayal
+		4 Drowning Waves
+		4 Impulse
+		4 Omenzoa
+		4 Infantilize
+		4 Root Nautilus
+		4 Opt
+		4 Intimidating Crustacean
+		4 Tidehopper Regent
+		4 Homarid Arcanist
+		4 Negate
+		4 Duress
+		4 Bloodthirsty Squid
+		4 Mentor's Blood
+		4 Crush Mind
+		4 Deadly Deceit
+		4 Depths-Stricken Monster
+		4 Ranera's Enforcer
+		4 Unscrupulous Authority
+		4 Blessing of the Depths
+		4 Orcish Stalwart
+		4 Sanctuary Instigator
+		4 Capricious Serpent
+		4 Resolute Vestiges
+		4 Work Together
+		4 Infuriated Starfish
+		4 Explosive Rage
+		4 Frantic Scavenging
+		4 Shock
+		4 Volcanic Uproaring
+		4 Fearsome Spineback
+		4 Telson-Clan Matron
+		4 Savage Punch
+		4 Bright Future
+		4 Vidus's Protection
+		4 Legacy of Chyklis
+		4 Voracious Snapper
+		4 Dove Too Deep
+		4 Discarded Hammer
+		4 Burgeoning Lumpus
+		4 Savage Predator
+		4 Carpus-Clan Brawler
+		2 Cure Death
+		4 Fatal Verdict
+		3 Ranera's Edict
+		2 Atlistan Guard-Captain
+		3 Stingfield Guards
+		4 Court Retainer
+		4 Perilous Discovery
+		2 Dwimmersea Leviathan
+		4 Dwimmersea Horror
+		2 Inquisitive Amphibian
+		2 Mystic Ricochet
+		2 Benthic Wanderer
+		4 Depthsdraught
+		3 Irreconcilable Rebirth
+		2 Hunger of the Abyssal
+		2 Ravenous Forager
+		3 Epithet Flask
+		2 Strength in Names
+		4 Pacifying Rays
+		2 Sunken-Grove Scholar
+		4 Homarid Journeymage
+		3 Sun's Favor
+		2 Dwimmersea Scrounger
+		3 Daring Scavenger
+		4 Purposeful Charge
+		4 Waterlogged City
+		4 Shell of the Derelict
+		4 Corpse Cache
+		4 Vivien's Journal
+		4 Wayfarer's Bauble
+		4 Depthswalker
+		4 Derelict Overseer
+		4 Seafloor Wanderers
+		4 Thrashing Oarfish
+		4 Abandoned Implement
+		4 Ancestral Might
+		4 Ancestor-Blessed Blade
+		4 Favor of the the Depths
+		2 Deep-Spawn Ink-Breather
+		3 Settlement Betrayer
+		2 Stingfield Colossus
+		2 Guard-Captain's Helm
+		3 Sibylline Thresher
+		2 Dwimmersea Initiation
+		3 Secrets of the Dwimmersea
+		3 Dragonheart Predator
+		2 Worldmaw Reaper
+		2 The Depths Rise
+		2 Depths-Mage's Boon
+		3 Scavenger Captain
+		2 Fellowship Figurehead
+		2 Power Vacuum
+		2 Hooked Spear
+		2 Coxa-Clan Bruiser
+		2 Aggravated Crawler
+		3 Erasing Epithet
+		2 Rampage of Clan Dactylus
+		4 Infantry Scholar
+		4 Unnatural Nascency
+		4 Outpost Thaumaturge
+		4 Spectral Form
+		4 Chasmal Eel
+		4 Rhythm of the Depths
+		4 Raftbound Castaway
+		4 Combat Training
+		4 Telson-Clan Lookout
+		4 Camouflage of the Gloamsea
 	[LandSlot(1)]
 		12 Guard Station
 		12 Dwimmersea Hoard
