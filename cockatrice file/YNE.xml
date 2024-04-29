@@ -13,13 +13,13 @@
  <name>Repurposed Apparatus</name>
  <set rarity="rare">YNE</set>
  <color></color>
- <manacost>2</manacost>
- <cmc>2</cmc>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
- <text>As Repurposed Apparatus enters, choose up to two creature card names.
-Equipped creature has the chosen names in addition to its other names.
-Equip 3</text>
+ <text>As Repurposed Apparatus enters, choose a creature card name.
+Equipped creature gets +2/+2 has the chosen name in addition to its other names.
+Equip 2</text>
 </card>
 <card>
  <name>Invocation Stones</name>

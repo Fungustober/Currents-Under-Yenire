@@ -2,7 +2,7 @@
 	[    {
 	        "name": "Repurposed Apparatus",
 	        "rarity": "rare",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Repurposed%20Apparatus.png?raw=true"
