@@ -1379,7 +1379,7 @@
 	    {
 	        "name": "Clever Coral",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Clever%20Coral.png?raw=true"
@@ -1845,12 +1845,12 @@
 	        }
 	    },
 	    {
-	        "name": "Sorrowful Thaumaturge",
+	        "name": "Leader of Shoals",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{G}",
-	        "type": "Creature — Elf Wizard ",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sorrowful%20Thaumaturge.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Leader%20of%20Shoals.png?raw=true"
 	        }
 	    },
 	    {
@@ -2052,12 +2052,12 @@
 	        }
 	    },
 	    {
-	        "name": "Induced Atrophy",
+	        "name": "Mesopelagic Pouncer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{G}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Induced%20Atrophy.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Mesopelagic%20Pouncer.png?raw=true"
 	        }
 	    },
 	    {
@@ -2351,7 +2351,7 @@
 	    {
 	        "name": "Empowered Pet",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{R}",
+	        "mana_cost": "{3}{U}{R}",
 	        "type": "Creature — Fish ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Empowered%20Pet.png?raw=true"
@@ -2789,7 +2789,7 @@
 		2 Control of the Chaos
 		2 Ustaran Conjuring
 		2 Aqueous Epiphany
-		2 Sorrowful Thaumaturge
+		2 Leader of Shoals
 		2 Deadly Tempter
 		2 Tusker Migration
 		2 Depths-Pact Mage
@@ -2882,7 +2882,7 @@
 		3 Corrupted Mage
 		3 Treacherous Intent
 		3 Deep-Dwelling Cachalot
-		3 Induced Atrophy
+		3 Mesopelagic Pouncer
 		3 Scour the Depths
 		3 Slugs of the Depths
 		3 Unwilling Return
@@ -2966,7 +2966,7 @@
 		2 Cure Death
 		4 Fatal Verdict
 		3 Ranera's Edict
-		2 Atlistan Guard-Captain
+		4 Atlistan Guard-Captain
 		3 Stingfield Guards
 		4 Court Retainer
 		4 Perilous Discovery
@@ -2986,7 +2986,7 @@
 		4 Homarid Journeymage
 		3 Sun's Favor
 		2 Dwimmersea Scrounger
-		3 Daring Scavenger
+		4 Daring Scavenger
 		4 Purposeful Charge
 		4 Waterlogged City
 		4 Shell of the Derelict
@@ -3056,3 +3056,4 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
+	
