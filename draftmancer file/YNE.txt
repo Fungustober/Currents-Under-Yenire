@@ -72,15 +72,6 @@
 	        }
 	    },
 	    {
-	        "name": "Flawed Foresight",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Flawed%20Foresight.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Murk Feeder",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B/G}{B/G}",
@@ -146,7 +137,7 @@
 	    {
 	        "name": "Merelisene Spy",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}{B}",
+	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Merelisene%20Spy.png?raw=true"
@@ -254,7 +245,7 @@
 	    {
 	        "name": "Chemosynthesis",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B}{G}",
+	        "mana_cost": "{3}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Chemosynthesis.png?raw=true"
@@ -837,15 +828,6 @@
 	        }
 	    },
 	    {
-	        "name": "Cure Death",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}{B}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Cure%20Death.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Fatal Verdict",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W/B}{W/B}",
@@ -861,15 +843,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ranera%27s%20Edict.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Atlistan Guard-Captain",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}{B}",
-	        "type": "Creature — Merfolk Soldier ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Atlistan%20Guard-Captain.png?raw=true"
 	        }
 	    },
 	    {
@@ -891,15 +864,6 @@
 	        }
 	    },
 	    {
-	        "name": "Perilous Discovery",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U/R}{U/R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Perilous%20Discovery.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Dwimmersea Leviathan",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}{R}",
@@ -915,24 +879,6 @@
 	        "type": "Creature — Zombie Fish Horror ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Dwimmersea%20Horror.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Inquisitive Amphibian",
-	        "rarity": "common",
-	        "mana_cost": "{2}{U}{R}",
-	        "type": "Creature — Salamander Fish ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Inquisitive%20Amphibian.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mystic Ricochet",
-	        "rarity": "common",
-	        "mana_cost": "{2}{U}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Mystic%20Ricochet.png?raw=true"
 	        }
 	    },
 	    {
@@ -960,24 +906,6 @@
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Irreconcilable%20Rebirth.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Hunger of the Abyssal",
-	        "rarity": "common",
-	        "mana_cost": "{B}{G}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hunger%20of%20the%20Abyssal.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Ravenous Forager",
-	        "rarity": "common",
-	        "mana_cost": "{3}{B}{G}",
-	        "type": "Creature — Shark ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ravenous%20Forager.png?raw=true"
 	        }
 	    },
 	    {
@@ -1023,15 +951,6 @@
 	        "type": "Creature — Homarid Rogue ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Journeymage.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Sun's Favor",
-	        "rarity": "common",
-	        "mana_cost": "{R}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sun%27s%20Favor.png?raw=true"
 	        }
 	    },
 	    {
@@ -1224,15 +1143,6 @@
 	        }
 	    },
 	    {
-	        "name": "Ancestral Might",
-	        "rarity": "common",
-	        "mana_cost": "{R}{W}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ancestral%20Might.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Court Counsel",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{B}",
@@ -1254,7 +1164,7 @@
 	        "name": "Crushing Pressure",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{B}{B}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Crushing%20Pressure.png?raw=true"
 	        }
@@ -1308,7 +1218,7 @@
 	        "name": "Roundabout Trip",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{W}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Roundabout%20Trip.png?raw=true"
 	        }
@@ -1317,7 +1227,7 @@
 	        "name": "Growing Paranoia",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Growing%20Paranoia.png?raw=true"
 	        }
@@ -1335,7 +1245,7 @@
 	        "name": "Way of Life",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Way%20of%20Life.png?raw=true"
 	        }
@@ -1398,7 +1308,7 @@
 	        "name": "Nedaara's Search",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{U}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Nedaara%27s%20Search.png?raw=true"
 	        }
@@ -1425,7 +1335,7 @@
 	        "name": "Autonymic Genesis",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Autonymic%20Genesis.png?raw=true"
 	        }
@@ -1452,7 +1362,7 @@
 	        "name": "The Great Sinking",
 	        "rarity": "rare",
 	        "mana_cost": "{U}",
-	        "type": "Legendary Enchantment",
+	        "type": "Legendary Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/The%20Great%20Sinking.png?raw=true"
 	        }
@@ -1533,7 +1443,7 @@
 	        "name": "Sway of the Depths",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Sway%20of%20the%20Depths.png?raw=true"
 	        }
@@ -1542,7 +1452,7 @@
 	        "name": "Ebbing of the Mind",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ebbing%20of%20the%20Mind.png?raw=true"
 	        }
@@ -1569,7 +1479,7 @@
 	        "name": "Awoken Remembrance",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Awoken%20Remembrance.png?raw=true"
 	        }
@@ -1641,7 +1551,7 @@
 	        "name": "Encroaching Flow",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Encroaching%20Flow.png?raw=true"
 	        }
@@ -1650,7 +1560,7 @@
 	        "name": "Scavengers' Preparations",
 	        "rarity": "uncommon",
 	        "mana_cost": "{R}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Enchantment — Aura Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Scavengers%27%20Preparations.png?raw=true"
 	        }
@@ -1686,7 +1596,7 @@
 	        "name": "School Swarming",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{G}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/School%20Swarming.png?raw=true"
 	        }
@@ -1740,7 +1650,7 @@
 	        "name": "Altered Cycle",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Altered%20Cycle.png?raw=true"
 	        }
@@ -1758,7 +1668,7 @@
 	        "name": "Fluctuating Growth",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{G}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Fluctuating%20Growth.png?raw=true"
 	        }
@@ -1811,7 +1721,7 @@
 	    {
 	        "name": "Jellyfire",
 	        "rarity": "rare",
-	        "mana_cost": "{U}{R}",
+	        "mana_cost": "{R}{R}",
 	        "type": "Creature — Jellyfish Beast ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Jellyfire.png?raw=true"
@@ -1883,7 +1793,7 @@
 	    {
 	        "name": "Thülendan of New Vargoth",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Elf Human Survivor ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Thülendan%20of%20New%20Vargoth.png?raw=true"
@@ -1928,7 +1838,7 @@
 	    {
 	        "name": "Homarid Formstealer",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Homarid Shapeshifter ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Formstealer.png?raw=true"
@@ -1962,15 +1872,6 @@
 	        }
 	    },
 	    {
-	        "name": "Clairvoyant Interrogation",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}{B}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Clairvoyant%20Interrogation.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Scorn of the Court",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{B}",
@@ -1995,15 +1896,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Bite%20of%20the%20Stingfields.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Deep-Spawn Ink-Breather",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}{R}",
-	        "type": "Creature — Squid ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Deep-Spawn%20Ink-Breather.png?raw=true"
 	        }
 	    },
 	    {
@@ -2313,15 +2205,6 @@
 	        }
 	    },
 	    {
-	        "name": "Stingfield Colossus",
-	        "rarity": "common",
-	        "mana_cost": "{5}{W}{B}",
-	        "type": "Creature — Jellyfish ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Stingfield%20Colossus.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Growing Strife",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{B}",
@@ -2385,24 +2268,6 @@
 	        }
 	    },
 	    {
-	        "name": "Worldmaw Reaper",
-	        "rarity": "common",
-	        "mana_cost": "{3}{B}{G}",
-	        "type": "Creature — Angel Fish ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Worldmaw%20Reaper.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "The Depths Rise",
-	        "rarity": "common",
-	        "mana_cost": "{1}{B}{G}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/The%20Depths%20Rise.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Depths-Mage's Boon",
 	        "rarity": "common",
 	        "mana_cost": "{B}{G}",
@@ -2421,24 +2286,6 @@
 	        }
 	    },
 	    {
-	        "name": "Fellowship Figurehead",
-	        "rarity": "common",
-	        "mana_cost": "{2}{R}{W}",
-	        "type": "Creature — Elf Warrior Noble ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Fellowship%20Figurehead.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Power Vacuum",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Power%20Vacuum.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Hooked Spear",
 	        "rarity": "common",
 	        "mana_cost": "{R}{W}",
@@ -2448,48 +2295,12 @@
 	        }
 	    },
 	    {
-	        "name": "Coxa-Clan Bruiser",
-	        "rarity": "common",
-	        "mana_cost": "{G}{U}",
-	        "type": "Creature — Homarid Warrior ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Coxa-Clan%20Bruiser.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Aggravated Crawler",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Creature — Crab ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Aggravated%20Crawler.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Erasing Epithet",
-	        "rarity": "common",
-	        "mana_cost": "{G}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Erasing%20Epithet.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Rampage of Clan Dactylus",
-	        "rarity": "common",
-	        "mana_cost": "{2}{G}{U}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Rampage%20of%20Clan%20Dactylus.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Infantry Scholar",
-	        "rarity": "common",
-	        "mana_cost": "{W/B}",
-	        "type": "Creature — Merfolk Soldier ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Infantry%20Scholar.png?raw=true"
 	        }
 	    },
 	    {
@@ -2529,39 +2340,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rhythm of the Depths",
-	        "rarity": "common",
-	        "mana_cost": "{1}{B/G}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Rhythm%20of%20the%20Depths.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Raftbound Castaway",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R/W}",
-	        "type": "Creature — Elf Survivor ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Raftbound%20Castaway.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Combat Training",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R/W}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Combat%20Training.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Telson-Clan Lookout",
-	        "rarity": "common",
-	        "mana_cost": "{G/U}",
-	        "type": "Creature — Homarid Scout Ranger ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Telson-Clan%20Lookout.png?raw=true"
 	        }
 	    },
 	    {
@@ -2742,7 +2526,7 @@
 	        "name": "Ranera's Crusade",
 	        "rarity": "rare",
 	        "mana_cost": "{4}{W}{B}",
-	        "type": "Enchantment",
+	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ranera%27s%20Crusade.png?raw=true"
 	        }
@@ -2873,7 +2657,6 @@
 		3 Altered Cycle
 		3 Harmonious Conflict
 		3 Empathetic Guard
-		3 Clairvoyant Interrogation
 		3 Scorn of the Court
 		3 Brigade Taskmaster
 		3 Bite of the Stingfields
@@ -2903,133 +2686,110 @@
 		3 Empowered Pet
 		3 Wellspring of the Faceless
 	[CommonSlot(10)]
-		4 Anomalous Vagabond
-		4 Caller of the Extraordinary
-		4 Ego Donor
-		4 Rebellious Deepwalker
-		4 Dactylus-Clan Druid
-		2 Flawed Foresight
-		4 Murk Feeder
-		4 Mercurial Accomplice
-		4 Scavenger Team
-		4 Merelisene Insurgent
-		4 Erase Identity
-		4 Belligerent Confrontation
-		4 Accomplished Mentor
-		4 Kelp Tender
-		4 Protean Hindrance
-		4 Sanctuary Snarecaster
-		4 Disguised Informant
-		4 Authorized Attack
-		4 Charlatan's Betrayal
-		4 Drowning Waves
-		4 Impulse
-		4 Omenzoa
-		4 Infantilize
-		4 Root Nautilus
-		4 Opt
-		4 Intimidating Crustacean
-		4 Tidehopper Regent
-		4 Homarid Arcanist
-		4 Negate
-		4 Duress
-		4 Bloodthirsty Squid
-		4 Mentor's Blood
-		4 Crush Mind
-		4 Deadly Deceit
-		4 Depths-Stricken Monster
-		4 Ranera's Enforcer
-		4 Unscrupulous Authority
-		4 Blessing of the Depths
-		4 Orcish Stalwart
-		4 Sanctuary Instigator
-		4 Capricious Serpent
-		4 Resolute Vestiges
-		4 Work Together
-		4 Infuriated Starfish
-		4 Explosive Rage
-		4 Frantic Scavenging
-		4 Shock
-		4 Volcanic Uproaring
-		4 Fearsome Spineback
-		4 Telson-Clan Matron
-		4 Savage Punch
-		4 Bright Future
-		4 Vidus's Protection
-		4 Legacy of Chyklis
-		4 Voracious Snapper
-		4 Dove Too Deep
-		4 Discarded Hammer
-		4 Burgeoning Lumpus
-		4 Savage Predator
-		4 Carpus-Clan Brawler
-		2 Cure Death
-		4 Fatal Verdict
-		3 Ranera's Edict
-		4 Atlistan Guard-Captain
-		3 Stingfield Guards
-		4 Court Retainer
-		4 Perilous Discovery
-		2 Dwimmersea Leviathan
-		4 Dwimmersea Horror
-		2 Inquisitive Amphibian
-		2 Mystic Ricochet
-		2 Benthic Wanderer
-		4 Depthsdraught
-		3 Irreconcilable Rebirth
-		2 Hunger of the Abyssal
-		2 Ravenous Forager
-		3 Epithet Flask
-		2 Strength in Names
-		4 Pacifying Rays
-		2 Sunken-Grove Scholar
-		4 Homarid Journeymage
-		3 Sun's Favor
-		2 Dwimmersea Scrounger
-		4 Daring Scavenger
-		4 Purposeful Charge
-		4 Waterlogged City
-		4 Shell of the Derelict
-		4 Corpse Cache
-		4 Vivien's Journal
-		4 Wayfarer's Bauble
-		4 Depthswalker
-		4 Derelict Overseer
-		4 Seafloor Wanderers
-		4 Thrashing Oarfish
-		4 Abandoned Implement
-		4 Ancestral Might
-		4 Ancestor-Blessed Blade
-		4 Favor of the the Depths
-		2 Deep-Spawn Ink-Breather
-		3 Settlement Betrayer
-		2 Stingfield Colossus
-		2 Guard-Captain's Helm
-		3 Sibylline Thresher
-		2 Dwimmersea Initiation
-		3 Secrets of the Dwimmersea
-		3 Dragonheart Predator
-		2 Worldmaw Reaper
-		2 The Depths Rise
-		2 Depths-Mage's Boon
-		3 Scavenger Captain
-		2 Fellowship Figurehead
-		2 Power Vacuum
-		2 Hooked Spear
-		2 Coxa-Clan Bruiser
-		2 Aggravated Crawler
-		3 Erasing Epithet
-		2 Rampage of Clan Dactylus
-		4 Infantry Scholar
-		4 Unnatural Nascency
-		4 Outpost Thaumaturge
-		4 Spectral Form
-		4 Chasmal Eel
-		4 Rhythm of the Depths
-		4 Raftbound Castaway
-		4 Combat Training
-		4 Telson-Clan Lookout
-		4 Camouflage of the Gloamsea
+		6 Anomalous Vagabond
+		6 Caller of the Extraordinary
+		6 Ego Donor
+		6 Rebellious Deepwalker
+		6 Dactylus-Clan Druid
+		6 Murk Feeder
+		6 Mercurial Accomplice
+		6 Scavenger Team
+		6 Merelisene Insurgent
+		6 Erase Identity
+		6 Belligerent Confrontation
+		6 Accomplished Mentor
+		6 Kelp Tender
+		6 Protean Hindrance
+		6 Sanctuary Snarecaster
+		6 Disguised Informant
+		6 Authorized Attack
+		6 Charlatan's Betrayal
+		6 Drowning Waves
+		6 Impulse
+		6 Omenzoa
+		6 Infantilize
+		6 Root Nautilus
+		6 Opt
+		6 Intimidating Crustacean
+		6 Tidehopper Regent
+		6 Homarid Arcanist
+		6 Negate
+		6 Duress
+		6 Bloodthirsty Squid
+		6 Mentor's Blood
+		6 Crush Mind
+		6 Deadly Deceit
+		6 Depths-Stricken Monster
+		6 Ranera's Enforcer
+		6 Unscrupulous Authority
+		6 Blessing of the Depths
+		6 Orcish Stalwart
+		6 Sanctuary Instigator
+		6 Capricious Serpent
+		6 Resolute Vestiges
+		6 Work Together
+		6 Infuriated Starfish
+		6 Explosive Rage
+		6 Frantic Scavenging
+		6 Shock
+		6 Volcanic Uproaring
+		6 Fearsome Spineback
+		6 Telson-Clan Matron
+		6 Savage Punch
+		6 Bright Future
+		6 Vidus's Protection
+		6 Legacy of Chyklis
+		6 Voracious Snapper
+		6 Dove Too Deep
+		6 Discarded Hammer
+		6 Burgeoning Lumpus
+		6 Savage Predator
+		6 Carpus-Clan Brawler
+		6 Fatal Verdict
+		6 Ranera's Edict
+		6 Stingfield Guards
+		6 Court Retainer
+		6 Dwimmersea Leviathan
+		6 Dwimmersea Horror
+		6 Benthic Wanderer
+		6 Depthsdraught
+		6 Irreconcilable Rebirth
+		6 Epithet Flask
+		6 Strength in Names
+		6 Pacifying Rays
+		6 Sunken-Grove Scholar
+		6 Homarid Journeymage
+		6 Dwimmersea Scrounger
+		6 Daring Scavenger
+		6 Purposeful Charge
+		6 Waterlogged City
+		6 Shell of the Derelict
+		6 Corpse Cache
+		6 Vivien's Journal
+		6 Wayfarer's Bauble
+		6 Depthswalker
+		6 Derelict Overseer
+		6 Seafloor Wanderers
+		6 Thrashing Oarfish
+		6 Abandoned Implement
+		6 Ancestor-Blessed Blade
+		6 Favor of the the Depths
+		6 Settlement Betrayer
+		6 Guard-Captain's Helm
+		6 Sibylline Thresher
+		6 Dwimmersea Initiation
+		6 Secrets of the Dwimmersea
+		6 Dragonheart Predator
+		6 Depths-Mage's Boon
+		6 Scavenger Captain
+		6 Hooked Spear
+		6 Aggravated Crawler
+		6 Unnatural Nascency
+		6 Outpost Thaumaturge
+		6 Spectral Form
+		6 Chasmal Eel
+		6 Combat Training
+		6 Camouflage of the Gloamsea
 	[LandSlot(1)]
 		12 Guard Station
 		12 Dwimmersea Hoard
@@ -3056,4 +2816,3 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
-	
