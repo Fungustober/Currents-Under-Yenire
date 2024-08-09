@@ -332,7 +332,7 @@ Abilities of this creature that trigger whenever it mutates also trigger wheneve
  <text>Exile a card from your graveyard: Add C. Spend this mana only to activate abilities.
 2G: Put two +1/+1 counters on target creature.
 1G, Remove a +1/+1 counter from a creature you control: Create two 1/1 green Fish creature tokens.
-G, Sacrifice a creature: Mill 3 cards.</text>
+G, Sacrifice a creature: Mill three cards.</text>
 </card>
 <card>
  <name>Nedaara, High Mage of Ustaro</name>
@@ -2885,7 +2885,7 @@ T, Sacrifice this land: Search your library for a Forest or Island card, put it 
  <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Whenever one or more creatures die, creatures you control get +1/+1 until the end of turn.
+ <text>Whenever one or more creatures die, creatures you control get +1/+1 until end of turn.
 4WB: Each player sacrifices a creature.</text>
 </card>
 <card>
