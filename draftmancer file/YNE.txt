@@ -1478,7 +1478,7 @@
 	    {
 	        "name": "Awoken Remembrance",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Awoken%20Remembrance.png?raw=true"
@@ -2816,3 +2816,4 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
+	

@@ -965,7 +965,7 @@ Ferocious — The creature you control gets +2/+2 until end of turn before it fi
  <cmc>1</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Put a +1/+1 counter on target creature. Untap it. If it’s your turn, it gains trample until end of turn.</text>
+ <text>Put a +1/+1 counter on target creature. Untap it. It gains trample until end of turn.</text>
 </card>
 <card>
  <name>Vidus's Protection</name>
@@ -1149,8 +1149,7 @@ Whenever this creature mutates, reveal the top three cards of your library. Put 
  <cmc>6</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Destroy target creature you don’t control.
-Create two 1/1 green Fish creature tokens.</text>
+ <text>Destroy target creature. Create two 1/1 green Fish creature tokens.</text>
 </card>
 <card>
  <name>Epithet Flask</name>
@@ -1339,7 +1338,7 @@ Whenever this creature blocks a diving creature, this creature gets +1/+1 until 
  <type>Artifact Creature - Construct Rogue </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>Dive 1 (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
+ <text>Dive 2 (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
 When this creature enters, draw a card.</text>
 </card>
 <card>
@@ -1922,16 +1921,16 @@ Exile the top three cards of your library. You may play them this turn.</text>
  <name>Awoken Remembrance</name>
  <set rarity="rare">YNE</set>
  <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
  <type>Enchantment - Tide </type>
  <tablerow>1</tablerow>
  <text>
 (As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
-1-2 Low Tide
+1 Low Tide
 Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
-3 High Tide
-Until end of turn, whenever one or more Shapeshifters you control deals combat damage to a player, you may discard your hand. If you do, draw three cards.</text>
+2-3 High Tide
+Whenever one or more Shapeshifters you control attack, exile the top card of your library. You may play it until end of turn.</text>
 </card>
 <card>
  <name>Greater Blackrock Hardshell</name>
@@ -2932,7 +2931,7 @@ Whenever this creature mutates, you may search your library for a creature with 
  <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>When this creature enters, create a 0/2 blue Oyster creature token with “When this creature dies, if it was mutated, draw a card.”
+ <text>When this enchantment enters, create a 0/2 blue Oyster creature token with “When this creature dies, if it was mutated, draw a card.”
 Whenever you cast a creature spell, target creature gets +1/+1 until end of turn.</text>
 </card>
 <card>
