@@ -1018,7 +1018,7 @@ Ferocious — The creature you control gets +2/+2 until end of turn before it fi
  <tablerow>1</tablerow>
  <text>Ferocious — Whenever equipped creature deals combat damage to a player, if you control a creature with power 4 or greater, destroy up to one target noncreature, nonland permanent.
 Equipped creature gets +2/+2.
-Equip 4</text>
+Equip 3</text>
 </card>
 <card>
  <name>Burgeoning Lumpus</name>
@@ -1450,18 +1450,6 @@ T: Add G or U.
 • Exile up to three target cards from a graveyard.
 • Remove a name from target permanent.
 • Draw a card.</text>
-</card>
-<card>
- <name>Court Counsel</name>
- <set rarity="rare">YNE</set>
- <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
- <type>Creature - Merfolk Advisor </type>
- <pt>3/4</pt>
- <tablerow>2</tablerow>
- <text>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
-At the beginning of your end step, discard a card.</text>
 </card>
 <card>
  <name>Ancestor-Blessed Blade</name>
@@ -3286,6 +3274,17 @@ You draw three cards and gain 3 life.
 Create two 2/1 white Merfolk Soldier creature tokens with dive 3.
 3 High Tide
 Creatures you don’t control get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Depths-Mage Savant</name>
+ <set rarity="rare">YNE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Nightmare Warlock </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ferocious — At the beginning of your upkeep, reveal the top card of your library. If you control a creature with power 4 or greater, put that card into your hand. Otherwise, you lose life equal to its mana value, then put it into your hand.</text>
 </card>
 
 <!-->Tokens</-->
