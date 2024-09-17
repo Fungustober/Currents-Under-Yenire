@@ -180,12 +180,12 @@
 	        }
 	    },
 	    {
-	        "name": "Master of Unrest",
+	        "name": "Guard-Rebel",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Merfolk Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Master%20of%20Unrest.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Guard-Rebel.png?raw=true"
 	        }
 	    },
 	    {
@@ -767,7 +767,7 @@
 	    {
 	        "name": "Legacy of Chyklis",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Legacy%20of%20Chyklis.png?raw=true"
@@ -920,7 +920,7 @@
 	    {
 	        "name": "Strength in Names",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}{U}",
+	        "mana_cost": "{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Strength%20in%20Names.png?raw=true"
@@ -1143,15 +1143,6 @@
 	        }
 	    },
 	    {
-	        "name": "Court Counsel",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Merfolk Advisor ",
-	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Court%20Counsel.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Ancestor-Blessed Blade",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
@@ -1341,12 +1332,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bivalve Augur",
+	        "name": "Ephemeral Hammerhead",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{U}",
-	        "type": "Creature — Oyster ",
+	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Bivalve%20Augur.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ephemeral%20Hammerhead.png?raw=true"
 	        }
 	    },
 	    {
@@ -2530,13 +2521,22 @@
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ranera%27s%20Crusade.png?raw=true"
 	        }
+	    },
+	    {
+	        "name": "Depths-Mage Savant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Nightmare Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Depths-Mage%20Savant.png?raw=true"
+	        }
 	    }
 	]
 	[RareSlot(1)]
 		2 Repurposed Apparatus
 		2 Orb of Conformity
 		2 Merelisene Spy
-		2 Master of Unrest
+		2 Guard-Rebel
 		2 Reveal the Truth
 		2 Angler of the Damned
 		2 Requisition
@@ -2546,13 +2546,12 @@
 		2 Nedaara, High Mage of Ustaro
 		2 Identity Bandit
 		2 Atlista, Heart of Merelis
-		2 Court Counsel
 		2 Crushing Pressure
 		2 Delay the Inevitable
 		2 Way of Life
 		2 Beckon the Guard
 		2 Cataclysmic Conflict
-		2 Bivalve Augur
+		2 Ephemeral Hammerhead
 		2 Keeper of Mysteries
 		2 The Great Sinking
 		2 Homarid Namebinder
@@ -2588,6 +2587,7 @@
 		2 Welder Prototype
 		2 Worldmaw Ingress
 		2 Ranera's Crusade
+		2 Depths-Mage Savant
 		1 Ranera, Devious Advisor
 		1 Pelagic Dreadnought
 		1 That Which Dwells in the Deep
@@ -2816,4 +2816,3 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
-	

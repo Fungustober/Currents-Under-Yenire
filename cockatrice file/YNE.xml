@@ -241,7 +241,7 @@ Ferocious — When this creature dies while you control a creature with power 4 
  <text>When this creature enters, search your library for a card that shares a name with another creature you control, reveal it, then put it into your hand.</text>
 </card>
 <card>
- <name>Master of Unrest</name>
+ <name>Guard-Rebel</name>
  <set rarity="rare">YNE</set>
  <color>W</color>
  <manacost>2W</manacost>
@@ -249,8 +249,8 @@ Ferocious — When this creature dies while you control a creature with power 4 
  <type>Creature - Merfolk Warrior </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Other Merfolk and Survivors you control get +1/+1.
-Whenever this creature deals combat damage to a player, create a 2/1 white Merfolk Soldier creature token with dive 3. (3: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+ <text>Other Warriors and Survivors you control get +1/+1.
+Strength in numbers—Whenever another permanent enters under your control, if it shares a creature type with this creature, each creature you control gets +1/+1 until end of turn.</text>
 </card>
 <card>
  <name>Reveal the Truth</name>
@@ -981,11 +981,11 @@ Ferocious — The creature you control gets +2/+2 until end of turn before it fi
  <name>Legacy of Chyklis</name>
  <set rarity="common">YNE</set>
  <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target creature gains the creature name of your choice. Put a +1/+1 counter on it, then if you control three or more creatures that share a name, put an additional +1/+1 counter on it.</text>
+ <text>Choose a creature name. Each creature with the chosen name gets +2/+0 and gains trample until end of turn.</text>
 </card>
 <card>
  <name>Voracious Snapper</name>
@@ -1062,7 +1062,7 @@ Other creatures you control that share a name with this creature get +1/+0.</tex
  <cmc>5</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Exile target creature. Its controller loses 2 life and you gain 2 life.</text>
+ <text>Exile target creature. You gain 3 life.</text>
 </card>
 <card>
  <name>Ranera's Edict</name>
@@ -1166,8 +1166,8 @@ T: Move a name other than Epithet Flask from this artifact to target creature. Y
  <name>Strength in Names</name>
  <set rarity="common">YNE</set>
  <color>UG</color>
- <manacost>1GU</manacost>
- <cmc>3</cmc>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Target creature gains the creature name of your choice. If you control three or more creatures that share a name, it gets +1/+1 for each other creature it shares a name with until end of turn.
@@ -1713,16 +1713,16 @@ The next spell you cast this turn with the chosen names costs 1 less to cast.
 Until end of turn, creatures you control with the chosen names get +1/+1 and are diving. (They can only be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
- <name>Bivalve Augur</name>
+ <name>Ephemeral Hammerhead</name>
  <set rarity="rare">YNE</set>
  <color>U</color>
  <manacost>3U</manacost>
  <cmc>4</cmc>
- <type>Creature - Oyster </type>
- <pt>0/6</pt>
+ <type>Creature - Shark </type>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Whenever this creature enters or attacks, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in a random order.
-Whenever this creature deals combat damage to a player, you may cast one of the exiled cards without paying its mana cost.</text>
+ <text>Mutate 1U (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+Whenever this creature becomes the target of a spell, exile it, then return it to the battlefield. (Each mutated creature returns separately.)</text>
 </card>
 <card>
  <name>Keeper of Mysteries</name>
@@ -2569,7 +2569,7 @@ B/G, Exile this card from your graveyard: You gain 2 life.</text>
  <cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Return up to three target creature cards from your graveyard to your hand.
+ <text>Return up to two target creature cards from your graveyard to your hand.
 You gain 2 life.</text>
 </card>
 <card>
@@ -2883,9 +2883,8 @@ T, Sacrifice this land: Search your library for a Forest or Island card, put it 
  <cmc>4</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>When this artifact enters, you may sacrifice a creature. If you do, attach this artifact to target creature you control.
-Equipped creature gets +2/+2 and has vigilance and lifelink.
-Equip 3</text>
+ <text>Whenever a creature an opponent controls enters, that player loses 1 life.
+Whenever a creature an opponent controls dies, you gain 1 life.</text>
 </card>
 <card>
  <name>Sibylline Thresher</name>
@@ -2974,7 +2973,7 @@ Enchanted creature has “Whenever this creature mutates, draw two cards, then d
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
  <text>Equipped creature gets +2/+0 and has reach.
-Unattach this artifact and sacrifice it: This artifact deals 1 damage to any target.
+Unattach this artifact and sacrifice it: This artifact deals 2 damage to any target.
 Equip 2</text>
 </card>
 <card>
@@ -3290,7 +3289,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 <!-->Tokens</-->
 
 <card>
- <name>Camarid YNE</name>
+ <name>Camarid</name>
  <set>YNE</set>
  <color>UG</color>
  <type>Token Creature - Camarid </type>
@@ -3303,7 +3302,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Human Survivor YNE</name>
+ <name>Human Survivor</name>
  <set>YNE</set>
  <color>R</color>
  <type>Token Creature - Human Survivor </type>
@@ -3321,7 +3320,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Merfolk Soldier YNE</name>
+ <name>Merfolk Soldier</name>
  <set>YNE</set>
  <color>W</color>
  <type>Token Creature - Merfolk Soldier </type>
@@ -3331,14 +3330,13 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <token>1</token>
 <reverse-related>Accomplished Mentor</reverse-related>
 <reverse-related>Growing Paranoia</reverse-related>
-<reverse-related>Master of Unrest</reverse-related>
 <reverse-related>Ranera's Command</reverse-related>
 <reverse-related>Ranera's Crusade</reverse-related>
 <reverse-related>Orchestrated War</reverse-related>
 
 </card>
 <card>
- <name>Fish YNE</name>
+ <name>Fish</name>
  <set>YNE</set>
  <color>G</color>
  <type>Token Creature - Fish </type>
@@ -3357,7 +3355,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Oyster YNE</name>
+ <name>Oyster</name>
  <set>YNE</set>
  <color>U</color>
  <type>Token Creature - Oyster </type>
@@ -3371,7 +3369,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Influence YNE</name>
+ <name>Influence</name>
  <set>YNE</set>
  <color>B</color>
  <type>Token Enchantment - Influence </type>
@@ -3383,7 +3381,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Treasure YNE</name>
+ <name>Treasure</name>
  <set>YNE</set>
  <color></color>
  <type>Token Artifact - Treasure </type>
@@ -3395,7 +3393,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 
 </card>
 <card>
- <name>Shapeshifter YNE</name>
+ <name>Shapeshifter</name>
  <set>YNE</set>
  <color></color>
  <type>Token Enchantment Creature - Shapeshifter </type>
@@ -3406,10 +3404,11 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
 <reverse-related>Unnatural Nascency</reverse-related>
 <reverse-related>Form of the Faceless</reverse-related>
 <reverse-related>Awoken Remembrance</reverse-related>
+<reverse-related>Caller of the Extraordinary</reverse-related>
 
 </card>
 <card>
- <name>Equipment YNE</name>
+ <name>Equipment</name>
  <set>YNE</set>
  <color></color>
  <type>Token Artifact - Equipment </type>
@@ -3421,7 +3420,7 @@ Equip 2</text>
 
 </card>
 <card>
- <name>Turtle YNE</name>
+ <name>Turtle</name>
  <set>YNE</set>
  <color>G</color>
  <type>Creature - Turtle </type>
