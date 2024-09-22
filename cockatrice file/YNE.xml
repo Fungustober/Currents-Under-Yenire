@@ -1566,14 +1566,14 @@ You may sacrifice a creature. If you do, create a token that’s a copy of targe
 Token creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 </card>
 <card>
- <name>Delay the Inevitable</name>
+ <name>Buy Time</name>
  <set rarity="rare">YNE</set>
  <color>W</color>
  <manacost>1WW</manacost>
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Each creature you control phases out. (Treat them and anything attached to them as though they don’t exist until its controller’s next turn.)</text>
+ <text>Choose up to two creatures you control. The rest phase out. (Treat them and anything attached to them as though they don’t exist until their controller’s next turn.)</text>
 </card>
 <card>
  <name>Way of Life</name>

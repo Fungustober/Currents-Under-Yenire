@@ -1224,12 +1224,12 @@
 	        }
 	    },
 	    {
-	        "name": "Delay the Inevitable",
+	        "name": "Buy Time",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Delay%20the%20Inevitable.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Buy%20Time.png?raw=true"
 	        }
 	    },
 	    {
@@ -2547,7 +2547,7 @@
 		2 Identity Bandit
 		2 Atlista, Heart of Merelis
 		2 Crushing Pressure
-		2 Delay the Inevitable
+		2 Buy Time
 		2 Way of Life
 		2 Beckon the Guard
 		2 Cataclysmic Conflict
