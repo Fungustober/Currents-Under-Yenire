@@ -250,7 +250,7 @@ Ferocious — When this creature dies while you control a creature with power 4 
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Other Warriors and Survivors you control get +1/+1.
-Strength in numbers—Whenever another permanent enters under your control, if it shares a creature type with this creature, each creature you control gets +1/+1 until end of turn.</text>
+Strength in numbers — Whenever another permanent enters under your control, if it shares a creature type with this creature, this creature gets +1/+1 until end of turn.</text>
 </card>
 <card>
  <name>Reveal the Truth</name>
@@ -271,7 +271,7 @@ Strength in numbers—Whenever another permanent enters under your control, if i
  <type>Creature - Zombie </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>Whenever this creature enters or attacks, exile up to one target creature card from an opponent’s graveyard until this creature leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
+ <text>When this creature enters, exile up to one target creature card from an opponent’s graveyard until this creature leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
 </card>
 <card>
  <name>Requisition</name>
@@ -367,10 +367,9 @@ Players can’t cast spells that share a name with this creature.</text>
  <type>Legendary Planeswalker - Ranera </type>
  <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Until the beginning of your next turn, nonbasic permanents you don’t control enter the battlefield tapped. When they do, you gain 1 life.
-[-1]: Until the end of your next turn, opponents can’t activate abilities unless they’re mana abilities.
-[-2]: Exile target creature. Its controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.
-[-10]: Destroy all nonland permanents you don’t control.
+ <text>[+1]: Until your next turn, nonbasic permanents you don’t control enter tapped. When they do, you gain 1 life.
+[-3]: Exile target creature. Its controller may search their library for a basic land, put it onto the battlefield tapped, then shuffle.
+[-8]: Destroy all nonland permanents you don’t control.
 </text>
 </card>
 <card>
@@ -685,7 +684,7 @@ Whenever another creature that shares a name with this creature enters, tap up t
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Mutate 1U (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
-Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Ward 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)
 This creature can’t be blocked.</text>
 </card>
 <card>
@@ -711,14 +710,15 @@ Creatures you control that share a name with this creature have dive 2.  (2: Unt
  <text>Counter target noncreature spell.</text>
 </card>
 <card>
- <name>Duress</name>
+ <name>Manufactured Fears</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+ <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Create a 2/1 white Merfolk Soldier creature token with dive 3. (3: Until end of turn, it can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
  <name>Bloodthirsty Squid</name>
@@ -753,14 +753,14 @@ Creatures you control that share a name with this creature have dive 2.  (2: Unt
 Draw a card. If this spell’s additional cost was paid, draw two cards instead. Otherwise, you lose 1 life.</text>
 </card>
 <card>
- <name>Crush Mind</name>
+ <name>Drown the Mind</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target player discards two cards and loses 2 life.</text>
+ <text>Target player discards two cards, mills two cards, and loses 2 life.</text>
 </card>
 <card>
  <name>Deadly Deceit</name>
@@ -933,7 +933,7 @@ Draw two cards.</text>
  <type>Creature - Fish </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
+ <text>Once each turn, whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
 </card>
 <card>
  <name>Telson-Clan Matron</name>
@@ -1204,7 +1204,7 @@ Draw a card.</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Dive U (U: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
-Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
+Once each turn, whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it.</text>
 </card>
 <card>
  <name>Amorphous Helm</name>
@@ -1342,14 +1342,14 @@ Whenever this creature blocks a diving creature, this creature gets +1/+1 until 
 When this creature enters, draw a card.</text>
 </card>
 <card>
- <name>Despise</name>
+ <name>Lifelong Hatred</name>
  <set rarity="uncommon">YNE</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.</text>
+ <text>Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player exiles that card from their hand and loses 1 life.</text>
 </card>
 <card>
  <name>Thrashing Oarfish</name>
@@ -1573,7 +1573,7 @@ Token creatures you control get +1/+1 and gain vigilance until end of turn.</tex
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Choose up to two creatures you control. The rest phase out. (Treat them and anything attached to them as though they don’t exist until their controller’s next turn.)</text>
+ <text>Choose up to two creatures you control. The rest phase out. (Treat them and anything attached to them as though they don’t exist until your next turn.)</text>
 </card>
 <card>
  <name>Way of Life</name>
@@ -1588,7 +1588,7 @@ Token creatures you control get +1/+1 and gain vigilance until end of turn.</tex
 1-2 Low Tide
 Put a +1/+1 counter on target creature you control.
 3 High Tide
-Remove all counters from target creature you control with the greatest power among creatures you control. It gains defender. (This effect lasts indefinitely.)</text>
+Remove all +1/+1 counters from target creature you control with the greatest power among creatures you control.</text>
 </card>
 <card>
  <name>Beckon the Guard</name>
@@ -1786,11 +1786,11 @@ Whenever this creature deals combat damage to a player, that player discards a c
  <cmc>5</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Choose two—
+ <text>Choose two —
 • Create two 2/1 white Merfolk Soldier creature tokens with dive 3.
 • Target player sacrifices a creature with the highest mana value among creatures they control.
 • Search your library for a card, put it into your hand, then shuffle.
-• Up to one target opponent discards two cards.</text>
+• Target opponent discards two cards.</text>
 </card>
 <card>
  <name>Hadal-Deep Stalker</name>
@@ -1823,10 +1823,9 @@ When this creature enters, create a 1/1 green Fish creature token.</text>
  <manacost>2B</manacost>
  <cmc>3</cmc>
  <type>Creature - Spawn </type>
- <pt>2/2</pt>
+ <pt>1/3</pt>
  <tablerow>2</tablerow>
- <text>If an opponent would lose exactly 1 life, they lose 2 life instead.
-Whenever this creature attacks, create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)</text>
+ <text>If an opponent would lose exactly 1 life, they lose 2 life instead.</text>
 </card>
 <card>
  <name>Favor of the the Depths</name>
@@ -1859,27 +1858,27 @@ When enchanted creature dies, each opponent loses 1 life.</text>
  <type>Enchantment - Tide </type>
  <tablerow>1</tablerow>
  <text>
-(As this enters and at the beginning of your upkeep, add a tide counter. If there are more than five, remove all but one.)
+(As this enters and at the beginning of your upkeep, add a tide counter. If there are more than four, remove all but one.)
 1 Low Tide
 Return target creature card from your graveyard to your hand.
-2-4 Mid Tide
+2-3 Mid Tide
 Create an Influence token. (It’s a black Influence enchantment with “Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.”)
-5 High Tide
+4 High Tide
 You may sacrifice this enchantment. If you don’t, discard a card and you lose 2 life.</text>
 </card>
 <card>
- <name>Ebbing of the Mind</name>
+ <name>Atlistan Interrogation</name>
  <set rarity="uncommon">YNE</set>
  <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
  <type>Enchantment - Tide </type>
  <tablerow>1</tablerow>
  <text>
-(As this enters and at the beginning of your upkeep, add a tide counter. If there are more than two, remove all but one.)
-1 Low Tide
-Each opponent discards a card.
-2 High Tide
+(As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
+1-2 Low Tide
+Each opponent loses life equal to 3 minus the number of cards in their hand.
+3 High Tide
 Each opponent loses life equal to 4 minus the number of cards in their hand.</text>
 </card>
 <card>
@@ -1900,7 +1899,7 @@ When this creature dies, it deals 2 damage to another target creature you contro
  <color>R</color>
  <manacost>R</manacost>
  <cmc>1</cmc>
- <type>Instant</type>
+ <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>As an additional cost to cast this spell, pay 2 or tap two untapped creatures you control.
 Exile the top three cards of your library. You may play them this turn.</text>
@@ -2067,8 +2066,8 @@ This creature enters with a +1/+1 counter on it for each card type among cards e
  <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>As this enchantment enters, choose a creature name. (You may choose a creature token name.)
-Whenever a creature with the chosen name enters under your control, draw a card.</text>
+ <text>As this enchantment enters, choose a creature name.
+Whenever a nontoken creature with the chosen name enters under your control, draw a card.</text>
 </card>
 <card>
  <name>School Swarming</name>
@@ -2203,8 +2202,8 @@ Whenever you cast a spell that targets only a single creature you control, copy 
  <type>Legendary Planeswalker - Hadanu </type>
  <loyalty>3</loyalty>
  <tablerow>1</tablerow>
- <text>[+2]: You may discard a card. If you do, return up to one other target noncreature, nonland card from your graveyard to your hand.
-[+1]: Until the beginning of your next turn, players can’t cast more than one spell, draw more than one card, or play more than one land each turn.
+ <text>[+1]: Until your next turn, players can’t cast more than one spell each turn.
+[-1]: Exile up to one artifact, enchantment, instant, or sorcery card from your graveyard. If you do, copy it. You may cast the copy.
 [-2]: Madame Fireblood deals 2 damage divided among any number of target creatures.
 </text>
 </card>
@@ -2391,7 +2390,7 @@ Whenever a creature an opponent controls dies, if it was dealt damage by a creat
  <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>G, Discard a creature card: Search your library for a creature card that shares a name with this creature, reveal it, put it into your hand, then shuffle.
-2: This creature gains the creature name of your choice.</text>
+1: This creature gains the creature name of your choice.</text>
 </card>
 <card>
  <name>Homarid Formstealer</name>
@@ -2941,7 +2940,7 @@ Enchanted creature has “Whenever this creature mutates, draw two cards, then d
  <type>Creature - Dragon Fish </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, this creature gets +2/+0 until end of turn.</text>
+ <text>Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn.</text>
 </card>
 <card>
  <name>Depths-Mage's Boon</name>
@@ -2973,8 +2972,8 @@ Enchanted creature has “Whenever this creature mutates, draw two cards, then d
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
  <text>Equipped creature gets +2/+0 and has reach.
-Unattach this artifact and sacrifice it: This artifact deals 2 damage to any target.
-Equip 2</text>
+Unattach this artifact and sacrifice it, Activate only as a sorcery: This artifact deals 2 damage to any target.
+Equip 1</text>
 </card>
 <card>
  <name>Aggravated Crawler</name>
@@ -3067,9 +3066,9 @@ This creature gets +1/+1 for each other permanent you control that shares a name
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Island Mountain </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add U or R.)
+ <text>T: Add U or R.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3078,9 +3077,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Swamp Forest </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add B or G.)
+ <text>T: Add B or G.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3089,9 +3088,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Mountain Plains </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add R or W.)
+ <text>T: Add R or W.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3100,9 +3099,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Forest Island </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add G or U.)
+ <text>T: Add G or U.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3111,9 +3110,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Plains Swamp </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add W or B.)
+ <text>T: Add W or B.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3208,9 +3207,9 @@ If another non-Human creature you control would die, mutate it under this creatu
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Plains Island </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add W or U.)
+ <text>T: Add W or U.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3219,9 +3218,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Island Swamp </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add U or B.)
+ <text>T: Add U or B.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3230,9 +3229,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Swamp Mountain </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add B or R.)
+ <text>T: Add B or R.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3241,9 +3240,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Mountain Forest </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add R or G.)
+ <text>T: Add R or G.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3252,9 +3251,9 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <color></color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land - Forest Plains </type>
+ <type>Land</type>
  <tablerow>0</tablerow>
- <text>(T: Add G or W.)
+ <text>T: Add G or W.
 As long as you have 17 or less life, this land enters tapped.</text>
 </card>
 <card>
@@ -3268,7 +3267,7 @@ As long as you have 17 or less life, this land enters tapped.</text>
  <text>
 (As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
 1 Low Tide
-You draw three cards and gain 3 life.
+You draw two cards and gain 2 life.
 2 Mid Tide
 Create two 2/1 white Merfolk Soldier creature tokens with dive 3.
 3 High Tide
@@ -3285,6 +3284,34 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text>Ferocious — At the beginning of your upkeep, reveal the top card of your library. If you control a creature with power 4 or greater, put that card into your hand. Otherwise, you lose life equal to its mana value, then put it into your hand.</text>
 </card>
+<card>
+ <name>Hadanu's Command</name>
+ <set rarity="rare">YNE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose two —
+• Create two 1/1 red Human Survivor tokens.
+• Exile target creature, then return it to the battlefield under its owner’s control.
+• Search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle.
+• Return target creature with mana value 2 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Vidus's Command</name>
+ <set rarity="rare">YNE</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose two —
+• Destroy up to one target artifact and up to one target enchantment.
+• Exile target player’s graveyard. You gain 3 life.
+• Search your library for a land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control deals damage equal to its power to target creature you don’t control.</text>
+</card>
 
 <!-->Tokens</-->
 
@@ -3297,8 +3324,10 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
-<reverse-related>Telson-Clan Matron</reverse-related>
+<reverse-related count="2">Telson-Clan Matron</reverse-related>
 <reverse-related>Population Boom</reverse-related>
+<reverse-related>Homarid Spawning Grounds</reverse-related>
+<reverse-related>Ego Donor</reverse-related>
 
 </card>
 <card>
@@ -3310,13 +3339,13 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
-<reverse-related count="2">Resolute Vestiges</reverse-related>
+<reverse-related count="2">Hadanu's Command</reverse-related>
 <reverse-related>Roundabout Trip</reverse-related>
 <reverse-related>Scavenger Team</reverse-related>
 <reverse-related>New Vargoth Submarine</reverse-related>
-<reverse-related count="2">Fellowship Figurehead</reverse-related>
-<reverse-related count="2">Purposeful Charge</reverse-related>
+<reverse-related count="2">Resolute Vestiges</reverse-related>
 <reverse-related>Merelisene Deserter</reverse-related>
+<reverse-related count="2">Purposeful Charge</reverse-related>
 
 </card>
 <card>
@@ -3330,9 +3359,10 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <token>1</token>
 <reverse-related>Accomplished Mentor</reverse-related>
 <reverse-related>Growing Paranoia</reverse-related>
-<reverse-related>Ranera's Command</reverse-related>
-<reverse-related>Ranera's Crusade</reverse-related>
-<reverse-related>Orchestrated War</reverse-related>
+<reverse-related count="2">Ranera's Command</reverse-related>
+<reverse-related count="2">Ranera's Crusade</reverse-related>
+<reverse-related count="2">Orchestrated War</reverse-related>
+<reverse-related>Manufactured Fears</reverse-related>
 
 </card>
 <card>
@@ -3344,14 +3374,13 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
-<reverse-related count="2">Benthic Wanderer</reverse-related>
-<reverse-related count="2">Vivien's Journal</reverse-related>
-<reverse-related>Pacifying Rays</reverse-related>
 <reverse-related>Atlista Cutthroat</reverse-related>
+<reverse-related count="2">Chemosynthesis</reverse-related>
 <reverse-related>School Swarming</reverse-related>
+<reverse-related count="2">Benthic Wanderer</reverse-related>
 <reverse-related count="2">Irreconcilable Rebirth</reverse-related>
-<reverse-related count="2">Depths-Stricken Monster</reverse-related>
-<reverse-related>Chemosynthesis</reverse-related>
+<reverse-related>Pacifying Rays</reverse-related>
+<reverse-related count="2">Vivien's Journal</reverse-related>
 
 </card>
 <card>
@@ -3363,9 +3392,9 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text>When this creature dies, draw a card if it was mutated.</text>
  <token>1</token>
-<reverse-related>Oyster Spawning Grounds</reverse-related>
 <reverse-related>Dwimmersea Initiation</reverse-related>
 <reverse-related>Erratic Substitution</reverse-related>
+<reverse-related>Control of the Chaos</reverse-related>
 
 </card>
 <card>
@@ -3376,7 +3405,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>1</tablerow>
  <text>Whenever a creature you control dies, you may sacrifice this. If you do, each opponent loses 1 life.</text>
  <token>1</token>
-<reverse-related>Scion of the Depths</reverse-related>
+<reverse-related>Worldmaw Ingress</reverse-related>
 <reverse-related>Sway of the Depths</reverse-related>
 
 </card>
@@ -3402,7 +3431,6 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <text>This creature is every non-Human creature type.</text>
  <token>1</token>
 <reverse-related>Unnatural Nascency</reverse-related>
-<reverse-related>Form of the Faceless</reverse-related>
 <reverse-related>Awoken Remembrance</reverse-related>
 <reverse-related>Caller of the Extraordinary</reverse-related>
 

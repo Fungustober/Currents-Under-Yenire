@@ -540,12 +540,12 @@
 	        }
 	    },
 	    {
-	        "name": "Duress",
+	        "name": "Manufactured Fears",
 	        "rarity": "common",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Duress.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Manufactured%20Fears.png?raw=true"
 	        }
 	    },
 	    {
@@ -576,12 +576,12 @@
 	        }
 	    },
 	    {
-	        "name": "Crush Mind",
+	        "name": "Drown the Mind",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Crush%20Mind.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Drown%20the%20Mind.png?raw=true"
 	        }
 	    },
 	    {
@@ -1062,12 +1062,12 @@
 	        }
 	    },
 	    {
-	        "name": "Despise",
+	        "name": "Lifelong Hatred",
 	        "rarity": "uncommon",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Despise.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Lifelong%20Hatred.png?raw=true"
 	        }
 	    },
 	    {
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ebbing of the Mind",
+	        "name": "Atlistan Interrogation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Enchantment — Tide ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Ebbing%20of%20the%20Mind.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Atlistan%20Interrogation.png?raw=true"
 	        }
 	    },
 	    {
@@ -1461,7 +1461,7 @@
 	        "name": "Coordinated Scavenging",
 	        "rarity": "rare",
 	        "mana_cost": "{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Coordinated%20Scavenging.png?raw=true"
 	        }
@@ -2361,7 +2361,7 @@
 	        "name": "Warped Lagoon",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Island Mountain ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Warped%20Lagoon.png?raw=true"
 	        }
@@ -2370,7 +2370,7 @@
 	        "name": "Murky Bog",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Swamp Forest ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Murky%20Bog.png?raw=true"
 	        }
@@ -2379,7 +2379,7 @@
 	        "name": "Staggering Overlook",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Mountain Plains ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Staggering%20Overlook.png?raw=true"
 	        }
@@ -2388,7 +2388,7 @@
 	        "name": "Leafy Refuge",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Forest Island ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Leafy%20Refuge.png?raw=true"
 	        }
@@ -2397,7 +2397,7 @@
 	        "name": "Neglected Prison",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Plains Swamp ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Neglected%20Prison.png?raw=true"
 	        }
@@ -2472,7 +2472,7 @@
 	        "name": "Seagrass Prairie",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Plains Island ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Seagrass%20Prairie.png?raw=true"
 	        }
@@ -2481,7 +2481,7 @@
 	        "name": "Flooded Chasm",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Island Swamp ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Flooded%20Chasm.png?raw=true"
 	        }
@@ -2490,7 +2490,7 @@
 	        "name": "Volcanic Cascade",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Swamp Mountain ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Volcanic%20Cascade.png?raw=true"
 	        }
@@ -2499,7 +2499,7 @@
 	        "name": "Peculiar Growth",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Mountain Forest ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Peculiar%20Growth.png?raw=true"
 	        }
@@ -2508,7 +2508,7 @@
 	        "name": "Vibrant Habitat",
 	        "rarity": "rare",
 	        "mana_cost": "",
-	        "type": "Land — Forest Plains ",
+	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Vibrant%20Habitat.png?raw=true"
 	        }
@@ -2529,6 +2529,24 @@
 	        "type": "Creature — Nightmare Warlock ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Depths-Mage%20Savant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hadanu's Command",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hadanu%27s%20Command.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vidus's Command",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Vidus%27s%20Command.png?raw=true"
 	        }
 	    }
 	]
@@ -2588,6 +2606,8 @@
 		2 Worldmaw Ingress
 		2 Ranera's Crusade
 		2 Depths-Mage Savant
+		2 Hadanu's Command
+		2 Vidus's Command
 		1 Ranera, Devious Advisor
 		1 Pelagic Dreadnought
 		1 That Which Dwells in the Deep
@@ -2618,7 +2638,7 @@
 		3 Solemn Conversation
 		3 Abyssal Growth
 		3 Amorphous Helm
-		3 Despise
+		3 Lifelong Hatred
 		3 Atlistan Historian
 		3 Waterbarrens Castaway
 		3 Null-Song Soloist
@@ -2639,7 +2659,7 @@
 		3 Scion of the Depths
 		3 End of Identity
 		3 Sway of the Depths
-		3 Ebbing of the Mind
+		3 Atlistan Interrogation
 		3 Formidable Piranhas
 		3 New Vargoth Junker
 		3 Form-Anarchy Nautilus
@@ -2714,10 +2734,10 @@
 		6 Tidehopper Regent
 		6 Homarid Arcanist
 		6 Negate
-		6 Duress
+		6 Manufactured Fears
 		6 Bloodthirsty Squid
 		6 Mentor's Blood
-		6 Crush Mind
+		6 Drown the Mind
 		6 Deadly Deceit
 		6 Depths-Stricken Monster
 		6 Ranera's Enforcer
@@ -2816,3 +2836,4 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
+	
