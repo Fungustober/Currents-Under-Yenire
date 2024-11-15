@@ -1608,7 +1608,7 @@ Remove all +1/+1 counters from target creature you control with the greatest pow
  <cmc>5</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>For each nonland permanent type, each player chooses a permanent they control of that type. Then each player sacrifices the rest of the nonland permanents they control.</text>
+ <text>For each permanent type, each player chooses a permanent they control of that type, then sacrifices the rest of the nonbasic permanents they control.</text>
 </card>
 <card>
  <name>Wreckfields Moray</name>
@@ -1992,15 +1992,14 @@ At the beginning of each end step, if no creatures are on the battlefield, sacri
 Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Survivor Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
- <name>Consuming Charge</name>
+ <name>Unleash Fury</name>
  <set rarity="uncommon">YNE</set>
  <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
- <type>Sorcery</type>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
  <tablerow>3</tablerow>
- <text>As an additional cost to cast this spell, you may sacrifice a creature.
-If this spell’s additional cost was paid, choose a creature you control. It gets +4/+0 and gains menace until end of turn. Otherwise, creatures you control get +2/+0 until end of turn.</text>
+ <text>Double the power of target creature until end of turn.</text>
 </card>
 <card>
  <name>Encroaching Flow</name>
@@ -2376,9 +2375,9 @@ Whenever a creature an opponent controls dies, if it was dealt damage by a creat
  <color>WR</color>
  <manacost>2R/WR/W</manacost>
  <cmc>4</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>Whenever a player casts a creature spell, each other player may put a creature card from their hand onto the battlefield tapped.</text>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each nonland permanent deals damage equal to its mana value to its controller unless that player sacrifices it.</text>
 </card>
 <card>
  <name>Chyklis, Rostrum-Clan Onolich</name>
@@ -3324,10 +3323,10 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
+<reverse-related>Ego Donor</reverse-related>
+<reverse-related>Homarid Spawning Grounds</reverse-related>
 <reverse-related count="2">Telson-Clan Matron</reverse-related>
 <reverse-related>Population Boom</reverse-related>
-<reverse-related>Homarid Spawning Grounds</reverse-related>
-<reverse-related>Ego Donor</reverse-related>
 
 </card>
 <card>
@@ -3359,10 +3358,10 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <token>1</token>
 <reverse-related>Accomplished Mentor</reverse-related>
 <reverse-related>Growing Paranoia</reverse-related>
+<reverse-related>Manufactured Fears</reverse-related>
 <reverse-related count="2">Ranera's Command</reverse-related>
 <reverse-related count="2">Ranera's Crusade</reverse-related>
 <reverse-related count="2">Orchestrated War</reverse-related>
-<reverse-related>Manufactured Fears</reverse-related>
 
 </card>
 <card>
@@ -3392,9 +3391,9 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text>When this creature dies, draw a card if it was mutated.</text>
  <token>1</token>
+<reverse-related>Control of the Chaos</reverse-related>
 <reverse-related>Dwimmersea Initiation</reverse-related>
 <reverse-related>Erratic Substitution</reverse-related>
-<reverse-related>Control of the Chaos</reverse-related>
 
 </card>
 <card>
@@ -3430,9 +3429,9 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <tablerow>2</tablerow>
  <text>This creature is every non-Human creature type.</text>
  <token>1</token>
-<reverse-related>Unnatural Nascency</reverse-related>
-<reverse-related>Awoken Remembrance</reverse-related>
 <reverse-related>Caller of the Extraordinary</reverse-related>
+<reverse-related>Awoken Remembrance</reverse-related>
+<reverse-related>Unnatural Nascency</reverse-related>
 
 </card>
 <card>

@@ -1530,12 +1530,12 @@
 	        }
 	    },
 	    {
-	        "name": "Consuming Charge",
+	        "name": "Unleash Fury",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Consuming%20Charge.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Unleash%20Fury.png?raw=true"
 	        }
 	    },
 	    {
@@ -1812,7 +1812,7 @@
 	        "name": "Hadanu's Arbitration",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R/W}{R/W}",
-	        "type": "Enchantment",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Hadanu%27s%20Arbitration.png?raw=true"
 	        }
@@ -2665,7 +2665,7 @@
 		3 Form-Anarchy Nautilus
 		3 Burning Blood
 		3 New Vargoth Submarine
-		3 Consuming Charge
+		3 Unleash Fury
 		3 Encroaching Flow
 		3 Scavengers' Preparations
 		3 School Swarming
