@@ -148,7 +148,7 @@ Whenever this creature and two or more other creatures attack, it gets +2/+0 unt
  <type>Creature - Homarid Warrior </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>As this creature enters, it gains the creature name of your choice. 
+ <text>As this creature enters, it gains the creature name of your choice. (You may choose a creature token name.)
 As long as you control three or more creatures that share a name, this creature gets +2/+1.</text>
 </card>
 <card>
@@ -696,7 +696,7 @@ This creature can’t be blocked.</text>
  <type>Creature - Homarid Wizard </type>
  <pt>3/4</pt>
  <tablerow>2</tablerow>
- <text>As this creature enters, it gains the creature name of your choice.
+ <text>As this creature enters, it gains the creature name of your choice. (You may choose a creature token name.)
 Creatures you control that share a name with this creature have dive 2.  (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
@@ -1709,7 +1709,7 @@ Scry 1, then choose a card name.
 2 Mid Tide
 The next spell you cast this turn with one of the chosen names costs 1 less to cast.
 3 High Tide
-Until end of turn, creatures you control with the chosen names get +1/+1 and have dive 0. (0: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
+Until end of turn, creatures you control with the chosen names get +1/+1 and have dive 1. (1: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
  <name>Ephemeral Hammerhead</name>
@@ -2399,7 +2399,7 @@ Whenever a creature an opponent controls dies, if it was dealt damage by a creat
  <type>Creature - Homarid Shapeshifter </type>
  <pt>0/0</pt>
  <tablerow>2</tablerow>
- <text>This creature enters as a copy of any creature on the battlefield, except it’s also named Homarid Formstealer and has “Each other creature you control that shares a name with this creature have ward 1.”</text>
+ <text>This creature enters as a copy of any creature on the battlefield, except it’s also named Homarid Formstealer and has “Each other creature you control that shares a name with this creature has ward 1.”</text>
 </card>
 <card>
  <name>Dactylus-Clan Titan</name>
