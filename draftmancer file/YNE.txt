@@ -540,12 +540,12 @@
 	        }
 	    },
 	    {
-	        "name": "Manufactured Fears",
+	        "name": "Duress",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Manufactured%20Fears.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Duress.png?raw=true"
 	        }
 	    },
 	    {
@@ -1116,12 +1116,12 @@
 	        }
 	    },
 	    {
-	        "name": "Homarid Breeding Ground",
+	        "name": "Homarid Hideaway",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Breeding%20Ground.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Homarid%20Hideaway.png?raw=true"
 	        }
 	    },
 	    {
@@ -1395,12 +1395,12 @@
 	        }
 	    },
 	    {
-	        "name": "Atlista Cutthroat",
+	        "name": "Atlistan Cutthroat",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Atlista%20Cutthroat.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Atlistan%20Cutthroat.png?raw=true"
 	        }
 	    },
 	    {
@@ -1640,7 +1640,7 @@
 	    {
 	        "name": "Altered Cycle",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{1}{G}{G}",
 	        "type": "Enchantment — Tide ",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Altered%20Cycle.png?raw=true"
@@ -1719,12 +1719,12 @@
 	        }
 	    },
 	    {
-	        "name": "Control of the Chaos",
+	        "name": "Control the Chaos",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Control%20of%20the%20Chaos.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Control%20the%20Chaos.png?raw=true"
 	        }
 	    },
 	    {
@@ -2063,7 +2063,7 @@
 	    {
 	        "name": "Derelict Riches",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Derelict%20Riches.png?raw=true"
@@ -2587,7 +2587,7 @@
 		2 Mage-Guard Exemplar
 		2 Atlistan Tariff
 		2 Jellyfire
-		2 Control of the Chaos
+		2 Control the Chaos
 		2 Ustaran Conjuring
 		2 Aqueous Epiphany
 		2 Leader of Shoals
@@ -2655,7 +2655,7 @@
 		3 Rouse the Clan
 		3 Autonymic Genesis
 		3 Hadal-Deep Stalker
-		3 Atlista Cutthroat
+		3 Atlistan Cutthroat
 		3 Scion of the Depths
 		3 End of Identity
 		3 Sway of the Depths
@@ -2734,7 +2734,7 @@
 		6 Tidehopper Regent
 		6 Homarid Arcanist
 		6 Negate
-		6 Manufactured Fears
+		6 Duress
 		6 Bloodthirsty Squid
 		6 Mentor's Blood
 		6 Drown the Mind
@@ -2791,6 +2791,11 @@
 		6 Derelict Overseer
 		6 Seafloor Wanderers
 		6 Thrashing Oarfish
+		6 Guard Station
+		6 Dwimmersea Hoard
+		6 Waterbarrens Ruin
+		6 Survivors' Hideout
+		6 Homarid Hideaway
 		6 Abandoned Implement
 		6 Ancestor-Blessed Blade
 		6 Favor of the the Depths
@@ -2815,7 +2820,7 @@
 		12 Dwimmersea Hoard
 		12 Waterbarrens Ruin
 		12 Survivors' Hideout
-		12 Homarid Breeding Ground
+		12 Homarid Hideaway
 		4 Bad River
 		4 Flood Plain
 		4 Grasslands
@@ -2836,4 +2841,3 @@
 		1 Flooded Chasm
 		1 Seagrass Prairie
 		1 Peculiar Growth
-	

@@ -18,7 +18,7 @@
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
  <text>As this artifact enters, choose a creature card name.
-Equipped creature gets +2/+2 has the chosen name in addition to its other names.
+Equipped creature gets +2/+2 and has the chosen name in addition to its other names.
 Equip 2</text>
 </card>
 <card>
@@ -710,15 +710,14 @@ Creatures you control that share a name with this creature have dive 2.  (2: Unt
  <text>Counter target noncreature spell.</text>
 </card>
 <card>
- <name>Manufactured Fears</name>
+ <name>Duress</name>
  <set rarity="common">YNE</set>
  <color>B</color>
- <manacost>2B</manacost>
- <cmc>3</cmc>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
-Create a 2/1 white Merfolk Soldier creature token with dive 3. (3: Until end of turn, it can only block or be blocked by creatures that are diving or have reach.)</text>
+ <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
 </card>
 <card>
  <name>Bloodthirsty Squid</name>
@@ -814,7 +813,7 @@ Draw a card. If this spell’s additional cost was paid, draw two cards instead.
  <type>Enchantment - Aura Influence </type>
  <tablerow>1</tablerow>
  <text>Enchant creature
-When enchanted creature dies or is put into exile, return it to the battlefield tapped with a +1/+1 counter. Each opponent loses 1 life.</text>
+When enchanted creature dies or is put into exile, return it to the battlefield under its owner’s control tapped with a +1/+1 counter. Each opponent loses 1 life.</text>
 </card>
 <card>
  <name>Orcish Stalwart</name>
@@ -1118,7 +1117,7 @@ Whenever this creature mutates, reveal the top three cards of your library. Put 
  <type>Creature - Zombie Fish Horror </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Spells you cast and activated abilities of permanents you control that target this creature cost 1 less to cast or activate.</text>
+ <text>Spells you cast and activated abilities of permanents you control that target this creature cost 1 less to cast or activate. This effect can’t reduce the mana in that cost to less than one mana.</text>
 </card>
 <card>
  <name>Benthic Wanderer</name>
@@ -1415,7 +1414,7 @@ T: Add R or W.
 2RW, T, Sacrifice this land: Draw a card.</text>
 </card>
 <card>
- <name>Homarid Breeding Ground</name>
+ <name>Homarid Hideaway</name>
  <set rarity="common">YNE</set>
  <color></color>
  <manacost></manacost>
@@ -1573,7 +1572,7 @@ Token creatures you control get +1/+1 and gain vigilance until end of turn.</tex
  <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Choose up to two creatures you control. The rest phase out. (Treat them and anything attached to them as though they don’t exist until your next turn.)</text>
+ <text>Choose up to two creatures you control. Each other creature you control phases out. (Treat them and anything attached to them as though they don’t exist until your next turn.)</text>
 </card>
 <card>
  <name>Way of Life</name>
@@ -1708,9 +1707,9 @@ Shuffle your graveyard into your library, then draw a card.</text>
 1 Low Tide
 Scry 1, then choose a card name.
 2 Mid Tide
-The next spell you cast this turn with the chosen names costs 1 less to cast.
+The next spell you cast this turn with one of the chosen names costs 1 less to cast.
 3 High Tide
-Until end of turn, creatures you control with the chosen names get +1/+1 and are diving. (They can only be blocked by creatures that are diving or have reach.)</text>
+Until end of turn, creatures you control with the chosen names get +1/+1 and have dive 0. (0: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)</text>
 </card>
 <card>
  <name>Ephemeral Hammerhead</name>
@@ -1805,7 +1804,7 @@ Whenever this creature deals combat damage to a player, that player discards a c
 Whenever a nontoken creature dies, put a +1/+1 counter on this creature.</text>
 </card>
 <card>
- <name>Atlista Cutthroat</name>
+ <name>Atlistan Cutthroat</name>
  <set rarity="uncommon">YNE</set>
  <color>B</color>
  <manacost>1B</manacost>
@@ -1917,7 +1916,7 @@ Exile the top three cards of your library. You may play them this turn.</text>
 1 Low Tide
 Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
 2-3 High Tide
-Whenever one or more Shapeshifters you control attack, exile the top card of your library. You may play it until end of turn.</text>
+Whenever one or more Shapeshifters you control attack this turn, exile the top card of your library. You may play it until end of turn.</text>
 </card>
 <card>
  <name>Greater Blackrock Hardshell</name>
@@ -2145,16 +2144,16 @@ Whenever this creature is put into a graveyard from anywhere, its owner shuffles
  <name>Altered Cycle</name>
  <set rarity="uncommon">YNE</set>
  <color>G</color>
- <manacost>1G</manacost>
- <cmc>2</cmc>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
  <type>Enchantment - Tide </type>
  <tablerow>1</tablerow>
  <text>
 (As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
-1-2 Low Tide
-Add one mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.
-3 High Tide
-Return target enchantment you control to its owner’s hand.</text>
+1 Low Tide
+Return target enchantment you control to its owner’s hand.
+2-3 High Tide
+Mill cards equal to the number of tide counters on this, then you may return a nonenchantment permanent card from your graveyard to your hand.</text>
 </card>
 <card>
  <name>Harmonious Conflict</name>
@@ -2252,7 +2251,7 @@ Strength in numbers — Whenever another permanent enters under your control, if
 Whenever this creature becomes the target of a spell or ability you control, it gets +2/+0 and gains haste until end of turn.</text>
 </card>
 <card>
- <name>Control of the Chaos</name>
+ <name>Control the Chaos</name>
  <set rarity="rare">YNE</set>
  <color>UR</color>
  <manacost>2UR</manacost>
@@ -2270,7 +2269,7 @@ Mutate costs you pay cost 2 less.</text>
  <cmc>4</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Look at the top five cards of your library. You may cast up to two nonpermanent spells with mana value 3 or less from among them without paying their mana costs. If you do, exile them after they resolve. Put the rest on the bottom of your library in a random order.</text>
+ <text>Look at the top six cards of your library. You may cast up to two nonpermanent spells with mana value 3 or less from among them without paying their mana costs. If you do, exile them after they resolve. Put the rest on the bottom of your library in a random order.</text>
 </card>
 <card>
  <name>Aqueous Epiphany</name>
@@ -2688,12 +2687,13 @@ T: Add one mana of any color for each charge counter on this artifact.
  <name>Derelict Riches</name>
  <set rarity="uncommon">YNE</set>
  <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>This artifact enters with three coin counters on it.
-2, T, Remove a coin counter from this artifact: Scry 1, then draw a card. Then if there are no coin counters on this artifact, sacrifice it. You gain 3 life.</text>
+ <text>T, Put a salvage counter on this artifact: Scry 1.
+1, T, Put a salvage counter on this artifact: Draw a card.
+When there are two or more salvage counters on this artifact, exile it. If you do, you gain 2 life.</text>
 </card>
 <card>
  <name>Waterbarrens Harvester</name>
