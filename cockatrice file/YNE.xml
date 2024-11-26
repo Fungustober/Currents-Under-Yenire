@@ -89,7 +89,7 @@ Haste
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Dive 2 (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
-Ferocious — Whenever this creature deals combat damage to a player, if you control a creature with power 4 or greater, surveil 2.</text>
+Ferocious — Whenever this creature deals combat damage to a player while you control a creature with power 4 or greater, surveil 2.</text>
 </card>
 <card>
  <name>Dactylus-Clan Druid</name>
@@ -728,7 +728,7 @@ Creatures you control that share a name with this creature have dive 2.  (2: Unt
  <type>Creature - Squid </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, this creature gets +1/+1 and gains deathtouch until end of turn.</text>
+ <text>Ferocious — Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +1/+1 and gains deathtouch until end of turn.</text>
 </card>
 <card>
  <name>Abyssal Growth</name>
@@ -1015,7 +1015,7 @@ Ferocious — The creature you control gets +2/+2 until end of turn before it fi
  <cmc>3</cmc>
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
- <text>Ferocious — Whenever equipped creature deals combat damage to a player, if you control a creature with power 4 or greater, destroy up to one target noncreature, nonland permanent.
+ <text>Ferocious — Whenever equipped creature deals combat damage to a player while you control a creature with power 4 or greater, destroy up to one target noncreature, nonland permanent.
 Equipped creature gets +2/+2.
 Equip 3</text>
 </card>
@@ -1128,7 +1128,7 @@ Whenever this creature mutates, reveal the top three cards of your library. Put 
  <type>Creature - Fish </type>
  <pt>3/4</pt>
  <tablerow>2</tablerow>
- <text>Ferocious — Whenever this creature deals combat damage to a player, if you control a creature with power 4 or greater, create two 1/1 green Fish creature tokens.</text>
+ <text>Ferocious — Whenever this creature deals combat damage to a player while you control a creature with power 4 or greater, create two 1/1 green Fish creature tokens.</text>
 </card>
 <card>
  <name>Depthsdraught</name>
@@ -2939,7 +2939,7 @@ Enchanted creature has “Whenever this creature mutates, draw two cards, then d
  <type>Creature - Dragon Fish </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Ferocious — Whenever this creature attacks, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn.</text>
+ <text>Ferocious — Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn.</text>
 </card>
 <card>
  <name>Depths-Mage's Boon</name>
