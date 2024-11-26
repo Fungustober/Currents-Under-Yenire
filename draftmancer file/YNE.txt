@@ -720,12 +720,12 @@
 	        }
 	    },
 	    {
-	        "name": "Fearsome Spineback",
+	        "name": "Fearsome Knifeback",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Fish ",
 	        "image_uris": {
-	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Fearsome%20Spineback.png?raw=true"
+	            "en": "https://github.com/fungustober/Currents-Under-Yenire/blob/main/Fearsome%20Knifeback.png?raw=true"
 	        }
 	    },
 	    {
@@ -2753,7 +2753,7 @@
 		6 Frantic Scavenging
 		6 Shock
 		6 Volcanic Uproaring
-		6 Fearsome Spineback
+		6 Fearsome Knifeback
 		6 Telson-Clan Matron
 		6 Savage Punch
 		6 Bright Future
@@ -2791,11 +2791,6 @@
 		6 Derelict Overseer
 		6 Seafloor Wanderers
 		6 Thrashing Oarfish
-		6 Guard Station
-		6 Dwimmersea Hoard
-		6 Waterbarrens Ruin
-		6 Survivors' Hideout
-		6 Homarid Hideaway
 		6 Abandoned Implement
 		6 Ancestor-Blessed Blade
 		6 Favor of the the Depths

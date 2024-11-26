@@ -924,7 +924,7 @@ Draw two cards.</text>
  <text>This spell deals 4 damage to target creature or planeswalker.</text>
 </card>
 <card>
- <name>Fearsome Spineback</name>
+ <name>Fearsome Knifeback</name>
  <set rarity="common">YNE</set>
  <color>R</color>
  <manacost>1R</manacost>
@@ -1975,7 +1975,7 @@ Whenever this creature deals combat damage to a player, exile up to one target n
  <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Mutate 2RR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
+ <text>Mutate RR (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the permanent on top plus all abilities from under it.)
 At the beginning of each upkeep, this permanent deals 1 damage to each other creature.
 At the beginning of each end step, if no creatures are on the battlefield, sacrifice this permanent.</text>
 </card>
@@ -2248,7 +2248,7 @@ Strength in numbers — Whenever another permanent enters under your control, if
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Dive 2 (2: Until end of turn, this can only block or be blocked by creatures that are diving or have reach.)
-Whenever this creature becomes the target of a spell or ability you control, it gets +2/+0 and gains haste until end of turn.</text>
+Once each turn, whenever this creature becomes the target of a spell or ability you control, you may have it get +2/+0 and gain haste until end of turn.</text>
 </card>
 <card>
  <name>Control the Chaos</name>
@@ -3198,7 +3198,7 @@ When this creature enters, if it was cast, search your library for a nonpermanen
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>This creature gets +1/+1 for each time it has mutated.
-If another non-Human creature you control would die, mutate it under this creature instead.</text>
+If another non-Human creature you control with mutate would die, mutate it under this creature instead.</text>
 </card>
 <card>
  <name>Seagrass Prairie</name>
