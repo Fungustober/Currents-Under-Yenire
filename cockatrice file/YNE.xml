@@ -66,7 +66,7 @@ Haste
  <type>Creature - Merfolk Cleric </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>When this creature enters, create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
+ <text>When this creature enters, create a 2/1 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
 </card>
 <card>
  <name>Ego Donor</name>
@@ -884,13 +884,13 @@ Whenever this creature mutates, it gets +2/+2 until end of turn.</text>
  <name>Explosive Rage</name>
  <set rarity="common">YNE</set>
  <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
  <type>Kindred Enchantment - Orc Aura </type>
  <tablerow>1</tablerow>
- <text>You may cast this spell as though it had flash. If you do, it costs 2R to cast.
+ <text>You may cast this spell as though it had flash. If you do, it costs 1R to cast.
 Enchant creature
-Enchanted creature gets +1/+1 and has first strike.</text>
+Enchanted creature gets +1/+1 and has haste.</text>
 </card>
 <card>
  <name>Frantic Scavenging</name>
@@ -1907,14 +1907,14 @@ Exile the top three cards of your library. You may play them this turn.</text>
  <name>Awoken Remembrance</name>
  <set rarity="rare">YNE</set>
  <color>R</color>
- <manacost>2RR</manacost>
- <cmc>4</cmc>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
  <type>Enchantment - Tide </type>
  <tablerow>1</tablerow>
  <text>
 (As this enters and at the beginning of your upkeep, add a tide counter. If there are more than three, remove all but one.)
 1 Low Tide
-Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
+Create a 2/1 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”
 2-3 High Tide
 Whenever one or more Shapeshifters you control attack this turn, exile the top card of your library. You may play it until end of turn.</text>
 </card>
@@ -2581,7 +2581,7 @@ You gain 2 life.</text>
  <text>When this creature enters, search your library for an Orc or Survivor card, reveal it, put it into your hand, then shuffle.</text>
 </card>
 <card>
- <name>Survivors' Hospitality</name>
+ <name>Survivors's Hospitality</name>
  <set rarity="uncommon">YNE</set>
  <color>WR</color>
  <manacost>RW</manacost>
@@ -2990,11 +2990,11 @@ This creature gets +1/+1 for each other permanent you control that shares a name
  <name>Unnatural Nascency</name>
  <set rarity="common">YNE</set>
  <color>WB</color>
- <manacost>1W/BW/B</manacost>
- <cmc>3</cmc>
+ <manacost>W/BW/B</manacost>
+ <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Create a 2/3 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
+ <text>Create a 2/1 colorless Shapeshifter enchantment creature token with “This creature is every non-Human creature type.”</text>
 </card>
 <card>
  <name>Outpost Thaumaturge</name>
@@ -3170,11 +3170,11 @@ At the beginning of your upkeep, you may exile two cards from your graveyard. If
  <name>Allonymous Tyranny</name>
  <set rarity="mythic">YNE</set>
  <color>UBG</color>
- <manacost>1BGU</manacost>
- <cmc>4</cmc>
+ <manacost>3BGU</manacost>
+ <cmc>6</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Choose a creature name. Up to one target creature gains that name, then you gain control of all creatures with the chosen name.</text>
+ <text>Choose a creature card name. Target creature gains that name, then you gain control of all creatures with the chosen name.</text>
 </card>
 <card>
  <name>Ustaran Spell Hunter</name>
@@ -3425,7 +3425,7 @@ Creatures you don’t control get -2/-2 until end of turn. If a creature would d
  <set>YNE</set>
  <color></color>
  <type>Token Enchantment Creature - Shapeshifter </type>
- <pt>2/3</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>This creature is every non-Human creature type.</text>
  <token>1</token>
